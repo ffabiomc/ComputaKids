@@ -1,12 +1,12 @@
 <?php
 declare(strict_types=1);
-use ComputaKids\{Database,Security,Auth,Teachers};
+use ComputaKids\{Database,Security,Auth,Teachers,Classroom};
 header('Content-Type: text/html; charset=UTF-8');
 header('Cache-Control: no-store');
 $root=dirname(__DIR__);
 if(!is_file($root.'/config/local.php')){header('Location: install.php');exit;}
 if(empty($_SERVER['HTTPS'])||$_SERVER['HTTPS']==='off'){http_response_code(403);exit('HTTPS obrigatório.');}
-foreach(['Database','Security','Auth','Teachers'] as $class)require $root.'/app/'.$class.'.php';
+foreach(['Database','Security','Auth','Teachers','Classroom'] as $class)require $root.'/app/'.$class.'.php';
 Security::start();
 try{$db=Database::connect(require $root.'/config/local.php');}catch(Throwable $e){http_response_code(503);exit('Serviço temporariamente indisponível.');}
 $auth=new Auth($db);$u=$auth->current();$error='';
@@ -26,6 +26,15 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
    if($action==='create')$teachers->create(trim((string)($_POST['name']??'')),trim((string)($_POST['login']??'')),trim((string)($_POST['email']??'')),(string)($_POST['password']??''));
    elseif(in_array($action,['suspend','activate'],true))$teachers->status((int)($_POST['id']??0),$action==='activate');
    else throw new RuntimeException('Operação inválida.');
+  }elseif($u&&$u['papel']==='professor'&&!$u['trocar_senha']){
+   $classroom=new Classroom($db,$u);
+   switch($action){
+    case 'class_save': $classroom->saveClass((int)($_POST['id']??0),trim((string)($_POST['name']??'')),(int)($_POST['grade']??-1),(int)($_POST['year']??0));break;
+    case 'class_archive':case 'class_restore':$classroom->archive((int)($_POST['id']??0),$action==='class_archive');break;
+    case 'student_create':$classroom->createStudent(trim((string)($_POST['name']??'')),trim((string)($_POST['login']??'')),(string)($_POST['password']??''),(int)($_POST['class']??0));break;
+    case 'enroll':case 'unenroll':$student=(int)($_POST['student']??0);$class=(int)($_POST['class']??0);if($action==='enroll')$classroom->enroll($student,$class);else $classroom->unenroll($student,$class);break;
+    default:throw new RuntimeException('Operação inválida.');
+   }
   }else throw new RuntimeException('Acesso negado.');
   header('Location: index.php',true,303);exit;
  }catch(Throwable $e){$error='Não foi possível concluir a operação. Verifique os dados e tente novamente.';}
@@ -36,4 +45,5 @@ function token():void{echo '<input type="hidden" name="csrf" value="'.h(Security
 <?php else:?><section><h1>Olá, <?=h($u['nome'])?></h1><form method="post"><?php token();?><button name="action" value="logout">Sair</button></form></section>
 <?php if($u['trocar_senha']):?><section><h2>Altere sua senha inicial</h2><form method="post"><?php token();?><label>Senha atual<input type="password" name="old" required></label><label>Nova senha<input type="password" name="new" minlength="12" required></label><button name="action" value="password">Salvar</button></form></section>
 <?php elseif($u['papel']==='admin'): $rows=(new Teachers($db,$u))->all();?><section><h2>Administração geral</h2><p>Gerenciamento de professores</p><form method="post"><?php token();?><label>Nome<input name="name" required maxlength="180"></label><label>Usuário<input name="login" required maxlength="100"></label><label>E-mail<input name="email" type="email" required></label><label>Senha inicial<input name="password" type="password" minlength="12" required></label><button name="action" value="create">Cadastrar professor</button></form></section><section><h2>Professores cadastrados</h2><div class="scroll"><table><thead><tr><th>Nome</th><th>Usuário</th><th>Turmas</th><th>Alunos</th><th>Situação</th><th>Ação</th></tr></thead><tbody><?php foreach($rows as $r):?><tr><td><?=h($r['nome'])?></td><td><?=h($r['login'])?></td><td><?=h($r['turmas'])?></td><td><?=h($r['alunos'])?></td><td><?=h($r['status'])?></td><td><form method="post"><?php token();?><input type="hidden" name="id" value="<?=h($r['id'])?>"><button name="action" value="<?=$r['status']==='ativo'?'suspend':'activate'?>"><?=$r['status']==='ativo'?'Suspender':'Reativar'?></button></form></td></tr><?php endforeach;?></tbody></table></div></section>
+<?php elseif($u['papel']==='professor'):require $root.'/app/views/teacher.php';?>
 <?php else:?><section><h2>Painel <?=h($u['papel'])?></h2><p>Novos módulos em desenvolvimento.</p></section><?php endif;endif;?></main></body></html>
