@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD']==='POST') {
    if (is_file($target)) throw new RuntimeException('Já instalado.');
    $pdo=Database::connect($config);
    if ($pdo->query('SHOW TABLES')->fetchColumn()!==false) throw new RuntimeException('Use um banco vazio e exclusivo.');
-   foreach (['001_identity.sql','002_student_access.sql'] as $migration) {
+   foreach (['001_identity.sql','002_student_access.sql','003_rate_limits.sql'] as $migration) {
    $sql=file_get_contents($root.'/database/migrations/'.$migration);
    if ($sql===false) throw new RuntimeException('Migração indisponível.');
    foreach (explode(';',preg_replace('/^--.*$/m','',$sql)) as $statement) if (trim($statement)!=='') $pdo->exec($statement);
