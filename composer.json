@@ -1,0 +1,19 @@
+{
+  "name": "ffabiomc/computakids",
+  "description": "Plataforma educacional gratuita",
+  "type": "project",
+  "require": {
+    "php": ">=8.3",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ComputaKids\\": "app/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
