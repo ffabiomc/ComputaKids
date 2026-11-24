@@ -9369,5 +9369,1040 @@
       "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
       "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
+  },
+  {
+    "id": "robo-decisoes",
+    "titulo": "Robô das decisões",
+    "ano": 3,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Leia a situação e escolha o resultado correto.",
+    "habilidade": "EF03CO02",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; criação de algoritmos complementada em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decisoes",
+    "url": "decisoes.html?id=robo-decisoes",
+    "desafios": [
+      {
+        "enunciado": "SE há obstáculo, então desviar; SENÃO avançar.\nSensor: condição verdadeira.",
+        "resposta": "desviar",
+        "opcoes": [
+          "desviar",
+          "avançar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a caixa está cheia, então fechar; SENÃO colocar objeto.\nSensor: condição falsa.",
+        "resposta": "colocar objeto",
+        "opcoes": [
+          "fechar",
+          "colocar objeto"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a porta está aberta, então entrar; SENÃO esperar.\nSensor: condição verdadeira.",
+        "resposta": "entrar",
+        "opcoes": [
+          "entrar",
+          "esperar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a bateria está baixa, então recarregar; SENÃO continuar.\nSensor: condição falsa.",
+        "resposta": "continuar",
+        "opcoes": [
+          "recarregar",
+          "continuar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE o chão está molhado, então parar; SENÃO andar.\nSensor: condição verdadeira.",
+        "resposta": "parar",
+        "opcoes": [
+          "parar",
+          "andar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE há obstáculo, então desviar; SENÃO avançar.\nSensor: condição falsa.",
+        "resposta": "avançar",
+        "opcoes": [
+          "desviar",
+          "avançar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a caixa está cheia, então fechar; SENÃO colocar objeto.\nSensor: condição verdadeira.",
+        "resposta": "fechar",
+        "opcoes": [
+          "fechar",
+          "colocar objeto"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a porta está aberta, então entrar; SENÃO esperar.\nSensor: condição falsa.",
+        "resposta": "esperar",
+        "opcoes": [
+          "entrar",
+          "esperar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a bateria está baixa, então recarregar; SENÃO continuar.\nSensor: condição verdadeira.",
+        "resposta": "recarregar",
+        "opcoes": [
+          "recarregar",
+          "continuar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE o chão está molhado, então parar; SENÃO andar.\nSensor: condição falsa.",
+        "resposta": "andar",
+        "opcoes": [
+          "parar",
+          "andar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE há obstáculo, então desviar; SENÃO avançar.\nSensor: condição verdadeira.",
+        "resposta": "desviar",
+        "opcoes": [
+          "desviar",
+          "avançar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a caixa está cheia, então fechar; SENÃO colocar objeto.\nSensor: condição falsa.",
+        "resposta": "colocar objeto",
+        "opcoes": [
+          "fechar",
+          "colocar objeto"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a porta está aberta, então entrar; SENÃO esperar.\nSensor: condição verdadeira.",
+        "resposta": "entrar",
+        "opcoes": [
+          "entrar",
+          "esperar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE a bateria está baixa, então recarregar; SENÃO continuar.\nSensor: condição falsa.",
+        "resposta": "continuar",
+        "opcoes": [
+          "recarregar",
+          "continuar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      },
+      {
+        "enunciado": "SE o chão está molhado, então parar; SENÃO andar.\nSensor: condição verdadeira.",
+        "resposta": "parar",
+        "opcoes": [
+          "parar",
+          "andar"
+        ],
+        "explicacao": "A condição determina qual instrução executar."
+      }
+    ],
+    "guia": "Interpretar decisões como preparação para algoritmos com repetição. Em duplas, representar robô das decisões com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Interpretar decisões como preparação para algoritmos com repetição."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Em duplas, representar robô das decisões com cartões de condições e instruções; trocar papéis e criar uma situação inédita."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite obrigatório de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Criar e simular uma regra em dupla."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explicar a condição, prever o resultado e resolver um exemplo novo."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Interpretar decisões como preparação para algoritmos com repetição.",
+      "evidencia": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "limite": "O jogo avalia respostas; a criação de algoritmos requer atividade complementar.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Em duplas, representar robô das decisões com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+      "criteriosAvaliacao": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral, tempo livre e cartões textuais.",
+      "testesFuncionais": "Roteiro pendente no navegador: testar resposta incorreta, correção, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+      "pagina": 18,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "caminhos-condicionais",
+    "titulo": "Caminhos condicionais",
+    "ano": 3,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Leia a situação e escolha o resultado correto.",
+    "habilidade": "EF03CO02",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; criação de algoritmos complementada em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decisoes",
+    "url": "decisoes.html?id=caminhos-condicionais",
+    "desafios": [
+      {
+        "enunciado": "Posição inicial: 0. Destino: 2. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "2",
+        "opcoes": [
+          "1",
+          "2",
+          "3"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 1. Destino: 4. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "3",
+        "opcoes": [
+          "2",
+          "3",
+          "4"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 2. Destino: 6. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "4",
+        "opcoes": [
+          "3",
+          "4",
+          "5"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 0. Destino: 5. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "5",
+        "opcoes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 1. Destino: 7. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "6",
+        "opcoes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 2. Destino: 4. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "2",
+        "opcoes": [
+          "1",
+          "2",
+          "3"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 0. Destino: 3. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "3",
+        "opcoes": [
+          "2",
+          "3",
+          "4"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 1. Destino: 5. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "4",
+        "opcoes": [
+          "3",
+          "4",
+          "5"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 2. Destino: 7. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "5",
+        "opcoes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 0. Destino: 6. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "6",
+        "opcoes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 1. Destino: 3. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "2",
+        "opcoes": [
+          "1",
+          "2",
+          "3"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 2. Destino: 5. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "3",
+        "opcoes": [
+          "2",
+          "3",
+          "4"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 0. Destino: 4. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "4",
+        "opcoes": [
+          "3",
+          "4",
+          "5"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 1. Destino: 6. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "5",
+        "opcoes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      },
+      {
+        "enunciado": "Posição inicial: 2. Destino: 8. Enquanto não chegar ao destino, avance uma casa. Quantos avanços?",
+        "resposta": "6",
+        "opcoes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "explicacao": "Repita até atingir o destino, não além dele."
+      }
+    ],
+    "guia": "Simular repetição até alcançar um destino. Em duplas, representar caminhos condicionais com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Simular repetição até alcançar um destino."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Em duplas, representar caminhos condicionais com cartões de condições e instruções; trocar papéis e criar uma situação inédita."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite obrigatório de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Criar e simular uma regra em dupla."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explicar a condição, prever o resultado e resolver um exemplo novo."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Simular repetição até alcançar um destino.",
+      "evidencia": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "limite": "O jogo avalia respostas; a criação de algoritmos requer atividade complementar.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Em duplas, representar caminhos condicionais com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+      "criteriosAvaliacao": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral, tempo livre e cartões textuais.",
+      "testesFuncionais": "Roteiro pendente no navegador: testar resposta incorreta, correção, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+      "pagina": 18,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "semaforo-inteligente",
+    "titulo": "Semáforo inteligente",
+    "ano": 3,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Leia a situação e escolha o resultado correto.",
+    "habilidade": "EF03CO02",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; criação de algoritmos complementada em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decisoes",
+    "url": "decisoes.html?id=semaforo-inteligente",
+    "desafios": [
+      {
+        "enunciado": "O sinal fica vermelho por 1 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "1",
+        "opcoes": [
+          "2",
+          "0",
+          "1"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 2 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "2",
+        "opcoes": [
+          "3",
+          "1",
+          "2"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 3 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "3",
+        "opcoes": [
+          "4",
+          "2",
+          "3"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 4 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "4",
+        "opcoes": [
+          "5",
+          "3",
+          "4"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 5 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "4",
+          "5"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 1 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "1",
+        "opcoes": [
+          "2",
+          "0",
+          "1"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 2 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "2",
+        "opcoes": [
+          "3",
+          "1",
+          "2"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 3 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "3",
+        "opcoes": [
+          "4",
+          "2",
+          "3"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 4 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "4",
+        "opcoes": [
+          "5",
+          "3",
+          "4"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 5 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "4",
+          "5"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 1 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "1",
+        "opcoes": [
+          "2",
+          "0",
+          "1"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 2 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "2",
+        "opcoes": [
+          "3",
+          "1",
+          "2"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 3 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "3",
+        "opcoes": [
+          "4",
+          "2",
+          "3"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 4 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "4",
+        "opcoes": [
+          "5",
+          "3",
+          "4"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      },
+      {
+        "enunciado": "O sinal fica vermelho por 5 verificações e depois verde. Enquanto vermelho, espere e verifique novamente. Quantas esperas?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "4",
+          "5"
+        ],
+        "explicacao": "A espera termina quando o sinal muda para verde."
+      }
+    ],
+    "guia": "Simular uma condição de parada. Em duplas, representar semáforo inteligente com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Simular uma condição de parada."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Em duplas, representar semáforo inteligente com cartões de condições e instruções; trocar papéis e criar uma situação inédita."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite obrigatório de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Criar e simular uma regra em dupla."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explicar a condição, prever o resultado e resolver um exemplo novo."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Simular uma condição de parada.",
+      "evidencia": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "limite": "O jogo avalia respostas; a criação de algoritmos requer atividade complementar.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Em duplas, representar semáforo inteligente com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+      "criteriosAvaliacao": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral, tempo livre e cartões textuais.",
+      "testesFuncionais": "Roteiro pendente no navegador: testar resposta incorreta, correção, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+      "pagina": 18,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "missao-verdadeiro-falso",
+    "titulo": "Missão verdadeiro ou falso",
+    "ano": 3,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Leia a situação e escolha o resultado correto.",
+    "habilidade": "EF03CO01",
+    "habilidadeDescricao": "Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; criação de algoritmos complementada em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decisoes",
+    "url": "decisoes.html?id=missao-verdadeiro-falso",
+    "desafios": [
+      {
+        "enunciado": "Um triângulo tem três lados",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "Avalie a sentença sem inverter seu valor."
+      },
+      {
+        "enunciado": "Não é verdade que: Uma semana tem oito dias",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Não é verdade que: O número 4 é par",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Um quadrado tem cinco lados",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "Avalie a sentença sem inverter seu valor."
+      },
+      {
+        "enunciado": "Não é verdade que: Uma bicicleta comum tem duas rodas",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Não é verdade que: Dez é menor que dois",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Um ano tem doze meses",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "Avalie a sentença sem inverter seu valor."
+      },
+      {
+        "enunciado": "Não é verdade que: Uma hora tem dez minutos",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Não é verdade que: O número 7 é ímpar",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Uma dúzia tem seis unidades",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "Avalie a sentença sem inverter seu valor."
+      },
+      {
+        "enunciado": "Não é verdade que: O número 5 é maior que 3",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Não é verdade que: Um dia tem 24 horas",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "O número 2 é ímpar",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "Avalie a sentença sem inverter seu valor."
+      },
+      {
+        "enunciado": "Não é verdade que: Um retângulo tem quatro lados",
+        "resposta": "Falso",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      },
+      {
+        "enunciado": "Não é verdade que: Zero é maior que dez",
+        "resposta": "Verdadeiro",
+        "opcoes": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "explicacao": "A negação inverte o valor da sentença."
+      }
+    ],
+    "guia": "Associar valores lógicos e interpretar negações. Em duplas, representar missão verdadeiro ou falso com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Associar valores lógicos e interpretar negações."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Em duplas, representar missão verdadeiro ou falso com cartões de condições e instruções; trocar papéis e criar uma situação inédita."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite obrigatório de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Criar e simular uma regra em dupla."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explicar a condição, prever o resultado e resolver um exemplo novo."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Associar valores lógicos e interpretar negações.",
+      "evidencia": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "limite": "O jogo avalia respostas; a criação de algoritmos requer atividade complementar.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Em duplas, representar missão verdadeiro ou falso com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+      "criteriosAvaliacao": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral, tempo livre e cartões textuais.",
+      "testesFuncionais": "Roteiro pendente no navegador: testar resposta incorreta, correção, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+      "pagina": 18,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "repetir-ate-conseguir",
+    "titulo": "Repetir até conseguir",
+    "ano": 3,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Leia a situação e escolha o resultado correto.",
+    "habilidade": "EF03CO02",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; criação de algoritmos complementada em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decisoes",
+    "url": "decisoes.html?id=repetir-ate-conseguir",
+    "desafios": [
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 3, adicione 1 peça(s). Quantas repetições?",
+        "resposta": "3",
+        "opcoes": [
+          "4",
+          "3",
+          "2"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 4, adicione 2 peça(s). Quantas repetições?",
+        "resposta": "2",
+        "opcoes": [
+          "3",
+          "2",
+          "1"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 5, adicione 3 peça(s). Quantas repetições?",
+        "resposta": "2",
+        "opcoes": [
+          "3",
+          "2",
+          "1"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 6, adicione 1 peça(s). Quantas repetições?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "5",
+          "4"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 7, adicione 2 peça(s). Quantas repetições?",
+        "resposta": "4",
+        "opcoes": [
+          "5",
+          "4",
+          "3"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 8, adicione 3 peça(s). Quantas repetições?",
+        "resposta": "3",
+        "opcoes": [
+          "4",
+          "3",
+          "2"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 9, adicione 1 peça(s). Quantas repetições?",
+        "resposta": "9",
+        "opcoes": [
+          "10",
+          "9",
+          "8"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 10, adicione 2 peça(s). Quantas repetições?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "5",
+          "4"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 11, adicione 3 peça(s). Quantas repetições?",
+        "resposta": "4",
+        "opcoes": [
+          "5",
+          "4",
+          "3"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 12, adicione 1 peça(s). Quantas repetições?",
+        "resposta": "11",
+        "opcoes": [
+          "12",
+          "11",
+          "10"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 13, adicione 2 peça(s). Quantas repetições?",
+        "resposta": "7",
+        "opcoes": [
+          "8",
+          "7",
+          "6"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 14, adicione 3 peça(s). Quantas repetições?",
+        "resposta": "5",
+        "opcoes": [
+          "6",
+          "5",
+          "4"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 15, adicione 1 peça(s). Quantas repetições?",
+        "resposta": "15",
+        "opcoes": [
+          "16",
+          "15",
+          "14"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 1 peças na caixa. Enquanto houver menos de 16, adicione 2 peça(s). Quantas repetições?",
+        "resposta": "8",
+        "opcoes": [
+          "9",
+          "8",
+          "7"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      },
+      {
+        "enunciado": "Há 0 peças na caixa. Enquanto houver menos de 17, adicione 3 peça(s). Quantas repetições?",
+        "resposta": "6",
+        "opcoes": [
+          "7",
+          "6",
+          "5"
+        ],
+        "explicacao": "A repetição termina quando a quantidade atinge ou supera a meta."
+      }
+    ],
+    "guia": "Simular repetições condicionais com diferentes incrementos. Em duplas, representar repetir até conseguir com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Simular repetições condicionais com diferentes incrementos."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Em duplas, representar repetir até conseguir com cartões de condições e instruções; trocar papéis e criar uma situação inédita."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite obrigatório de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Criar e simular uma regra em dupla."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explicar a condição, prever o resultado e resolver um exemplo novo."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Simular repetições condicionais com diferentes incrementos.",
+      "evidencia": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "limite": "O jogo avalia respostas; a criação de algoritmos requer atividade complementar.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Em duplas, representar repetir até conseguir com cartões de condições e instruções; trocar papéis e criar uma situação inédita.",
+      "criteriosAvaliacao": "Explicar a condição, prever o resultado e resolver um exemplo novo.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral, tempo livre e cartões textuais.",
+      "testesFuncionais": "Roteiro pendente no navegador: testar resposta incorreta, correção, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+      "pagina": 18,
+      "adequacao": "parcial"
+    }
   }
 ]
