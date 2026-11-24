@@ -1,0 +1,3 @@
+# ComputaKids — plataforma pública
+Hospede somente o conteúdo desta pasta na raiz do site. Não há login, PHP ou banco de dados. Use HTTP(S), não file://, pois o catálogo é carregado via fetch. /professor/ oferece materiais abertos.
+Meta: 1000 atividades, média de 15 minutos, 6–10 por habilidade, sujeita ao mapeamento oficial. O piloto Robô explorador ainda não tem vínculo BNCC validado nem duração homologada. A arquitetura SaaS antiga está preservada em archive-saas e não deve ser publicada.
