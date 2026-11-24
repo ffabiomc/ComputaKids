@@ -1295,5 +1295,189 @@
         "Observe e registre estratégias."
       ]
     ]
+  },
+  {
+    "id": "receitas-ordem",
+    "ano": 1,
+    "titulo": "Pequeno cozinheiro",
+    "descricao": "Organize etapas de receitas simples.",
+    "sequencias": [
+      [
+        "Lavar a fruta",
+        "Descascar a fruta",
+        "Cortar a fruta",
+        "Servir"
+      ],
+      [
+        "Separar pão",
+        "Colocar recheio",
+        "Fechar sanduíche",
+        "Servir"
+      ],
+      [
+        "Pegar copo",
+        "Colocar água",
+        "Adicionar suco concentrado",
+        "Misturar"
+      ]
+    ],
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "etapas",
+    "url": "etapas.html?id=receitas-ordem",
+    "guia": "Use cartões ilustrados ou objetos reais para discutir dependências entre etapas. Aceite alternativas justificadas na discussão.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize etapas de receitas simples."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões de instruções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva sequências com mediação."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare ordens e explique dependências."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Descreva outra tarefa em etapas."
+      ]
+    ]
+  },
+  {
+    "id": "rotina-ordem",
+    "ano": 2,
+    "titulo": "Missão rotina",
+    "descricao": "Organize etapas de tarefas cotidianas.",
+    "sequencias": [
+      [
+        "Pegar escova",
+        "Colocar pasta",
+        "Escovar dentes",
+        "Enxaguar"
+      ],
+      [
+        "Separar papel",
+        "Fazer desenho",
+        "Colorir desenho",
+        "Guardar material"
+      ],
+      [
+        "Abrir mochila",
+        "Colocar caderno",
+        "Fechar mochila",
+        "Levar mochila"
+      ]
+    ],
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "etapas",
+    "url": "etapas.html?id=rotina-ordem",
+    "guia": "Use cartões ilustrados ou objetos reais para discutir dependências entre etapas. Aceite alternativas justificadas na discussão.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize etapas de tarefas cotidianas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões de instruções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva sequências com mediação."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare ordens e explique dependências."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Descreva outra tarefa em etapas."
+      ]
+    ]
+  },
+  {
+    "id": "plantio-ordem",
+    "ano": 2,
+    "titulo": "Jardim dos algoritmos",
+    "descricao": "Organize etapas de cultivo.",
+    "sequencias": [
+      [
+        "Preparar vaso",
+        "Colocar terra",
+        "Fazer buraco",
+        "Colocar semente",
+        "Cobrir semente",
+        "Regar"
+      ],
+      [
+        "Separar muda",
+        "Preparar terra",
+        "Abrir buraco",
+        "Plantar muda",
+        "Regar"
+      ],
+      [
+        "Observar terra seca",
+        "Pegar regador",
+        "Encher regador",
+        "Regar planta",
+        "Guardar regador"
+      ]
+    ],
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "etapas",
+    "url": "etapas.html?id=plantio-ordem",
+    "guia": "Use cartões ilustrados ou objetos reais para discutir dependências entre etapas. Aceite alternativas justificadas na discussão.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize etapas de cultivo."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões de instruções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva sequências com mediação."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare ordens e explique dependências."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Descreva outra tarefa em etapas."
+      ]
+    ]
   }
 ]
