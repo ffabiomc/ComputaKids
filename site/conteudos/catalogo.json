@@ -157,5 +157,153 @@
         "Apresente um exemplo novo e observe a estratégia."
       ]
     ]
+  },
+  {
+    "id": "memoria-digital",
+    "ano": 2,
+    "titulo": "Memória digital",
+    "eixo": "Mundo Digital",
+    "descricao": "Associe dispositivos às suas funções.",
+    "pairs": [
+      [
+        "⌨️ Teclado",
+        "Digitar texto"
+      ],
+      [
+        "🖱️ Mouse",
+        "Mover o ponteiro"
+      ],
+      [
+        "🎤 Microfone",
+        "Captar voz"
+      ],
+      [
+        "🔊 Alto-falante",
+        "Reproduzir som"
+      ],
+      [
+        "📷 Câmera",
+        "Captar imagens"
+      ],
+      [
+        "🖨️ Impressora",
+        "Imprimir no papel"
+      ],
+      [
+        "🖥️ Monitor",
+        "Exibir imagens"
+      ],
+      [
+        "🎧 Fones",
+        "Ouvir áudio"
+      ]
+    ],
+    "guia": "Apresente dispositivos reais e peça aos alunos que expliquem suas funções.",
+    "habilidade": null,
+    "duracao": 15,
+    "motor": "memoria",
+    "url": "memoria.html?id=memoria-digital",
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Associe dispositivos às suas funções."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Apresente dispositivos reais e peça aos alunos que expliquem suas funções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Encontre os pares e explique suas relações."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e significados."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Apresente uma nova situação e peça uma justificativa."
+      ]
+    ]
+  },
+  {
+    "id": "pares-seguros",
+    "ano": 3,
+    "titulo": "Pares da cidadania digital",
+    "eixo": "Cultura Digital",
+    "descricao": "Associe situações digitais a atitudes seguras.",
+    "pairs": [
+      [
+        "Pedido de senha",
+        "Não compartilhar"
+      ],
+      [
+        "Mensagem ofensiva",
+        "Pedir ajuda"
+      ],
+      [
+        "Link desconhecido",
+        "Não abrir"
+      ],
+      [
+        "Foto de colega",
+        "Pedir autorização"
+      ],
+      [
+        "Notícia duvidosa",
+        "Verificar fonte"
+      ],
+      [
+        "Dados pessoais",
+        "Proteger informações"
+      ],
+      [
+        "Tempo de tela",
+        "Fazer pausas"
+      ],
+      [
+        "Arquivo estranho",
+        "Consultar adulto"
+      ]
+    ],
+    "guia": "Discuta cada situação sem solicitar dados pessoais dos alunos.",
+    "habilidade": null,
+    "duracao": 15,
+    "motor": "memoria",
+    "url": "memoria.html?id=pares-seguros",
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Associe situações digitais a atitudes seguras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Discuta cada situação sem solicitar dados pessoais dos alunos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Encontre os pares e explique suas relações."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e significados."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Apresente uma nova situação e peça uma justificativa."
+      ]
+    ]
   }
 ]
