@@ -1993,5 +1993,205 @@
         "Aplique a regra a um exemplo novo."
       ]
     ]
+  },
+  {
+    "id": "logica-e",
+    "ano": 3,
+    "titulo": "Portões da floresta",
+    "descricao": "Abra o portão quando as duas condições forem verdadeiras.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "regras",
+    "url": "regras.html?modo=and",
+    "guia": "Modele a regra com cartões antes do jogo. Solicite uma justificativa oral para cada resposta e observe se o aluno consegue aplicar a regra a um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Abra o portão quando as duas condições forem verdadeiras."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule a regra com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explique as respostas e compare estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "logica-ou",
+    "ano": 3,
+    "titulo": "Resgate dos animais",
+    "descricao": "Identifique quando pelo menos uma condição é verdadeira.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "regras",
+    "url": "regras.html?modo=or",
+    "guia": "Modele a regra com cartões antes do jogo. Solicite uma justificativa oral para cada resposta e observe se o aluno consegue aplicar a regra a um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identifique quando pelo menos uma condição é verdadeira."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule a regra com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explique as respostas e compare estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "logica-nao",
+    "ano": 3,
+    "titulo": "Semáforo invertido",
+    "descricao": "Identifique o contrário de uma condição.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "regras",
+    "url": "regras.html?modo=not",
+    "guia": "Modele a regra com cartões antes do jogo. Solicite uma justificativa oral para cada resposta e observe se o aluno consegue aplicar a regra a um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identifique o contrário de uma condição."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule a regra com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explique as respostas e compare estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "listas-contagem",
+    "ano": 5,
+    "titulo": "Inventário espacial",
+    "descricao": "Conte os elementos de uma lista que atendem a um critério.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "regras",
+    "url": "regras.html?modo=count",
+    "guia": "Modele a regra com cartões antes do jogo. Solicite uma justificativa oral para cada resposta e observe se o aluno consegue aplicar a regra a um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Conte os elementos de uma lista que atendem a um critério."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule a regra com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explique as respostas e compare estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "listas-posicao",
+    "ano": 5,
+    "titulo": "Arquivo de coordenadas",
+    "descricao": "Encontre elementos em posições numeradas de uma lista.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "regras",
+    "url": "regras.html?modo=index",
+    "guia": "Modele a regra com cartões antes do jogo. Solicite uma justificativa oral para cada resposta e observe se o aluno consegue aplicar a regra a um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encontre elementos em posições numeradas de uma lista."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule a regra com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explique as respostas e compare estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo inédito."
+      ]
+    ]
   }
 ]
