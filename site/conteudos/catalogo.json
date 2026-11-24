@@ -1175,5 +1175,125 @@
         "Preveja a saída de uma sequência inédita."
       ]
     ]
+  },
+  {
+    "id": "pares-figuras",
+    "ano": 0,
+    "titulo": "Encontre os iguais",
+    "descricao": "Reconheça figuras iguais em conjuntos visuais.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "infantil",
+    "url": "infantil.html?id=pares-figuras",
+    "guia": "Acompanhe a criança, nomeie as figuras e permita pausas. Use cartões físicos antes do jogo.",
+    "plano": [
+      [
+        "Acolhida",
+        5,
+        "Apresente as figuras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Explore cartões ilustrados."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize desafios com pausas."
+      ],
+      [
+        "Brincadeira",
+        15,
+        "Crie novos exemplos com objetos."
+      ],
+      [
+        "Observação",
+        5,
+        "Observe e registre estratégias."
+      ]
+    ]
+  },
+  {
+    "id": "sequencia-figuras",
+    "ano": 0,
+    "titulo": "Trenzinho das figuras",
+    "descricao": "Complete sequências visuais de figuras.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "infantil",
+    "url": "infantil.html?id=sequencia-figuras",
+    "guia": "Acompanhe a criança, nomeie as figuras e permita pausas. Use cartões físicos antes do jogo.",
+    "plano": [
+      [
+        "Acolhida",
+        5,
+        "Apresente as figuras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Explore cartões ilustrados."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize desafios com pausas."
+      ],
+      [
+        "Brincadeira",
+        15,
+        "Crie novos exemplos com objetos."
+      ],
+      [
+        "Observação",
+        5,
+        "Observe e registre estratégias."
+      ]
+    ]
+  },
+  {
+    "id": "figura-diferente",
+    "ano": 0,
+    "titulo": "Qual é diferente?",
+    "descricao": "Identifique a figura que não pertence ao grupo.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "infantil",
+    "url": "infantil.html?id=figura-diferente",
+    "guia": "Acompanhe a criança, nomeie as figuras e permita pausas. Use cartões físicos antes do jogo.",
+    "plano": [
+      [
+        "Acolhida",
+        5,
+        "Apresente as figuras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Explore cartões ilustrados."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize desafios com pausas."
+      ],
+      [
+        "Brincadeira",
+        15,
+        "Crie novos exemplos com objetos."
+      ],
+      [
+        "Observação",
+        5,
+        "Observe e registre estratégias."
+      ]
+    ]
   }
 ]
