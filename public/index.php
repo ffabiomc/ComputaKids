@@ -1,12 +1,12 @@
 <?php
 declare(strict_types=1);
-use ComputaKids\{Database,Security,Auth,Teachers,Classroom,AccessPolicy,StudentAccess};
+use ComputaKids\{Database,Security,Auth,Teachers,Classroom,AccessPolicy,StudentAccess,RateLimit};
 header('Content-Type: text/html; charset=UTF-8');
 header('Cache-Control: no-store');
 $root=dirname(__DIR__);
 if(!is_file($root.'/config/local.php')){header('Location: install.php');exit;}
 if(empty($_SERVER['HTTPS'])||$_SERVER['HTTPS']==='off'){http_response_code(403);exit('HTTPS obrigatório.');}
-foreach(['Database','Security','Auth','Teachers','Classroom','AccessPolicy','StudentAccess'] as $class)require $root.'/app/'.$class.'.php';
+foreach(['Database','Security','Auth','Teachers','Classroom','AccessPolicy','StudentAccess','RateLimit'] as $class)require $root.'/app/'.$class.'.php';
 Security::start();
 try{$db=Database::connect(require $root.'/config/local.php');}catch(Throwable $e){http_response_code(503);exit('Serviço temporariamente indisponível.');}
 $auth=new Auth($db);$u=$auth->current();$error='';
@@ -15,6 +15,10 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
  try{
   if(!Security::verify($_POST['csrf']??null))throw new RuntimeException('Solicitação inválida.');
   $action=$_POST['action']??'';
+  $limits=new RateLimit($db);
+  $ip=(string)($_SERVER['REMOTE_ADDR']??'unknown');
+  if(in_array($action,['login','remote_start'],true)&&!$limits->allow($action,$ip,30))throw new RuntimeException('Limite de tentativas.');
+  if($action==='remote_authorize'&&$u&&!$limits->allow($action,(string)$u['id'],30))throw new RuntimeException('Limite de tentativas.');
   if($action==='remote_start'&&!$u){
    if(($_SESSION['remote_created']??0)>time()-300 && isset($_SESSION['remote_challenge']))throw new RuntimeException('Desafio existente.');
    $_SESSION['remote_challenge']=(new StudentAccess($db))->challenge();$_SESSION['remote_created']=time();
