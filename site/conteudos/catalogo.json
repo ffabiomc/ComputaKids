@@ -1788,5 +1788,210 @@
         "Resolva um novo mapa."
       ]
     ]
+  },
+  {
+    "id": "matriz-pintura",
+    "ano": 4,
+    "titulo": "Mosaico de coordenadas",
+    "descricao": "Copie desenhos em uma matriz.",
+    "mode": "copy",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "matrizes",
+    "url": "matrizes.html?modo=copy",
+    "guia": "Demonstre a regra com papel quadriculado ou cartões numéricos. Peça que os alunos expliquem a transformação ou condição antes de conferir.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Copie desenhos em uma matriz."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente a regra com cartões ou papel."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique a regra a um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "matriz-espelho",
+    "ano": 4,
+    "titulo": "Espelho digital",
+    "descricao": "Reproduza desenhos refletidos horizontalmente.",
+    "mode": "mirror",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "matrizes",
+    "url": "matrizes.html?modo=mirror",
+    "guia": "Demonstre a regra com papel quadriculado ou cartões numéricos. Peça que os alunos expliquem a transformação ou condição antes de conferir.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reproduza desenhos refletidos horizontalmente."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente a regra com cartões ou papel."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique a regra a um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "matriz-giro",
+    "ano": 4,
+    "titulo": "Giro dos pixels",
+    "descricao": "Gire desenhos em 90 graus.",
+    "mode": "rotate",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "matrizes",
+    "url": "matrizes.html?modo=rotate",
+    "guia": "Demonstre a regra com papel quadriculado ou cartões numéricos. Peça que os alunos expliquem a transformação ou condição antes de conferir.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Gire desenhos em 90 graus."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente a regra com cartões ou papel."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique a regra a um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "listas-filtro",
+    "ano": 5,
+    "titulo": "Filtro de dados",
+    "descricao": "Selecione números que atendem a uma condição.",
+    "mode": "filter",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "matrizes",
+    "url": "matrizes.html?modo=filter",
+    "guia": "Demonstre a regra com papel quadriculado ou cartões numéricos. Peça que os alunos expliquem a transformação ou condição antes de conferir.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Selecione números que atendem a uma condição."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente a regra com cartões ou papel."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique a regra a um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "listas-par",
+    "ano": 5,
+    "titulo": "Caçador de pares",
+    "descricao": "Selecione números pares em uma lista.",
+    "mode": "even",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "matrizes",
+    "url": "matrizes.html?modo=even",
+    "guia": "Demonstre a regra com papel quadriculado ou cartões numéricos. Peça que os alunos expliquem a transformação ou condição antes de conferir.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Selecione números pares em uma lista."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente a regra com cartões ou papel."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique a regra a um exemplo novo."
+      ]
+    ]
   }
 ]
