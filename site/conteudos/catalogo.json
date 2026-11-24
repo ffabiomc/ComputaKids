@@ -1,0 +1,41 @@
+[
+  {
+    "id": "robo-explorador",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "titulo": "Robô explorador",
+    "descricao": "Planeje uma sequência de movimentos para chegar ao destino.",
+    "duracao": 15,
+    "motor": "labirinto",
+    "status": "piloto",
+    "guia": "Organize duplas. Peça que antecipem o caminho antes de executar. Discuta erros e estratégias.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Demonstre instruções de movimento."
+      ],
+      [
+        "Atividade desplugada",
+        10,
+        "Simule um robô no chão com comandos orais."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios em duplas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare soluções e revise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Peça uma sequência de comandos para um novo caminho."
+      ]
+    ]
+  }
+]
