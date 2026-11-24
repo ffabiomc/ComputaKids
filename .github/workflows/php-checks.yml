@@ -14,3 +14,13 @@ jobs:
           coverage: none
       - run: composer validate --no-check-publish
       - run: find app public -type f -name '*.php' -print0 | xargs -0 -n1 php -l
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: bash scripts/build-qr-assets.sh
+      - run: node --check public/assets/scan.js
+      - run: test -s public/assets/qrcode.min.js && test -s public/assets/jsQR.js
+      - uses: actions/upload-artifact@v4
+        with:
+          name: qr-assets
+          path: public/assets/
