@@ -88,7 +88,13 @@
     ],
     "habilidadeDescricao": "Reconhecimento de padrões repetidos em sons, movimentos e desenhos.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Reconhecer padrões visuais.",
+      "evidencia": "Completar e reproduzir um padrão com objetos.",
+      "limite": "Usar formas além de cores.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "sequencias",
@@ -180,7 +186,13 @@
     ],
     "habilidadeDescricao": "Compreensão de decisões binárias.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Agrupar objetos por material.",
+      "evidencia": "Explicar oralmente a escolha de um grupo.",
+      "limite": "Usar materiais limpos e seguros.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "memoria-digital",
@@ -575,7 +587,13 @@
     ],
     "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Reduzir intervalo de busca em lista ordenada.",
+      "evidencia": "Registrar limites após cada comparação.",
+      "limite": "Comparar com busca linear e discutir pré-condição de ordenação.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "rotas-digitais",
@@ -759,7 +777,13 @@
     ],
     "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Ordenar valores por trocas adjacentes.",
+      "evidencia": "Registrar trocas e explicar quando parar.",
+      "limite": "Comparar estratégias e contar operações.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "ordenacao-palavras",
@@ -1343,7 +1367,13 @@
     ],
     "habilidadeDescricao": "Compreensão de decisões binárias.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Reconhecer figuras iguais.",
+      "evidencia": "Encontrar pares em cartões físicos.",
+      "limite": "Variar tamanho e orientação.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "sequencia-figuras",
@@ -1386,7 +1416,13 @@
     ],
     "habilidadeDescricao": "Reconhecimento de padrões repetidos em sons, movimentos e desenhos.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Antecipar a próxima figura.",
+      "evidencia": "Reproduzir a sequência com cartões.",
+      "limite": "Criar padrões próprios.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "figura-diferente",
@@ -1429,7 +1465,13 @@
     ],
     "habilidadeDescricao": "Compreensão de decisões binárias.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Identificar um atributo distinto.",
+      "evidencia": "Explicar qual figura difere e por quê.",
+      "limite": "Aceitar critérios alternativos coerentes.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "receitas-ordem",
@@ -2603,7 +2645,13 @@
     ],
     "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Organizar movimentos para atingir um destino.",
+      "evidencia": "Registrar e simular comandos em uma grade.",
+      "limite": "Complementar com percurso físico e obstáculos.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "comandos-reparo",
@@ -2646,7 +2694,13 @@
     ],
     "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar um comando incorreto.",
+      "evidencia": "Comparar sequência original e corrigida.",
+      "limite": "Testar a correção em uma grade real.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "dados-tabela",
@@ -2689,7 +2743,13 @@
     ],
     "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Contar ocorrências de figuras.",
+      "evidencia": "Registrar contagens em tabela com cabeçalhos.",
+      "limite": "Construir uma tabela completa fora do jogo.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "objetos-digitais",
@@ -4580,7 +4640,13 @@
     ],
     "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Codificar mensagens por legenda.",
+      "evidencia": "Produzir mensagem para outra dupla decodificar.",
+      "limite": "Usar símbolos além de cores.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "codigos-formas",
@@ -4624,7 +4690,13 @@
     ],
     "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Interpretar códigos geométricos.",
+      "evidencia": "Decodificar mensagem inédita.",
+      "limite": "Criar legenda própria.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "bits-lampadas",
@@ -4668,7 +4740,13 @@
     ],
     "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Representar estados ligados e desligados.",
+      "evidencia": "Registrar estados como zeros e uns.",
+      "limite": "Relacionar estados a outras representações digitais.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "bits-contagem",
@@ -4712,7 +4790,13 @@
     ],
     "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Contar bits ligados.",
+      "evidencia": "Marcar os uns antes de contar.",
+      "limite": "Distinguir contagem de uns de valor binário.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "bits-inversao",
@@ -4756,7 +4840,13 @@
     ],
     "habilidadeDescricao": "Codificação de informações em formatos computacionais.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Trocar cada zero por um e vice-versa.",
+      "evidencia": "Demonstrar que duas inversões restauram o código.",
+      "limite": "Relacionar a operação à negação lógica.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "bits-comparacao",
@@ -4800,7 +4890,13 @@
     ],
     "habilidadeDescricao": "Codificação de informações em formatos computacionais.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar posições distintas entre códigos.",
+      "evidencia": "Marcar diferenças posição por posição.",
+      "limite": "Comparar códigos de mesmo comprimento.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "bits-paridade",
@@ -4844,7 +4940,13 @@
     ],
     "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Determinar a paridade da contagem de uns.",
+      "evidencia": "Justificar a classificação de um código.",
+      "limite": "Mostrar que paridade não detecta todos os erros.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-casa",
@@ -4899,7 +5001,13 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar componentes de uma casa.",
+      "evidencia": "Organizar componentes por função.",
+      "limite": "Dividir a construção em subtarefas.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-bicicleta",
@@ -4954,7 +5062,13 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar componentes de uma bicicleta.",
+      "evidencia": "Explicar a função de três componentes.",
+      "limite": "Organizar etapas de montagem no papel.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-escola",
@@ -5009,7 +5123,13 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Selecionar materiais pertinentes à mochila.",
+      "evidencia": "Justificar escolhas para uma aula específica.",
+      "limite": "Planejar materiais conforme diferentes horários.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-horta",
@@ -5064,7 +5184,13 @@
     ],
     "habilidadeDescricao": "Decomposição de problemas e combinação de soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar recursos e tarefas de cultivo.",
+      "evidencia": "Elaborar uma lista de subtarefas.",
+      "limite": "Relacionar dependências e responsabilidades.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-evento",
@@ -5119,7 +5245,13 @@
     ],
     "habilidadeDescricao": "Decomposição de problemas e combinação de soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar tarefas de uma exposição.",
+      "evidencia": "Distribuir tarefas entre grupos.",
+      "limite": "Organizar prazos e dependências.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-historia",
@@ -5174,7 +5306,13 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar elementos de uma narrativa.",
+      "evidencia": "Elaborar roteiro dividido em cenas.",
+      "limite": "Relacionar as cenas em sequência coerente.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-jogo",
@@ -5229,7 +5367,13 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar componentes de um jogo.",
+      "evidencia": "Dividir um projeto em regras, interface e desafios.",
+      "limite": "Implementar um protótipo simples no papel.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "partes-pesquisa",
@@ -5284,6 +5428,12 @@
     ],
     "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar etapas de uma pesquisa.",
+      "evidencia": "Criar plano com pergunta, fontes e síntese.",
+      "limite": "Verificar fontes e registrar referências.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   }
 ]
