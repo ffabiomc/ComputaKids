@@ -181,8 +181,11 @@
   "EF02CO02": {
     "codigo": "EF02CO02",
     "eixo": "Pensamento Computacional",
-    "resumo": "Criar e simular algoritmos com repetições simples definidas.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 16,
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true
   },
   "EF01CO05": {
     "codigo": "EF01CO05",
@@ -221,5 +224,32 @@
     "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "descricaoConferida": true,
     "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+  },
+  "EF02CO03": {
+    "codigo": "EF02CO03",
+    "eixo": "Mundo Digital",
+    "resumo": "Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+    "pagina": 16,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true
+  },
+  "EF02CO04": {
+    "codigo": "EF02CO04",
+    "eixo": "Mundo Digital",
+    "resumo": "Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+    "pagina": 16,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true
+  },
+  "EF02CO05": {
+    "codigo": "EF02CO05",
+    "eixo": "Cultura Digital",
+    "resumo": "Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.",
+    "pagina": 16,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true
   }
 }
