@@ -3,7 +3,7 @@
     "id": "robo-explorador",
     "ano": 1,
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF01CO03",
     "titulo": "Robô explorador",
     "descricao": "Planeje uma sequência de movimentos para chegar ao destino.",
     "duracao": 15,
@@ -36,7 +36,9 @@
         5,
         "Peça uma sequência de comandos para um novo caminho."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Criação e reorganização de sequências de passos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "padroes",
@@ -83,7 +85,7 @@
     "titulo": "Oficina de sequências",
     "ano": 1,
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF01CO01",
     "descricao": "Organize os números em ordem crescente.",
     "duracao": 15,
     "motor": "ordem",
@@ -116,7 +118,9 @@
         5,
         "Apresente um exemplo novo e observe a estratégia."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização de objetos por características",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "classificacao",
@@ -199,7 +203,7 @@
       ]
     ],
     "guia": "Apresente dispositivos reais e peça aos alunos que expliquem suas funções.",
-    "habilidade": null,
+    "habilidade": "EF02CO05",
     "duracao": 15,
     "motor": "memoria",
     "url": "memoria.html?id=memoria-digital",
@@ -230,7 +234,9 @@
         5,
         "Apresente uma nova situação e peça uma justificativa."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Uso cotidiano de tecnologias computacionais",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "pares-seguros",
@@ -554,7 +560,7 @@
     "titulo": "Robô programável",
     "descricao": "Programe movimentos usando blocos de comandos.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "blocos",
@@ -586,7 +592,9 @@
         5,
         "Crie um programa para outro percurso."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "robo-repeticoes",
@@ -594,7 +602,7 @@
     "titulo": "Fábrica de robôs",
     "descricao": "Use blocos de repetição para reduzir o tamanho do programa.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "blocos",
@@ -626,7 +634,9 @@
         5,
         "Crie um programa para outro percurso."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "ordenacao-numeros",
@@ -1394,7 +1404,7 @@
       ]
     ],
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF01CO03",
     "duracao": 15,
     "status": "piloto",
     "motor": "etapas",
@@ -1426,7 +1436,9 @@
         5,
         "Descreva outra tarefa em etapas."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Criação e reorganização de sequências de passos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "rotina-ordem",
@@ -1531,7 +1543,7 @@
       ]
     ],
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "etapas",
@@ -1563,7 +1575,9 @@
         5,
         "Descreva outra tarefa em etapas."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "plantio-ordem",
@@ -1675,7 +1689,7 @@
       ]
     ],
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "etapas",
@@ -1707,7 +1721,9 @@
         5,
         "Descreva outra tarefa em etapas."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "mapa-tesouro",
@@ -1715,7 +1731,7 @@
     "titulo": "Mapa do tesouro",
     "descricao": "Localize objetos usando linhas e colunas.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "espacial",
@@ -1747,7 +1763,9 @@
         5,
         "Resolva um novo mapa."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "entregas-robo",
@@ -1755,7 +1773,7 @@
     "titulo": "Robô entregador",
     "descricao": "Planeje trajetos em uma grade com obstáculos.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "espacial",
@@ -1787,7 +1805,9 @@
         5,
         "Resolva um novo mapa."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "matriz-pintura",
@@ -1796,7 +1816,7 @@
     "descricao": "Copie desenhos em uma matriz.",
     "mode": "copy",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1828,7 +1848,9 @@
         5,
         "Aplique a regra a um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "matriz-espelho",
@@ -1837,7 +1859,7 @@
     "descricao": "Reproduza desenhos refletidos horizontalmente.",
     "mode": "mirror",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1869,7 +1891,9 @@
         5,
         "Aplique a regra a um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "matriz-giro",
@@ -1878,7 +1902,7 @@
     "descricao": "Gire desenhos em 90 graus.",
     "mode": "rotate",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1910,7 +1934,9 @@
         5,
         "Aplique a regra a um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "listas-filtro",
@@ -1919,7 +1945,7 @@
     "descricao": "Selecione números que atendem a uma condição.",
     "mode": "filter",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1951,7 +1977,9 @@
         5,
         "Aplique a regra a um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "listas-par",
@@ -1960,7 +1988,7 @@
     "descricao": "Selecione números pares em uma lista.",
     "mode": "even",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1992,7 +2020,9 @@
         5,
         "Aplique a regra a um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "logica-e",
@@ -2000,7 +2030,7 @@
     "titulo": "Portões da floresta",
     "descricao": "Abra o portão quando as duas condições forem verdadeiras.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2032,7 +2062,9 @@
         5,
         "Resolva um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Negação, conjunção e disjunção lógica",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "logica-ou",
@@ -2040,7 +2072,7 @@
     "titulo": "Resgate dos animais",
     "descricao": "Identifique quando pelo menos uma condição é verdadeira.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2072,7 +2104,9 @@
         5,
         "Resolva um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Negação, conjunção e disjunção lógica",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "logica-nao",
@@ -2080,7 +2114,7 @@
     "titulo": "Semáforo invertido",
     "descricao": "Identifique o contrário de uma condição.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2112,7 +2146,9 @@
         5,
         "Resolva um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Negação, conjunção e disjunção lógica",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "listas-contagem",
@@ -2120,7 +2156,7 @@
     "titulo": "Inventário espacial",
     "descricao": "Conte os elementos de uma lista que atendem a um critério.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2152,7 +2188,9 @@
         5,
         "Resolva um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "listas-posicao",
@@ -2160,7 +2198,7 @@
     "titulo": "Arquivo de coordenadas",
     "descricao": "Encontre elementos em posições numeradas de uma lista.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2192,7 +2230,9 @@
         5,
         "Resolva um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "padrao-lacuna",
@@ -2240,7 +2280,7 @@
     "titulo": "Cestas de figuras",
     "descricao": "Separe figuras em grupos pela forma.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF01CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "oficina",
@@ -2272,7 +2312,9 @@
         5,
         "Resolva um novo desafio sem ajuda."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização de objetos por características",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "comandos-caminho",
@@ -2280,7 +2322,7 @@
     "titulo": "Correio de comandos",
     "descricao": "Construa uma sequência de movimentos até o destino.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "oficina",
@@ -2312,7 +2354,9 @@
         5,
         "Resolva um novo desafio sem ajuda."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "comandos-reparo",
@@ -2320,7 +2364,7 @@
     "titulo": "Oficina de robôs",
     "descricao": "Corrija um comando errado em um percurso.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "oficina",
@@ -2352,7 +2396,9 @@
         5,
         "Resolva um novo desafio sem ajuda."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "dados-tabela",
@@ -2360,7 +2406,7 @@
     "titulo": "Feira de dados",
     "descricao": "Conte figuras e registre quantidades em uma tabela.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "oficina",
@@ -2392,7 +2438,9 @@
         5,
         "Resolva um novo desafio sem ajuda."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "objetos-digitais",
@@ -2507,7 +2555,7 @@
     "titulo": "Saída de informações",
     "eixo": "Mundo Digital",
     "descricao": "Identificar dispositivos de saída",
-    "habilidade": null,
+    "habilidade": "EF02CO05",
     "status": "piloto",
     "duracao": 15,
     "motor": "digital",
@@ -2552,7 +2600,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Uso cotidiano de tecnologias computacionais",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "cuidados-digitais",
@@ -2560,7 +2610,7 @@
     "titulo": "Cuide do computador",
     "eixo": "Cultura Digital",
     "descricao": "Escolher cuidados com equipamentos",
-    "habilidade": null,
+    "habilidade": "EF02CO06",
     "status": "piloto",
     "duracao": 15,
     "motor": "digital",
@@ -2605,7 +2655,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Cuidados de segurança com dispositivos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "privacidade-dados",
@@ -2825,7 +2877,7 @@
     "titulo": "Fila dos tamanhos",
     "eixo": "Pensamento Computacional",
     "descricao": "Ordenar valores do menor ao maior",
-    "habilidade": null,
+    "habilidade": "EF01CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -2858,7 +2910,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização de objetos por características",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "ordem-decrescente",
@@ -2866,7 +2920,7 @@
     "titulo": "Montanha de números",
     "eixo": "Pensamento Computacional",
     "descricao": "Ordenar valores do maior ao menor",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -2899,7 +2953,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "duplicar-lista",
@@ -2907,7 +2963,7 @@
     "titulo": "Máquina de dobrar",
     "eixo": "Pensamento Computacional",
     "descricao": "Transformar cada elemento pelo dobro",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -2940,7 +2996,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "incrementar-lista",
@@ -2948,7 +3006,7 @@
     "titulo": "Esteira de números",
     "eixo": "Pensamento Computacional",
     "descricao": "Adicionar uma unidade a cada elemento",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -2981,7 +3039,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "lista-inversa",
@@ -2989,7 +3049,7 @@
     "titulo": "Trem de marcha a ré",
     "eixo": "Pensamento Computacional",
     "descricao": "Inverter a ordem de uma lista",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3022,7 +3082,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "lista-rotacao",
@@ -3030,7 +3092,7 @@
     "titulo": "Carrossel de dados",
     "eixo": "Pensamento Computacional",
     "descricao": "Mover o primeiro elemento ao final",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3063,7 +3125,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "lista-minimo",
@@ -3071,7 +3135,7 @@
     "titulo": "Busca do menor",
     "eixo": "Pensamento Computacional",
     "descricao": "Encontrar o menor elemento",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3104,7 +3168,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "lista-maximo",
@@ -3112,7 +3178,7 @@
     "titulo": "Busca do maior",
     "eixo": "Pensamento Computacional",
     "descricao": "Encontrar o maior elemento",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3145,7 +3211,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "lista-soma",
@@ -3153,7 +3221,7 @@
     "titulo": "Armazém de valores",
     "eixo": "Pensamento Computacional",
     "descricao": "Somar os elementos de uma lista",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3186,7 +3254,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "mapa-direita",
@@ -3358,7 +3428,7 @@
     "titulo": "Dois passos do robô",
     "eixo": "Pensamento Computacional",
     "descricao": "Executar dois deslocamentos",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "grid",
@@ -3391,7 +3461,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "mapa-reflexao",
@@ -3399,7 +3471,7 @@
     "titulo": "Mapa refletido",
     "eixo": "Pensamento Computacional",
     "descricao": "Localizar a posição refletida horizontalmente",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "grid",
@@ -3432,7 +3504,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "mapa-transposto",
@@ -3440,7 +3514,7 @@
     "titulo": "Troca de coordenadas",
     "eixo": "Pensamento Computacional",
     "descricao": "Trocar linha e coluna",
-    "habilidade": null,
+    "habilidade": "EF15CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "grid",
@@ -3473,7 +3547,9 @@
         5,
         "Aplique o conceito em um exemplo inédito."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Organização e representação de informações",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "mapa-distancia",
@@ -3522,7 +3598,7 @@
     "titulo": "Ritmo das palmas",
     "eixo": "Pensamento Computacional",
     "descricao": "Reproduzir um comando repetido",
-    "habilidade": null,
+    "habilidade": "EF01CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3555,7 +3631,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Identificação e execução de sequências de passos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "ritmo-formas",
@@ -3563,7 +3641,7 @@
     "titulo": "Fábrica de formas",
     "eixo": "Pensamento Computacional",
     "descricao": "Reproduzir um bloco alternado",
-    "habilidade": null,
+    "habilidade": "EF01CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3596,7 +3674,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Identificação e execução de sequências de passos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "comprimir-setas",
@@ -3604,7 +3684,7 @@
     "titulo": "Comandos compactos",
     "eixo": "Pensamento Computacional",
     "descricao": "Representar uma sequência com repetição",
-    "habilidade": null,
+    "habilidade": "EF02CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3637,7 +3717,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com repetições simples",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "expandir-setas",
@@ -3645,7 +3727,7 @@
     "titulo": "Expedição repetida",
     "eixo": "Pensamento Computacional",
     "descricao": "Expandir um bloco de comandos",
-    "habilidade": null,
+    "habilidade": "EF02CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3678,7 +3760,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com repetições simples",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "corrigir-repeticao",
@@ -3686,7 +3770,7 @@
     "titulo": "Conserte o laço",
     "eixo": "Pensamento Computacional",
     "descricao": "Corrigir a quantidade de repetições",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3719,7 +3803,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "contar-repeticao",
@@ -3727,7 +3813,7 @@
     "titulo": "Contador de comandos",
     "eixo": "Pensamento Computacional",
     "descricao": "Calcular o total de comandos executados",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3760,7 +3846,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "repeticao-dupla",
@@ -3768,7 +3856,7 @@
     "titulo": "Dupla repetição",
     "eixo": "Pensamento Computacional",
     "descricao": "Interpretar duas repetições aninhadas",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3801,7 +3889,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "economia-comandos",
@@ -3809,7 +3899,7 @@
     "titulo": "Economia de código",
     "eixo": "Pensamento Computacional",
     "descricao": "Comparar quantidade de comandos antes e depois da compactação",
-    "habilidade": null,
+    "habilidade": "EF15CO02",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3842,7 +3932,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos com sequências, condições e repetições",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "simbolos-frutas",
@@ -4219,7 +4311,7 @@
     "titulo": "Construa uma casa",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4263,7 +4355,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-bicicleta",
@@ -4271,7 +4365,7 @@
     "titulo": "Monte a bicicleta",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF02CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4315,7 +4409,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Modelagem de objetos por padrões e atributos",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-escola",
@@ -4323,7 +4419,7 @@
     "titulo": "Organize a mochila",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4367,7 +4463,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-horta",
@@ -4375,7 +4473,7 @@
     "titulo": "Planeje a horta",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4419,7 +4517,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-evento",
@@ -4427,7 +4527,7 @@
     "titulo": "Organize a exposição",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4471,7 +4571,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-historia",
@@ -4479,7 +4581,7 @@
     "titulo": "Estúdio de histórias",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4523,7 +4625,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-jogo",
@@ -4531,7 +4635,7 @@
     "titulo": "Planeje um jogo",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4575,7 +4679,9 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   },
   {
     "id": "partes-pesquisa",
@@ -4583,7 +4689,7 @@
     "titulo": "Projeto de pesquisa",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": null,
+    "habilidade": "EF15CO04",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4627,6 +4733,8 @@
         5,
         "Resolver um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Decomposição de problemas em partes menores",
+    "habilidadeStatus": "Vinculação preliminar — revisar abrangência pedagógica"
   }
 ]
