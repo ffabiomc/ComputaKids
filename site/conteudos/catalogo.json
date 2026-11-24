@@ -102,8 +102,8 @@
     },
     "auditoriaCurricular": {
       "descricaoConferida": true,
-      "pagina": 2,
-      "adequacao": "pendente"
+      "adequacao": "compatibilidade preliminar",
+      "fonteConsultada": "https://www.italva.rj.gov.br/arquivos/legislacao/01_2025_bncc__computacao_de_educacao_infantil.pdf"
     }
   },
   {
@@ -201,17 +201,17 @@
     ],
     "habilidadeDescricao": "Compreender decisões em dois estados (verdadeiro ou falso).",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Vinculação inadequada ou indireta: classificação de figuras não demonstra decisões verdadeiro/falso. Revisão necessária.",
+    "habilidadeStatus": "Atividade preparatória; desenvolver EI03CO06 com a complementação docente obrigatória. Homologação pendente.",
     "revisaoDidatica": {
       "objetivo": "Agrupar objetos por material.",
       "evidencia": "Explicar oralmente a escolha de um grupo.",
-      "limite": "Usar materiais limpos e seguros.",
+      "limite": "Usar materiais limpos e seguros. Complementação obrigatória: Este objeto é de papel? Repita com plástico e outros materiais. A criança responde verdadeiro ou falso com cartões ou oralmente e explica sua escolha.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
       "descricaoConferida": true,
-      "pagina": 2,
-      "adequacao": "inadequada ou indireta; revisar vinculação"
+      "adequacao": "parcial; requer mediação docente",
+      "fonteConsultada": "https://www.italva.rj.gov.br/arquivos/legislacao/01_2025_bncc__computacao_de_educacao_infantil.pdf"
     }
   },
   {
@@ -1473,17 +1473,17 @@
     ],
     "habilidadeDescricao": "Compreender decisões em dois estados (verdadeiro ou falso).",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Vinculação inadequada ou indireta: classificação de figuras não demonstra decisões verdadeiro/falso. Revisão necessária.",
+    "habilidadeStatus": "Atividade preparatória; desenvolver EI03CO06 com a complementação docente obrigatória. Homologação pendente.",
     "revisaoDidatica": {
       "objetivo": "Reconhecer figuras iguais.",
       "evidencia": "Encontrar pares em cartões físicos.",
-      "limite": "Variar tamanho e orientação.",
+      "limite": "Variar tamanho e orientação. Complementação obrigatória: Estas duas figuras são iguais? Mostre pares iguais e diferentes. A criança responde verdadeiro ou falso com cartões ou oralmente e explica sua escolha.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
       "descricaoConferida": true,
-      "pagina": 2,
-      "adequacao": "inadequada ou indireta; revisar vinculação"
+      "adequacao": "parcial; requer mediação docente",
+      "fonteConsultada": "https://www.italva.rj.gov.br/arquivos/legislacao/01_2025_bncc__computacao_de_educacao_infantil.pdf"
     }
   },
   {
@@ -1536,8 +1536,8 @@
     },
     "auditoriaCurricular": {
       "descricaoConferida": true,
-      "pagina": 2,
-      "adequacao": "pendente"
+      "adequacao": "compatibilidade preliminar",
+      "fonteConsultada": "https://www.italva.rj.gov.br/arquivos/legislacao/01_2025_bncc__computacao_de_educacao_infantil.pdf"
     }
   },
   {
@@ -1581,17 +1581,17 @@
     ],
     "habilidadeDescricao": "Compreender decisões em dois estados (verdadeiro ou falso).",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Vinculação inadequada ou indireta: classificação de figuras não demonstra decisões verdadeiro/falso. Revisão necessária.",
+    "habilidadeStatus": "Atividade preparatória; desenvolver EI03CO06 com a complementação docente obrigatória. Homologação pendente.",
     "revisaoDidatica": {
       "objetivo": "Identificar um atributo distinto.",
       "evidencia": "Explicar qual figura difere e por quê.",
-      "limite": "Aceitar critérios alternativos coerentes.",
+      "limite": "Aceitar critérios alternativos coerentes. Complementação obrigatória: Esta figura tem a mesma característica das demais? Alterne exemplos. A criança responde verdadeiro ou falso com cartões ou oralmente e explica sua escolha.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
       "descricaoConferida": true,
-      "pagina": 2,
-      "adequacao": "inadequada ou indireta; revisar vinculação"
+      "adequacao": "parcial; requer mediação docente",
+      "fonteConsultada": "https://www.italva.rj.gov.br/arquivos/legislacao/01_2025_bncc__computacao_de_educacao_infantil.pdf"
     }
   },
   {
@@ -1726,7 +1726,7 @@
       ]
     ],
     "habilidadeDescricao": "Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.",
-    "habilidadeStatus": "Descrição conferida; adequação da atividade pendente.",
+    "habilidadeStatus": "Reconferência documental pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Organizar instruções de uma receita.",
@@ -1735,7 +1735,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
+      "descricaoConferida": false,
       "pagina": 12,
       "adequacao": "pendente"
     }
@@ -2707,7 +2707,7 @@
       ]
     ],
     "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
-    "habilidadeStatus": "Descrição conferida; adequação da atividade pendente.",
+    "habilidadeStatus": "Reconferência documental pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar a unidade que se repete.",
@@ -2716,7 +2716,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
+      "descricaoConferida": false,
       "pagina": 12,
       "adequacao": "pendente"
     }
@@ -2761,7 +2761,7 @@
       ]
     ],
     "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
-    "habilidadeStatus": "Descrição conferida; adequação da atividade pendente.",
+    "habilidadeStatus": "Reconferência documental pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Agrupar figuras por forma.",
@@ -2770,7 +2770,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
+      "descricaoConferida": false,
       "pagina": 12,
       "adequacao": "pendente"
     }
@@ -4835,7 +4835,7 @@
       ]
     ],
     "habilidadeDescricao": "Representar informação usando diferentes codificações.",
-    "habilidadeStatus": "Descrição conferida; adequação da atividade pendente.",
+    "habilidadeStatus": "Reconferência documental pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Associar símbolos a códigos.",
@@ -4844,7 +4844,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
+      "descricaoConferida": false,
       "pagina": 12,
       "adequacao": "pendente"
     }
@@ -4890,7 +4890,7 @@
       ]
     ],
     "habilidadeDescricao": "Representar informação usando diferentes codificações.",
-    "habilidadeStatus": "Descrição conferida; adequação da atividade pendente.",
+    "habilidadeStatus": "Reconferência documental pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Interpretar símbolos usando uma legenda.",
@@ -4899,7 +4899,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
+      "descricaoConferida": false,
       "pagina": 12,
       "adequacao": "pendente"
     }
