@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
@@ -36,5 +37,25 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Aguardar disponibilidade do pacote
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_NAME: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 24); do
+            count=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts" --paginate --jq '.artifacts[] | select(.expired == false) | .name' | grep -Fxc "$ARTIFACT_NAME" || true)
+            if [ "$count" = 1 ]; then
+              echo "Pacote disponível: $ARTIFACT_NAME"
+              exit 0
+            fi
+            echo "Aguardando pacote ($attempt/24): encontrados $count"
+            sleep 5
+          done
+          echo "::error::Pacote ausente ou duplicado após 120 segundos"
+          exit 1
       - uses: actions/deploy-pages@v4
         id: deployment
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
