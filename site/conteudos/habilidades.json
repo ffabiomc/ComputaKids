@@ -135,8 +135,11 @@
   "EF05CO01": {
     "codigo": "EF05CO01",
     "eixo": "Pensamento Computacional",
-    "resumo": "Representação e manipulação de listas.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 28,
+    "descricaoConferida": true,
+    "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido"
   },
   "EF15CO03": {
     "codigo": "EF15CO03",
