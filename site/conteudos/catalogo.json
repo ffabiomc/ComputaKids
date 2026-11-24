@@ -7024,5 +7024,908 @@
       "pagina": 16,
       "adequacao": "parcial"
     }
+  },
+  {
+    "id": "maquinas-sequencias",
+    "ano": 2,
+    "titulo": "Máquinas em sequência",
+    "eixo": "Mundo Digital",
+    "descricao": "Organizar as três instruções da máquina na ordem apresentada pela situação",
+    "habilidade": "EF02CO03",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=maquinas-sequencias",
+    "desafios": [
+      [
+        "Impressora: iniciar, executar, finalizar",
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha"
+        ],
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha",
+          "Lavar"
+        ]
+      ],
+      [
+        "Lavadora: iniciar, executar, finalizar",
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar"
+        ],
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar",
+          "Mover cabine"
+        ]
+      ],
+      [
+        "Elevador: iniciar, executar, finalizar",
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta"
+        ],
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta",
+          "Capturar"
+        ]
+      ],
+      [
+        "Câmera: iniciar, executar, finalizar",
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto"
+        ],
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto",
+          "Mover"
+        ]
+      ],
+      [
+        "Robô: iniciar, executar, finalizar",
+        [
+          "Receber comando",
+          "Mover",
+          "Parar"
+        ],
+        [
+          "Receber comando",
+          "Mover",
+          "Parar",
+          "Imprimir"
+        ]
+      ],
+      [
+        "Impressora: prepare a máquina, execute a tarefa e finalize",
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha"
+        ],
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha",
+          "Lavar"
+        ]
+      ],
+      [
+        "Lavadora: prepare a máquina, execute a tarefa e finalize",
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar"
+        ],
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar",
+          "Mover cabine"
+        ]
+      ],
+      [
+        "Elevador: prepare a máquina, execute a tarefa e finalize",
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta"
+        ],
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta",
+          "Capturar"
+        ]
+      ],
+      [
+        "Câmera: prepare a máquina, execute a tarefa e finalize",
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto"
+        ],
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto",
+          "Mover"
+        ]
+      ],
+      [
+        "Robô: prepare a máquina, execute a tarefa e finalize",
+        [
+          "Receber comando",
+          "Mover",
+          "Parar"
+        ],
+        [
+          "Receber comando",
+          "Mover",
+          "Parar",
+          "Imprimir"
+        ]
+      ],
+      [
+        "Impressora: qual sequência completa realiza a tarefa?",
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha"
+        ],
+        [
+          "Receber documento",
+          "Imprimir",
+          "Retirar folha",
+          "Lavar"
+        ]
+      ],
+      [
+        "Lavadora: qual sequência completa realiza a tarefa?",
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar"
+        ],
+        [
+          "Colocar roupas",
+          "Lavar",
+          "Enxaguar",
+          "Mover cabine"
+        ]
+      ],
+      [
+        "Elevador: qual sequência completa realiza a tarefa?",
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta"
+        ],
+        [
+          "Escolher andar",
+          "Mover cabine",
+          "Abrir porta",
+          "Capturar"
+        ]
+      ],
+      [
+        "Câmera: qual sequência completa realiza a tarefa?",
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto"
+        ],
+        [
+          "Enquadrar",
+          "Capturar",
+          "Salvar foto",
+          "Mover"
+        ]
+      ],
+      [
+        "Robô: qual sequência completa realiza a tarefa?",
+        [
+          "Receber comando",
+          "Mover",
+          "Parar"
+        ],
+        [
+          "Receber comando",
+          "Mover",
+          "Parar",
+          "Imprimir"
+        ]
+      ]
+    ],
+    "explicacao": "Explicar a ordem das instruções.",
+    "guia": "Explicar a ordem das instruções. Demonstre com cartões e objetos sem energia. Leia os enunciados quando necessário; permita teclado, tempo livre e resposta oral.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Explicar a ordem das instruções."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar a situação com cartões e justificar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios com mediação conforme necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e criar um exemplo diferente."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver situação inédita e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Explicar a ordem das instruções.",
+      "evidencia": "Resolver situação inédita e justificar a escolha.",
+      "limite": "Complementar com criação de exemplos e prática desplugada.",
+      "status": "Revisão pedagógica em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "hardware-software",
+    "ano": 2,
+    "titulo": "Detetive de hardware e software",
+    "eixo": "Mundo Digital",
+    "descricao": "Classificar cada item como componente físico ou programa",
+    "habilidade": "EF02CO04",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=hardware-software",
+    "desafios": [
+      [
+        "Teclado",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Mouse",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Monitor",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Editor de texto",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Navegador",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Impressora",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Jogo digital",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Câmera",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Calculadora digital (aplicativo)",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Sistema operacional",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Microfone",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Alto-falante",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Planilha (programa)",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Scanner",
+        [
+          "hardware"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ],
+      [
+        "Reprodutor de áudio (programa)",
+        [
+          "software"
+        ],
+        [
+          "hardware",
+          "software"
+        ]
+      ]
+    ],
+    "explicacao": "Distinguir componentes físicos de programas.",
+    "guia": "Distinguir componentes físicos de programas. Demonstre com cartões e objetos sem energia. Leia os enunciados quando necessário; permita teclado, tempo livre e resposta oral.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Distinguir componentes físicos de programas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar a situação com cartões e justificar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios com mediação conforme necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e criar um exemplo diferente."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver situação inédita e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Distinguir componentes físicos de programas.",
+      "evidencia": "Resolver situação inédita e justificar a escolha.",
+      "limite": "Complementar com criação de exemplos e prática desplugada.",
+      "status": "Revisão pedagógica em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "maquinas-modelos",
+    "ano": 2,
+    "titulo": "Modelos de máquinas",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar o atributo essencial para a função indicada",
+    "habilidade": "EF02CO01",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=maquinas-modelos",
+    "desafios": [
+      [
+        "Bicicleta: qual atributo é essencial para sua função?",
+        [
+          "rodas"
+        ],
+        [
+          "rodas",
+          "cor azul",
+          "adesivo"
+        ]
+      ],
+      [
+        "Relógio: qual atributo é essencial para sua função?",
+        [
+          "indicação de horas"
+        ],
+        [
+          "indicação de horas",
+          "pulseira verde",
+          "marca"
+        ]
+      ],
+      [
+        "Tesoura: qual atributo é essencial para sua função?",
+        [
+          "lâminas"
+        ],
+        [
+          "lâminas",
+          "cor vermelha",
+          "desenho"
+        ]
+      ],
+      [
+        "Guarda-chuva: qual atributo é essencial para sua função?",
+        [
+          "cobertura impermeável"
+        ],
+        [
+          "cobertura impermeável",
+          "estampa",
+          "cor"
+        ]
+      ],
+      [
+        "Lanterna: qual atributo é essencial para sua função?",
+        [
+          "fonte de luz"
+        ],
+        [
+          "fonte de luz",
+          "adesivo",
+          "cor"
+        ]
+      ],
+      [
+        "Bicicleta: qual atributo é essencial para sua função? Imagine outro modelo.",
+        [
+          "rodas"
+        ],
+        [
+          "rodas",
+          "cor azul",
+          "adesivo"
+        ]
+      ],
+      [
+        "Relógio: qual atributo é essencial para sua função? Imagine outro modelo.",
+        [
+          "indicação de horas"
+        ],
+        [
+          "indicação de horas",
+          "pulseira verde",
+          "marca"
+        ]
+      ],
+      [
+        "Tesoura: qual atributo é essencial para sua função? Imagine outro modelo.",
+        [
+          "lâminas"
+        ],
+        [
+          "lâminas",
+          "cor vermelha",
+          "desenho"
+        ]
+      ],
+      [
+        "Guarda-chuva: qual atributo é essencial para sua função? Imagine outro modelo.",
+        [
+          "cobertura impermeável"
+        ],
+        [
+          "cobertura impermeável",
+          "estampa",
+          "cor"
+        ]
+      ],
+      [
+        "Lanterna: qual atributo é essencial para sua função? Imagine outro modelo.",
+        [
+          "fonte de luz"
+        ],
+        [
+          "fonte de luz",
+          "adesivo",
+          "cor"
+        ]
+      ],
+      [
+        "Bicicleta: qual atributo é essencial para sua função? Imagine uma versão de outra cor.",
+        [
+          "rodas"
+        ],
+        [
+          "rodas",
+          "cor azul",
+          "adesivo"
+        ]
+      ],
+      [
+        "Relógio: qual atributo é essencial para sua função? Imagine uma versão de outra cor.",
+        [
+          "indicação de horas"
+        ],
+        [
+          "indicação de horas",
+          "pulseira verde",
+          "marca"
+        ]
+      ],
+      [
+        "Tesoura: qual atributo é essencial para sua função? Imagine uma versão de outra cor.",
+        [
+          "lâminas"
+        ],
+        [
+          "lâminas",
+          "cor vermelha",
+          "desenho"
+        ]
+      ],
+      [
+        "Guarda-chuva: qual atributo é essencial para sua função? Imagine uma versão de outra cor.",
+        [
+          "cobertura impermeável"
+        ],
+        [
+          "cobertura impermeável",
+          "estampa",
+          "cor"
+        ]
+      ],
+      [
+        "Lanterna: qual atributo é essencial para sua função? Imagine uma versão de outra cor.",
+        [
+          "fonte de luz"
+        ],
+        [
+          "fonte de luz",
+          "adesivo",
+          "cor"
+        ]
+      ]
+    ],
+    "explicacao": "Comparar atributos essenciais e acessórios; criar um modelo fora do jogo.",
+    "guia": "Comparar atributos essenciais e acessórios; criar um modelo fora do jogo. Demonstre com cartões e objetos sem energia. Leia os enunciados quando necessário; permita teclado, tempo livre e resposta oral.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Comparar atributos essenciais e acessórios; criar um modelo fora do jogo."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar a situação com cartões e justificar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios com mediação conforme necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e criar um exemplo diferente."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver situação inédita e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Comparar atributos essenciais e acessórios; criar um modelo fora do jogo.",
+      "evidencia": "Resolver situação inédita e justificar a escolha.",
+      "limite": "Complementar com criação de exemplos e prática desplugada.",
+      "status": "Revisão pedagógica em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "maquinas-cuidados",
+    "ano": 2,
+    "titulo": "Oficina segura",
+    "eixo": "Cultura Digital",
+    "descricao": "Escolher uma atitude segura para cada situação",
+    "habilidade": "EF02CO06",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=maquinas-cuidados",
+    "desafios": [
+      [
+        "Cabo danificado",
+        [
+          "Avisar um adulto"
+        ],
+        [
+          "Avisar um adulto",
+          "Puxar o cabo"
+        ]
+      ],
+      [
+        "Mãos molhadas",
+        [
+          "Secar as mãos"
+        ],
+        [
+          "Secar as mãos",
+          "Tocar na tomada"
+        ]
+      ],
+      [
+        "Bebida perto do computador",
+        [
+          "Afastar a bebida"
+        ],
+        [
+          "Afastar a bebida",
+          "Derramar sobre o teclado"
+        ]
+      ],
+      [
+        "Equipamento quente",
+        [
+          "Avisar um adulto"
+        ],
+        [
+          "Avisar um adulto",
+          "Cobrir as saídas de ar"
+        ]
+      ],
+      [
+        "Tomada solta",
+        [
+          "Não tocar e avisar"
+        ],
+        [
+          "Não tocar e avisar",
+          "Tentar consertar"
+        ]
+      ],
+      [
+        "Tela suja",
+        [
+          "Pedir orientação para limpar"
+        ],
+        [
+          "Pedir orientação para limpar",
+          "Jogar água"
+        ]
+      ],
+      [
+        "Fio no caminho",
+        [
+          "Avisar para organizar"
+        ],
+        [
+          "Avisar para organizar",
+          "Correr sobre o fio"
+        ]
+      ],
+      [
+        "Cheiro de queimado",
+        [
+          "Afastar-se e avisar"
+        ],
+        [
+          "Afastar-se e avisar",
+          "Continuar usando"
+        ]
+      ],
+      [
+        "Carregador quebrado",
+        [
+          "Parar de usar"
+        ],
+        [
+          "Parar de usar",
+          "Remendar sozinho"
+        ]
+      ],
+      [
+        "Computador aberto",
+        [
+          "Não tocar nos componentes"
+        ],
+        [
+          "Não tocar nos componentes",
+          "Mexer nos fios"
+        ]
+      ],
+      [
+        "Equipamento caiu",
+        [
+          "Avisar um adulto"
+        ],
+        [
+          "Avisar um adulto",
+          "Ligar imediatamente"
+        ]
+      ],
+      [
+        "Mesa instável",
+        [
+          "Pedir ajuda para estabilizar"
+        ],
+        [
+          "Pedir ajuda para estabilizar",
+          "Empurrar o aparelho"
+        ]
+      ],
+      [
+        "Ventilação bloqueada",
+        [
+          "Desobstruir com ajuda"
+        ],
+        [
+          "Desobstruir com ajuda",
+          "Cobrir mais"
+        ]
+      ],
+      [
+        "Cabo desconhecido",
+        [
+          "Pedir orientação"
+        ],
+        [
+          "Pedir orientação",
+          "Conectar à força"
+        ]
+      ],
+      [
+        "Fim da atividade",
+        [
+          "Seguir instruções de desligamento"
+        ],
+        [
+          "Seguir instruções de desligamento",
+          "Puxar da tomada"
+        ]
+      ]
+    ],
+    "explicacao": "Justificar atitudes seguras.",
+    "guia": "Justificar atitudes seguras. Demonstre com cartões e objetos sem energia. Leia os enunciados quando necessário; permita teclado, tempo livre e resposta oral.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Justificar atitudes seguras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar a situação com cartões e justificar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios com mediação conforme necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e criar um exemplo diferente."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver situação inédita e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Justificar atitudes seguras.",
+      "evidencia": "Resolver situação inédita e justificar a escolha.",
+      "limite": "Complementar com criação de exemplos e prática desplugada.",
+      "status": "Revisão pedagógica em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
   }
 ]
