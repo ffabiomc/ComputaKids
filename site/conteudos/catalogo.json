@@ -46,7 +46,7 @@
     "titulo": "Trilha dos padrões",
     "ano": 0,
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EI03CO01",
     "descricao": "Complete padrões de cores e símbolos.",
     "duracao": 15,
     "motor": "padrao",
@@ -79,7 +79,10 @@
         5,
         "Apresente um exemplo novo e observe a estratégia."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Reconhecimento de padrões repetidos em sons, movimentos e desenhos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "sequencias",
@@ -129,7 +132,7 @@
     "titulo": "Estação de reciclagem",
     "ano": 0,
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EI03CO06",
     "descricao": "Classifique objetos por material.",
     "duracao": 15,
     "motor": "classe",
@@ -162,7 +165,10 @@
         5,
         "Apresente um exemplo novo e observe a estratégia."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Compreensão de decisões binárias.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "memoria-digital",
@@ -325,7 +331,7 @@
     "descricao": "Manipule interruptores e portas E, OU e NÃO para atingir a saída solicitada.",
     "modo": "portas",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF69CO02",
     "duracao": 15,
     "motor": "circuitos",
     "url": "circuitos.html?modo=portas",
@@ -357,7 +363,10 @@
         5,
         "Proponha uma combinação inédita e peça justificativa."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "automacao-inteligente",
@@ -366,7 +375,7 @@
     "descricao": "Configure sensores virtuais para controlar sistemas automáticos.",
     "modo": "automacao",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF69CO02",
     "duracao": 15,
     "motor": "circuitos",
     "url": "circuitos.html?modo=automacao",
@@ -398,7 +407,10 @@
         5,
         "Proponha uma combinação inédita e peça justificativa."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "pixel-lab",
@@ -409,7 +421,7 @@
     "url": "pixels.html",
     "guia": "Use papel quadriculado para representar imagens com zeros e uns.",
     "eixo": "Mundo Digital",
-    "habilidade": "EF15CO05",
+    "habilidade": "EF04CO05",
     "duracao": 15,
     "status": "piloto",
     "plano": [
@@ -439,8 +451,8 @@
         "Crie uma representação inédita."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Codificação de informações em formatos computacionais.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -495,7 +507,7 @@
     "url": "busca.html",
     "eixo": "Pensamento Computacional",
     "guia": "Use cartões ordenados e compare busca linear com busca binária.",
-    "habilidade": null,
+    "habilidade": "EF69CO02",
     "duracao": 15,
     "status": "piloto",
     "plano": [
@@ -524,7 +536,10 @@
         5,
         "Resolva um exemplo novo e justifique."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "rotas-digitais",
@@ -535,7 +550,7 @@
     "url": "redes.html",
     "eixo": "Mundo Digital",
     "guia": "Represente roteadores com alunos e conexões com barbante. Discuta caminhos alternativos.",
-    "habilidade": null,
+    "habilidade": "EF69CO07",
     "duracao": 15,
     "status": "piloto",
     "plano": [
@@ -564,7 +579,10 @@
         5,
         "Resolva um exemplo novo e justifique."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Transmissão de informações em pacotes através de equipamentos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "robo-blocos",
@@ -615,7 +633,7 @@
     "titulo": "Fábrica de robôs",
     "descricao": "Use blocos de repetição para reduzir o tamanho do programa.",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO02",
+    "habilidade": "EF04CO03",
     "duracao": 15,
     "status": "piloto",
     "motor": "blocos",
@@ -648,8 +666,8 @@
         "Crie um programa para outro percurso."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Algoritmos com repetições simples e aninhadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -658,7 +676,7 @@
     "titulo": "Oficina de ordenação",
     "descricao": "Ordene números trocando elementos vizinhos.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF69CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "ordenacao",
@@ -690,7 +708,10 @@
         5,
         "Ordene uma nova lista e explique o procedimento."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "ordenacao-palavras",
@@ -698,7 +719,7 @@
     "titulo": "Arquivo inteligente",
     "descricao": "Organize palavras alfabeticamente usando comparações e trocas.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF07CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "ordenacao",
@@ -730,7 +751,10 @@
         5,
         "Ordene uma nova lista e explique o procedimento."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Soluções automatizadas com registros e vetores.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "hardware-oficina",
@@ -812,7 +836,7 @@
         "RAM"
       ]
     ],
-    "habilidade": "EF15CO06",
+    "habilidade": "EF05CO05",
     "duracao": 15,
     "status": "piloto",
     "motor": "missoes",
@@ -845,8 +869,8 @@
         "Resolva uma situação inédita."
       ]
     ],
-    "habilidadeDescricao": "Conhecer componentes e princípios de funcionamento de dispositivos.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificação dos principais componentes do computador.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -929,7 +953,7 @@
         "Repassar dados"
       ]
     ],
-    "habilidade": null,
+    "habilidade": "EF08CO10",
     "duracao": 15,
     "status": "piloto",
     "motor": "missoes",
@@ -961,7 +985,10 @@
         5,
         "Resolva uma situação inédita."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Discussão de segurança e privacidade em ambientes virtuais.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "variaveis-lab",
@@ -969,7 +996,7 @@
     "titulo": "Laboratório de variáveis",
     "descricao": "Transforme valores usando operações aritméticas.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF06CO06",
     "duracao": 15,
     "status": "piloto",
     "motor": "algoritmos",
@@ -1001,7 +1028,10 @@
         5,
         "Explique um algoritmo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Generalização de soluções usando parâmetros e variáveis.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "condicoes-lab",
@@ -1009,7 +1039,7 @@
     "titulo": "Máquina de decisões",
     "descricao": "Construa condições que classificam valores corretamente.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF69CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "algoritmos",
@@ -1041,7 +1071,10 @@
         5,
         "Explique um algoritmo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "ia-classificador",
@@ -1050,7 +1083,7 @@
     "eixo": "Pensamento Computacional",
     "descricao": "Classifique exemplos e teste um modelo simples de vizinho mais próximo.",
     "guia": "Discuta como exemplos incompletos ou incorretos afetam previsões.",
-    "habilidade": null,
+    "habilidade": "EF09CO02",
     "duracao": 15,
     "status": "piloto",
     "motor": "laboratorios",
@@ -1081,7 +1114,10 @@
         5,
         "Explique um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Construção de soluções computacionais interdisciplinares.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "cifra-lab",
@@ -1090,7 +1126,7 @@
     "eixo": "Mundo Digital",
     "descricao": "Decodifique mensagens usando deslocamentos do alfabeto.",
     "guia": "Use discos de letras em papel e explique que a cifra de César não protege dados modernos.",
-    "habilidade": null,
+    "habilidade": "EF07CO07",
     "duracao": 15,
     "status": "piloto",
     "motor": "laboratorios",
@@ -1121,7 +1157,10 @@
         5,
         "Explique um exemplo novo."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Identificação de riscos cibernéticos e experimentação de proteções.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "pilhas-lab",
@@ -1129,7 +1168,7 @@
     "titulo": "Torre de dados",
     "descricao": "Manipule uma pilha usando a regra último a entrar, primeiro a sair.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF07CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "estruturas",
@@ -1161,7 +1200,10 @@
         5,
         "Preveja a saída de uma sequência inédita."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Soluções automatizadas com registros e vetores.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "filas-lab",
@@ -1169,7 +1211,7 @@
     "titulo": "Central de atendimento",
     "descricao": "Organize uma fila usando a regra primeiro a entrar, primeiro a sair.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EF08CO03",
     "duracao": 15,
     "status": "piloto",
     "motor": "estruturas",
@@ -1201,7 +1243,10 @@
         5,
         "Preveja a saída de uma sequência inédita."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Algoritmos clássicos de manipulação de listas.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "pares-figuras",
@@ -1209,7 +1254,7 @@
     "titulo": "Encontre os iguais",
     "descricao": "Reconheça figuras iguais em conjuntos visuais.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EI03CO06",
     "duracao": 15,
     "status": "piloto",
     "motor": "infantil",
@@ -1241,7 +1286,10 @@
         5,
         "Observe e registre estratégias."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Compreensão de decisões binárias.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "sequencia-figuras",
@@ -1249,7 +1297,7 @@
     "titulo": "Trenzinho das figuras",
     "descricao": "Complete sequências visuais de figuras.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EI03CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "infantil",
@@ -1281,7 +1329,10 @@
         5,
         "Observe e registre estratégias."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Reconhecimento de padrões repetidos em sons, movimentos e desenhos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
   },
   {
     "id": "figura-diferente",
@@ -1289,7 +1340,7 @@
     "titulo": "Qual é diferente?",
     "descricao": "Identifique a figura que não pertence ao grupo.",
     "eixo": "Pensamento Computacional",
-    "habilidade": null,
+    "habilidade": "EI03CO06",
     "duracao": 15,
     "status": "piloto",
     "motor": "infantil",
@@ -1321,7 +1372,10 @@
         5,
         "Observe e registre estratégias."
       ]
-    ]
+    ],
+    "habilidadeDescricao": "Compreensão de decisões binárias.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
   },
   {
     "id": "receitas-ordem",
@@ -1838,7 +1892,7 @@
     "descricao": "Copie desenhos em uma matriz.",
     "mode": "copy",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF04CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1871,8 +1925,8 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -1882,7 +1936,7 @@
     "descricao": "Reproduza desenhos refletidos horizontalmente.",
     "mode": "mirror",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF04CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1915,8 +1969,8 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -1926,7 +1980,7 @@
     "descricao": "Gire desenhos em 90 graus.",
     "mode": "rotate",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF04CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -1959,8 +2013,8 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -1970,7 +2024,7 @@
     "descricao": "Selecione números que atendem a uma condição.",
     "mode": "filter",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -2003,8 +2057,8 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2014,7 +2068,7 @@
     "descricao": "Selecione números pares em uma lista.",
     "mode": "even",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "duracao": 15,
     "status": "piloto",
     "motor": "matrizes",
@@ -2047,8 +2101,8 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2186,7 +2240,7 @@
     "titulo": "Inventário espacial",
     "descricao": "Conte os elementos de uma lista que atendem a um critério.",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2219,8 +2273,8 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2229,7 +2283,7 @@
     "titulo": "Arquivo de coordenadas",
     "descricao": "Encontre elementos em posições numeradas de uma lista.",
     "eixo": "Pensamento Computacional",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "regras",
@@ -2262,8 +2316,8 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2656,7 +2710,7 @@
     "titulo": "Cuide do computador",
     "eixo": "Cultura Digital",
     "descricao": "Escolher cuidados com equipamentos",
-    "habilidade": "EF15CO09",
+    "habilidade": "EF02CO06",
     "status": "piloto",
     "duracao": 15,
     "motor": "digital",
@@ -2702,8 +2756,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Cuidados de segurança no uso de dispositivos.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2712,7 +2766,7 @@
     "titulo": "Guardiões da privacidade",
     "eixo": "Cultura Digital",
     "descricao": "Reconhecer dados que exigem proteção",
-    "habilidade": "EF15CO09",
+    "habilidade": "EF03CO09",
     "status": "piloto",
     "duracao": 15,
     "motor": "digital",
@@ -2758,8 +2812,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Impactos do compartilhamento de dados pessoais.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -2824,7 +2878,7 @@
     "titulo": "Investigadores da informação",
     "eixo": "Cultura Digital",
     "descricao": "Reconhecer práticas de verificação",
-    "habilidade": "EF15CO09",
+    "habilidade": "EF04CO08",
     "status": "piloto",
     "duracao": 15,
     "motor": "digital",
@@ -2870,8 +2924,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Verificação da confiabilidade de fontes na internet.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -3244,7 +3298,7 @@
     "titulo": "Busca do maior",
     "eixo": "Pensamento Computacional",
     "descricao": "Encontrar o maior elemento",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3278,8 +3332,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -3288,7 +3342,7 @@
     "titulo": "Armazém de valores",
     "eixo": "Pensamento Computacional",
     "descricao": "Somar os elementos de uma lista",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF05CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "transform",
@@ -3322,8 +3376,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -3552,7 +3606,7 @@
     "titulo": "Mapa refletido",
     "eixo": "Pensamento Computacional",
     "descricao": "Localizar a posição refletida horizontalmente",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF04CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "grid",
@@ -3586,8 +3640,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -3596,7 +3650,7 @@
     "titulo": "Troca de coordenadas",
     "eixo": "Pensamento Computacional",
     "descricao": "Trocar linha e coluna",
-    "habilidade": "EF15CO01",
+    "habilidade": "EF04CO01",
     "status": "piloto",
     "duracao": 15,
     "motor": "grid",
@@ -3630,8 +3684,8 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -3948,7 +4002,7 @@
     "titulo": "Dupla repetição",
     "eixo": "Pensamento Computacional",
     "descricao": "Interpretar duas repetições aninhadas",
-    "habilidade": "EF15CO02",
+    "habilidade": "EF04CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "sequenciador",
@@ -3982,8 +4036,8 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Algoritmos com repetições simples e aninhadas.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -4300,7 +4354,7 @@
     "titulo": "Negativo digital",
     "eixo": "Mundo Digital",
     "descricao": "Inverter os bits",
-    "habilidade": "EF15CO05",
+    "habilidade": "EF04CO05",
     "status": "piloto",
     "duracao": 15,
     "motor": "codificador",
@@ -4334,8 +4388,8 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Codificação de informações em formatos computacionais.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -4344,7 +4398,7 @@
     "titulo": "Encontre a diferença",
     "eixo": "Mundo Digital",
     "descricao": "Contar posições diferentes entre códigos",
-    "habilidade": "EF15CO05",
+    "habilidade": "EF04CO05",
     "status": "piloto",
     "duracao": 15,
     "motor": "codificador",
@@ -4378,8 +4432,8 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Codificação de informações em formatos computacionais.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -4597,7 +4651,7 @@
     "titulo": "Planeje a horta",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": "EF15CO04",
+    "habilidade": "EF03CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4642,8 +4696,8 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Decomposição de problemas e combinação de soluções.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
@@ -4652,7 +4706,7 @@
     "titulo": "Organize a exposição",
     "eixo": "Pensamento Computacional",
     "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
-    "habilidade": "EF15CO04",
+    "habilidade": "EF03CO03",
     "status": "piloto",
     "duracao": 15,
     "motor": "decompor",
@@ -4697,8 +4751,8 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Decomposição de problemas e combinação de soluções.",
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   {
