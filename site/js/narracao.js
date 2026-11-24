@@ -1,0 +1,1 @@
+export function narrar(texto){if(!('speechSynthesis' in window))return false;window.speechSynthesis.cancel();const fala=new SpeechSynthesisUtterance(texto);fala.lang='pt-BR';window.speechSynthesis.speak(fala);return true;}
