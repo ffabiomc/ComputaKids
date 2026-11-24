@@ -251,5 +251,23 @@
     "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "descricaoConferida": true
+  },
+  "EF03CO01": {
+    "codigo": "EF03CO01",
+    "resumo": "Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação.",
+    "eixo": "Pensamento Computacional",
+    "pagina": 18,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+    "descricaoConferida": true
+  },
+  "EF03CO02": {
+    "codigo": "EF03CO02",
+    "resumo": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração.",
+    "eixo": "Pensamento Computacional",
+    "pagina": 18,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, PDF fornecido, página 18",
+    "descricaoConferida": true
   }
 }
