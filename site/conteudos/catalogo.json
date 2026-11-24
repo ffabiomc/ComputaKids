@@ -10404,5 +10404,770 @@
       "pagina": 18,
       "adequacao": "parcial"
     }
+  },
+  {
+    "id": "codigo-binario-4",
+    "titulo": "Números em bits",
+    "ano": 4,
+    "eixo": "Mundo Digital",
+    "descricao": "Codificar números em quatro bits.",
+    "habilidade": "EF04CO05",
+    "habilidadeDescricao": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial à habilidade; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=codigo-binario-4",
+    "desafios": [
+      {
+        "enunciado": "Escreva 1 em quatro bits.",
+        "resposta": "0001",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 1."
+      },
+      {
+        "enunciado": "Escreva 2 em quatro bits.",
+        "resposta": "0010",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 2."
+      },
+      {
+        "enunciado": "Escreva 3 em quatro bits.",
+        "resposta": "0011",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 3."
+      },
+      {
+        "enunciado": "Escreva 4 em quatro bits.",
+        "resposta": "0100",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 4."
+      },
+      {
+        "enunciado": "Escreva 5 em quatro bits.",
+        "resposta": "0101",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 5."
+      },
+      {
+        "enunciado": "Escreva 6 em quatro bits.",
+        "resposta": "0110",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 6."
+      },
+      {
+        "enunciado": "Escreva 7 em quatro bits.",
+        "resposta": "0111",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 7."
+      },
+      {
+        "enunciado": "Escreva 8 em quatro bits.",
+        "resposta": "1000",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 8."
+      },
+      {
+        "enunciado": "Escreva 9 em quatro bits.",
+        "resposta": "1001",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 9."
+      },
+      {
+        "enunciado": "Escreva 10 em quatro bits.",
+        "resposta": "1010",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 10."
+      },
+      {
+        "enunciado": "Escreva 11 em quatro bits.",
+        "resposta": "1011",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 11."
+      },
+      {
+        "enunciado": "Escreva 12 em quatro bits.",
+        "resposta": "1100",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 12."
+      },
+      {
+        "enunciado": "Escreva 13 em quatro bits.",
+        "resposta": "1101",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 13."
+      },
+      {
+        "enunciado": "Escreva 14 em quatro bits.",
+        "resposta": "1110",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 14."
+      },
+      {
+        "enunciado": "Escreva 15 em quatro bits.",
+        "resposta": "1111",
+        "dica": "Pesos: 8, 4, 2, 1. Use 0 ou 1.",
+        "explicacao": "Os pesos dos bits ligados somam 15."
+      }
+    ],
+    "guia": "Usar cartões com códigos e valores para codificar números em quatro bits. Em duplas, criar e decodificar três exemplos novos.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Codificar números em quatro bits."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Usar cartões com códigos e valores para codificar números em quatro bits. Em duplas, criar e decodificar três exemplos novos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver os desafios consultando a tabela."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar códigos e criar novos exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Codificar números em quatro bits.",
+      "evidencia": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "limite": "Trabalha um formato de representação; combinar com os demais jogos para ampliar a habilidade.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Usar cartões com códigos e valores para codificar números em quatro bits. Em duplas, criar e decodificar três exemplos novos.",
+      "criteriosAvaliacao": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral e tempo livre. RGB usa nomes e números, não depende da distinção visual de cores.",
+      "testesFuncionais": "Roteiro pendente no navegador: entrada incorreta, correção, Enter, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
+      "pagina": 26,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "leitor-binario-4",
+    "titulo": "Leitor de bits",
+    "ano": 4,
+    "eixo": "Mundo Digital",
+    "descricao": "Decodificar números binários.",
+    "habilidade": "EF04CO05",
+    "habilidadeDescricao": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial à habilidade; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=leitor-binario-4",
+    "desafios": [
+      {
+        "enunciado": "Qual número representa 1111?",
+        "resposta": "15",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 15."
+      },
+      {
+        "enunciado": "Qual número representa 1110?",
+        "resposta": "14",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 14."
+      },
+      {
+        "enunciado": "Qual número representa 1101?",
+        "resposta": "13",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 13."
+      },
+      {
+        "enunciado": "Qual número representa 1100?",
+        "resposta": "12",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 12."
+      },
+      {
+        "enunciado": "Qual número representa 1011?",
+        "resposta": "11",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 11."
+      },
+      {
+        "enunciado": "Qual número representa 1010?",
+        "resposta": "10",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 10."
+      },
+      {
+        "enunciado": "Qual número representa 1001?",
+        "resposta": "9",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 9."
+      },
+      {
+        "enunciado": "Qual número representa 1000?",
+        "resposta": "8",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 8."
+      },
+      {
+        "enunciado": "Qual número representa 0111?",
+        "resposta": "7",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 7."
+      },
+      {
+        "enunciado": "Qual número representa 0110?",
+        "resposta": "6",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 6."
+      },
+      {
+        "enunciado": "Qual número representa 0101?",
+        "resposta": "5",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 5."
+      },
+      {
+        "enunciado": "Qual número representa 0100?",
+        "resposta": "4",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 4."
+      },
+      {
+        "enunciado": "Qual número representa 0011?",
+        "resposta": "3",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 3."
+      },
+      {
+        "enunciado": "Qual número representa 0010?",
+        "resposta": "2",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 2."
+      },
+      {
+        "enunciado": "Qual número representa 0001?",
+        "resposta": "1",
+        "dica": "Some os pesos 8, 4, 2, 1 dos bits ligados.",
+        "explicacao": "O valor decimal é 1."
+      }
+    ],
+    "guia": "Usar cartões com códigos e valores para decodificar números binários. Em duplas, criar e decodificar três exemplos novos.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Decodificar números binários."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Usar cartões com códigos e valores para decodificar números binários. Em duplas, criar e decodificar três exemplos novos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver os desafios consultando a tabela."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar códigos e criar novos exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Decodificar números binários.",
+      "evidencia": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "limite": "Trabalha um formato de representação; combinar com os demais jogos para ampliar a habilidade.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Usar cartões com códigos e valores para decodificar números binários. Em duplas, criar e decodificar três exemplos novos.",
+      "criteriosAvaliacao": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral e tempo livre. RGB usa nomes e números, não depende da distinção visual de cores.",
+      "testesFuncionais": "Roteiro pendente no navegador: entrada incorreta, correção, Enter, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
+      "pagina": 26,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "ascii-letras",
+    "titulo": "Mensagens em ASCII",
+    "ano": 4,
+    "eixo": "Mundo Digital",
+    "descricao": "Codificar letras maiúsculas em ASCII decimal.",
+    "habilidade": "EF04CO05",
+    "habilidadeDescricao": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial à habilidade; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=ascii-letras",
+    "desafios": [
+      {
+        "enunciado": "Qual código ASCII decimal da letra A?",
+        "resposta": "65",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra H?",
+        "resposta": "72",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra O?",
+        "resposta": "79",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra V?",
+        "resposta": "86",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra C?",
+        "resposta": "67",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra J?",
+        "resposta": "74",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra Q?",
+        "resposta": "81",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra X?",
+        "resposta": "88",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra E?",
+        "resposta": "69",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra L?",
+        "resposta": "76",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra S?",
+        "resposta": "83",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra Z?",
+        "resposta": "90",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra G?",
+        "resposta": "71",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra N?",
+        "resposta": "78",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      },
+      {
+        "enunciado": "Qual código ASCII decimal da letra U?",
+        "resposta": "85",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "Cada letra maiúscula tem um código próprio."
+      }
+    ],
+    "guia": "Usar cartões com códigos e valores para codificar letras maiúsculas em ascii decimal. Em duplas, criar e decodificar três exemplos novos.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Codificar letras maiúsculas em ASCII decimal."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Usar cartões com códigos e valores para codificar letras maiúsculas em ascii decimal. Em duplas, criar e decodificar três exemplos novos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver os desafios consultando a tabela."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar códigos e criar novos exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Codificar letras maiúsculas em ASCII decimal.",
+      "evidencia": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "limite": "Trabalha um formato de representação; combinar com os demais jogos para ampliar a habilidade.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Usar cartões com códigos e valores para codificar letras maiúsculas em ascii decimal. Em duplas, criar e decodificar três exemplos novos.",
+      "criteriosAvaliacao": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral e tempo livre. RGB usa nomes e números, não depende da distinção visual de cores.",
+      "testesFuncionais": "Roteiro pendente no navegador: entrada incorreta, correção, Enter, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
+      "pagina": 26,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "ascii-decodificar",
+    "titulo": "Decifrador ASCII",
+    "ano": 4,
+    "eixo": "Mundo Digital",
+    "descricao": "Decodificar códigos ASCII em letras.",
+    "habilidade": "EF04CO05",
+    "habilidadeDescricao": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial à habilidade; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=ascii-decodificar",
+    "desafios": [
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 65?",
+        "resposta": "A",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra A."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 76?",
+        "resposta": "L",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra L."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 87?",
+        "resposta": "W",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra W."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 72?",
+        "resposta": "H",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra H."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 83?",
+        "resposta": "S",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra S."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 68?",
+        "resposta": "D",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra D."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 79?",
+        "resposta": "O",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra O."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 90?",
+        "resposta": "Z",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra Z."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 75?",
+        "resposta": "K",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra K."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 86?",
+        "resposta": "V",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra V."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 71?",
+        "resposta": "G",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra G."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 82?",
+        "resposta": "R",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra R."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 67?",
+        "resposta": "C",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra C."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 78?",
+        "resposta": "N",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra N."
+      },
+      {
+        "enunciado": "Qual letra corresponde ao código ASCII 89?",
+        "resposta": "Y",
+        "dica": "A=65, B=66, C=67 ... Z=90.",
+        "explicacao": "O código representa a letra Y."
+      }
+    ],
+    "guia": "Usar cartões com códigos e valores para decodificar códigos ascii em letras. Em duplas, criar e decodificar três exemplos novos.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Decodificar códigos ASCII em letras."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Usar cartões com códigos e valores para decodificar códigos ascii em letras. Em duplas, criar e decodificar três exemplos novos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver os desafios consultando a tabela."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar códigos e criar novos exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Decodificar códigos ASCII em letras.",
+      "evidencia": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "limite": "Trabalha um formato de representação; combinar com os demais jogos para ampliar a habilidade.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Usar cartões com códigos e valores para decodificar códigos ascii em letras. Em duplas, criar e decodificar três exemplos novos.",
+      "criteriosAvaliacao": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral e tempo livre. RGB usa nomes e números, não depende da distinção visual de cores.",
+      "testesFuncionais": "Roteiro pendente no navegador: entrada incorreta, correção, Enter, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
+      "pagina": 26,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "rgb-canais",
+    "titulo": "Laboratório RGB",
+    "ano": 4,
+    "eixo": "Mundo Digital",
+    "descricao": "Representar cores por três canais RGB.",
+    "habilidade": "EF04CO05",
+    "habilidadeDescricao": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial à habilidade; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=rgb-canais",
+    "desafios": [
+      {
+        "enunciado": "Digite os três canais RGB da cor preto separados por vírgulas.",
+        "resposta": "0,0,0",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa preto."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor vermelho separados por vírgulas.",
+        "resposta": "255,0,0",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa vermelho."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor verde separados por vírgulas.",
+        "resposta": "0,255,0",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa verde."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor azul separados por vírgulas.",
+        "resposta": "0,0,255",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa azul."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor branco separados por vírgulas.",
+        "resposta": "255,255,255",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa branco."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor amarelo separados por vírgulas.",
+        "resposta": "255,255,0",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa amarelo."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor ciano separados por vírgulas.",
+        "resposta": "0,255,255",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa ciano."
+      },
+      {
+        "enunciado": "Digite os três canais RGB da cor magenta separados por vírgulas.",
+        "resposta": "255,0,255",
+        "dica": "Ordem R,G,B. Cada canal vale 0 ou 255 neste desafio.",
+        "explicacao": "A combinação dos canais representa magenta."
+      },
+      {
+        "enunciado": "Na cor preto, qual valor do canal B?",
+        "resposta": "0",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 0."
+      },
+      {
+        "enunciado": "Na cor vermelho, qual valor do canal R?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      },
+      {
+        "enunciado": "Na cor verde, qual valor do canal G?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      },
+      {
+        "enunciado": "Na cor azul, qual valor do canal B?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      },
+      {
+        "enunciado": "Na cor branco, qual valor do canal R?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      },
+      {
+        "enunciado": "Na cor amarelo, qual valor do canal G?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      },
+      {
+        "enunciado": "Na cor ciano, qual valor do canal B?",
+        "resposta": "255",
+        "dica": "R=vermelho, G=verde, B=azul; 0 desligado, 255 máximo.",
+        "explicacao": "O canal solicitado vale 255."
+      }
+    ],
+    "guia": "Usar cartões com códigos e valores para representar cores por três canais rgb. Em duplas, criar e decodificar três exemplos novos.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Representar cores por três canais RGB."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Usar cartões com códigos e valores para representar cores por três canais rgb. Em duplas, criar e decodificar três exemplos novos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver os desafios consultando a tabela."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar códigos e criar novos exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Representar cores por três canais RGB.",
+      "evidencia": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "limite": "Trabalha um formato de representação; combinar com os demais jogos para ampliar a habilidade.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Usar cartões com códigos e valores para representar cores por três canais rgb. Em duplas, criar e decodificar três exemplos novos.",
+      "criteriosAvaliacao": "Produzir e interpretar três códigos inéditos, explicando a correspondência entre informação e representação.",
+      "acessibilidade": "Leitura mediada, teclado, resposta oral e tempo livre. RGB usa nomes e números, não depende da distinção visual de cores.",
+      "testesFuncionais": "Roteiro pendente no navegador: entrada incorreta, correção, Enter, avanço, conclusão e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
+      "pagina": 26,
+      "adequacao": "parcial"
+    }
   }
 ]
