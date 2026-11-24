@@ -387,5 +387,85 @@
         "Proponha uma combinação inédita e peça justificativa."
       ]
     ]
+  },
+  {
+    "id": "pixel-lab",
+    "ano": 4,
+    "titulo": "Laboratório de pixels",
+    "descricao": "Reproduza imagens em uma matriz de pixels e observe sua codificação.",
+    "motor": "pixels",
+    "url": "pixels.html",
+    "guia": "Use papel quadriculado para representar imagens com zeros e uns.",
+    "eixo": "Mundo Digital",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reproduza imagens em uma matriz de pixels e observe sua codificação."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use papel quadriculado para representar imagens com zeros e uns."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare representações e estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Crie uma representação inédita."
+      ]
+    ]
+  },
+  {
+    "id": "binario-lab",
+    "ano": 5,
+    "titulo": "Missão binária",
+    "descricao": "Configure bits para representar números decimais.",
+    "motor": "binario",
+    "url": "binario.html",
+    "guia": "Use cartões com valores 1, 2, 4, 8 e 16 e explore suas somas.",
+    "eixo": "Mundo Digital",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Configure bits para representar números decimais."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões com valores 1, 2, 4, 8 e 16 e explore suas somas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare representações e estratégias."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Crie uma representação inédita."
+      ]
+    ]
   }
 ]
