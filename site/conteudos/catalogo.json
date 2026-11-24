@@ -3515,5 +3515,1118 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ]
+  },
+  {
+    "id": "ritmo-palmas",
+    "ano": 1,
+    "titulo": "Ritmo das palmas",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Reproduzir um comando repetido",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=ritmo-palmas",
+    "mode": "repeat",
+    "guia": "Reproduzir um comando repetido. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reproduzir um comando repetido"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "ritmo-formas",
+    "ano": 1,
+    "titulo": "Fábrica de formas",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Reproduzir um bloco alternado",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=ritmo-formas",
+    "mode": "alternate",
+    "guia": "Reproduzir um bloco alternado. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reproduzir um bloco alternado"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "comprimir-setas",
+    "ano": 2,
+    "titulo": "Comandos compactos",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Representar uma sequência com repetição",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=comprimir-setas",
+    "mode": "compress",
+    "guia": "Representar uma sequência com repetição. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Representar uma sequência com repetição"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "expandir-setas",
+    "ano": 2,
+    "titulo": "Expedição repetida",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Expandir um bloco de comandos",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=expandir-setas",
+    "mode": "expand",
+    "guia": "Expandir um bloco de comandos. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Expandir um bloco de comandos"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "corrigir-repeticao",
+    "ano": 3,
+    "titulo": "Conserte o laço",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Corrigir a quantidade de repetições",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=corrigir-repeticao",
+    "mode": "repair",
+    "guia": "Corrigir a quantidade de repetições. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Corrigir a quantidade de repetições"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "contar-repeticao",
+    "ano": 3,
+    "titulo": "Contador de comandos",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Calcular o total de comandos executados",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=contar-repeticao",
+    "mode": "length",
+    "guia": "Calcular o total de comandos executados. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Calcular o total de comandos executados"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "repeticao-dupla",
+    "ano": 4,
+    "titulo": "Dupla repetição",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Interpretar duas repetições aninhadas",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=repeticao-dupla",
+    "mode": "nested",
+    "guia": "Interpretar duas repetições aninhadas. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Interpretar duas repetições aninhadas"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "economia-comandos",
+    "ano": 5,
+    "titulo": "Economia de código",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Comparar quantidade de comandos antes e depois da compactação",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "sequenciador",
+    "url": "sequenciador.html?id=economia-comandos",
+    "mode": "cost",
+    "guia": "Comparar quantidade de comandos antes e depois da compactação. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Comparar quantidade de comandos antes e depois da compactação"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "simbolos-frutas",
+    "ano": 1,
+    "titulo": "Alfabeto das frutas",
+    "eixo": "Mundo Digital",
+    "descricao": "Codificar uma mensagem usando uma legenda",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=simbolos-frutas",
+    "mode": "encode",
+    "guia": "Codificar uma mensagem usando uma legenda. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Codificar uma mensagem usando uma legenda"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "simbolos-animais",
+    "ano": 1,
+    "titulo": "Recado dos animais",
+    "eixo": "Mundo Digital",
+    "descricao": "Decodificar uma mensagem usando uma legenda",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=simbolos-animais",
+    "mode": "decode",
+    "guia": "Decodificar uma mensagem usando uma legenda. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Decodificar uma mensagem usando uma legenda"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "codigos-cores",
+    "ano": 2,
+    "titulo": "Correio das cores",
+    "eixo": "Mundo Digital",
+    "descricao": "Codificar uma mensagem usando uma legenda",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=codigos-cores",
+    "mode": "encode",
+    "guia": "Codificar uma mensagem usando uma legenda. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Codificar uma mensagem usando uma legenda"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "codigos-formas",
+    "ano": 2,
+    "titulo": "Mensagens geométricas",
+    "eixo": "Mundo Digital",
+    "descricao": "Decodificar uma mensagem usando uma legenda",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=codigos-formas",
+    "mode": "decode",
+    "guia": "Decodificar uma mensagem usando uma legenda. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Decodificar uma mensagem usando uma legenda"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "bits-lampadas",
+    "ano": 3,
+    "titulo": "Painel de lâmpadas",
+    "eixo": "Mundo Digital",
+    "descricao": "Representar lâmpadas com zeros e uns",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=bits-lampadas",
+    "mode": "bits",
+    "guia": "Representar lâmpadas com zeros e uns. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Representar lâmpadas com zeros e uns"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "bits-contagem",
+    "ano": 3,
+    "titulo": "Contador de luzes",
+    "eixo": "Mundo Digital",
+    "descricao": "Contar bits ligados",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=bits-contagem",
+    "mode": "ones",
+    "guia": "Contar bits ligados. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Contar bits ligados"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "bits-inversao",
+    "ano": 4,
+    "titulo": "Negativo digital",
+    "eixo": "Mundo Digital",
+    "descricao": "Inverter os bits",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=bits-inversao",
+    "mode": "invert",
+    "guia": "Inverter os bits. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Inverter os bits"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "bits-comparacao",
+    "ano": 4,
+    "titulo": "Encontre a diferença",
+    "eixo": "Mundo Digital",
+    "descricao": "Contar posições diferentes entre códigos",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=bits-comparacao",
+    "mode": "diff",
+    "guia": "Contar posições diferentes entre códigos. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Contar posições diferentes entre códigos"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "bits-paridade",
+    "ano": 5,
+    "titulo": "Fiscal dos bits",
+    "eixo": "Mundo Digital",
+    "descricao": "Determinar se a quantidade de bits ligados é par ou ímpar",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "codificador",
+    "url": "codificador.html?id=bits-paridade",
+    "mode": "parity",
+    "guia": "Determinar se a quantidade de bits ligados é par ou ímpar. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Determinar se a quantidade de bits ligados é par ou ímpar"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-casa",
+    "ano": 1,
+    "titulo": "Construa uma casa",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-casa",
+    "good": [
+      "Telhado",
+      "Parede",
+      "Porta",
+      "Janela"
+    ],
+    "bad": [
+      "Roda",
+      "Asa",
+      "Pedal",
+      "Vela"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-bicicleta",
+    "ano": 2,
+    "titulo": "Monte a bicicleta",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-bicicleta",
+    "good": [
+      "Roda",
+      "Pedal",
+      "Guidão",
+      "Selim"
+    ],
+    "bad": [
+      "Telhado",
+      "Teclado",
+      "Asa",
+      "Monitor"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-escola",
+    "ano": 2,
+    "titulo": "Organize a mochila",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-escola",
+    "good": [
+      "Caderno",
+      "Lápis",
+      "Borracha",
+      "Régua"
+    ],
+    "bad": [
+      "Panela",
+      "Pneu",
+      "Martelo",
+      "Travesseiro"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-horta",
+    "ano": 3,
+    "titulo": "Planeje a horta",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-horta",
+    "good": [
+      "Preparar terra",
+      "Semear",
+      "Regar",
+      "Colher"
+    ],
+    "bad": [
+      "Pintar tela",
+      "Ligar impressora",
+      "Encher pneu",
+      "Dobrar papel"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-evento",
+    "ano": 3,
+    "titulo": "Organize a exposição",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-evento",
+    "good": [
+      "Escolher tema",
+      "Preparar trabalhos",
+      "Montar espaço",
+      "Convidar visitantes"
+    ],
+    "bad": [
+      "Trocar pneu",
+      "Formatar disco",
+      "Regar horta",
+      "Lavar louça"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-historia",
+    "ano": 4,
+    "titulo": "Estúdio de histórias",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-historia",
+    "good": [
+      "Criar personagens",
+      "Definir cenário",
+      "Planejar conflito",
+      "Escrever desfecho"
+    ],
+    "bad": [
+      "Conectar cabo",
+      "Medir pneu",
+      "Regar planta",
+      "Somar estoque"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-jogo",
+    "ano": 5,
+    "titulo": "Planeje um jogo",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-jogo",
+    "good": [
+      "Definir objetivo",
+      "Criar regras",
+      "Construir fases",
+      "Testar funcionamento"
+    ],
+    "bad": [
+      "Comprar frutas",
+      "Lavar roupa",
+      "Trocar lâmpada",
+      "Regar jardim"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "partes-pesquisa",
+    "ano": 5,
+    "titulo": "Projeto de pesquisa",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Identificar componentes ou tarefas pertinentes a um projeto",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "decompor",
+    "url": "decompor.html?id=partes-pesquisa",
+    "good": [
+      "Definir pergunta",
+      "Coletar dados",
+      "Analisar dados",
+      "Apresentar resultados"
+    ],
+    "bad": [
+      "Apagar evidências",
+      "Inventar respostas",
+      "Ignorar fontes",
+      "Copiar sem citar"
+    ],
+    "guia": "Identificar componentes ou tarefas pertinentes a um projeto. Demonstre um exemplo com cartões, peça que o aluno explique sua resposta e avalie a transferência para um exemplo novo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar componentes ou tarefas pertinentes a um projeto"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar o desafio com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Explicar estratégias e revisar erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo."
+      ]
+    ]
   }
 ]
