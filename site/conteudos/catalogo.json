@@ -1015,5 +1015,85 @@
         "Explique um algoritmo novo."
       ]
     ]
+  },
+  {
+    "id": "ia-classificador",
+    "ano": 9,
+    "titulo": "Treine seu classificador",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Classifique exemplos e teste um modelo simples de vizinho mais próximo.",
+    "guia": "Discuta como exemplos incompletos ou incorretos afetam previsões.",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "laboratorios",
+    "url": "laboratorios.html?id=ia-classificador",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Classifique exemplos e teste um modelo simples de vizinho mais próximo."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Discuta como exemplos incompletos ou incorretos afetam previsões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as missões e registre resultados."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e limitações."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explique um exemplo novo."
+      ]
+    ]
+  },
+  {
+    "id": "cifra-lab",
+    "ano": 7,
+    "titulo": "Mensagens secretas",
+    "eixo": "Mundo Digital",
+    "descricao": "Decodifique mensagens usando deslocamentos do alfabeto.",
+    "guia": "Use discos de letras em papel e explique que a cifra de César não protege dados modernos.",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "laboratorios",
+    "url": "laboratorios.html?id=cifra-lab",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Decodifique mensagens usando deslocamentos do alfabeto."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use discos de letras em papel e explique que a cifra de César não protege dados modernos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as missões e registre resultados."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e limitações."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explique um exemplo novo."
+      ]
+    ]
   }
 ]
