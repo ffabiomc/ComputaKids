@@ -467,5 +467,85 @@
         "Crie uma representação inédita."
       ]
     ]
+  },
+  {
+    "id": "busca-binaria",
+    "ano": 6,
+    "titulo": "Detetive dos algoritmos",
+    "descricao": "Encontre um número oculto em uma lista ordenada usando comparações.",
+    "motor": "busca",
+    "url": "busca.html",
+    "eixo": "Pensamento Computacional",
+    "guia": "Use cartões ordenados e compare busca linear com busca binária.",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encontre um número oculto em uma lista ordenada usando comparações."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões ordenados e compare busca linear com busca binária."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios e registre as estratégias."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare caminhos e custos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo novo e justifique."
+      ]
+    ]
+  },
+  {
+    "id": "rotas-digitais",
+    "ano": 9,
+    "titulo": "Central de redes",
+    "descricao": "Encaminhe pacotes entre roteadores evitando conexões indisponíveis.",
+    "motor": "redes",
+    "url": "redes.html",
+    "eixo": "Mundo Digital",
+    "guia": "Represente roteadores com alunos e conexões com barbante. Discuta caminhos alternativos.",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encaminhe pacotes entre roteadores evitando conexões indisponíveis."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente roteadores com alunos e conexões com barbante. Discuta caminhos alternativos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios e registre as estratégias."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare caminhos e custos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um exemplo novo e justifique."
+      ]
+    ]
   }
 ]
