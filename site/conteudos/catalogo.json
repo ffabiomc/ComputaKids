@@ -37,5 +37,125 @@
         "Peça uma sequência de comandos para um novo caminho."
       ]
     ]
+  },
+  {
+    "id": "padroes",
+    "titulo": "Trilha dos padrões",
+    "ano": 0,
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "descricao": "Complete padrões de cores e símbolos.",
+    "duracao": 15,
+    "motor": "padrao",
+    "url": "desafios.html?modo=padrao",
+    "status": "piloto",
+    "guia": "Use objetos coloridos e peça que a criança explique o padrão.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Complete padrões de cores e símbolos."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use objetos coloridos e peça que a criança explique o padrão."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize os desafios com mediação quando necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Peça que os alunos expliquem suas escolhas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Apresente um exemplo novo e observe a estratégia."
+      ]
+    ]
+  },
+  {
+    "id": "sequencias",
+    "titulo": "Oficina de sequências",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "descricao": "Organize os números em ordem crescente.",
+    "duracao": 15,
+    "motor": "ordem",
+    "url": "desafios.html?modo=ordem",
+    "status": "piloto",
+    "guia": "Compare estratégias de ordenação com cartões numerados.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize os números em ordem crescente."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Compare estratégias de ordenação com cartões numerados."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize os desafios com mediação quando necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Peça que os alunos expliquem suas escolhas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Apresente um exemplo novo e observe a estratégia."
+      ]
+    ]
+  },
+  {
+    "id": "classificacao",
+    "titulo": "Estação de reciclagem",
+    "ano": 0,
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "descricao": "Classifique objetos por material.",
+    "duracao": 15,
+    "motor": "classe",
+    "url": "desafios.html?modo=classe",
+    "status": "piloto",
+    "guia": "Separe objetos limpos por material e converse sobre as categorias.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Classifique objetos por material."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Separe objetos limpos por material e converse sobre as categorias."
+      ],
+      [
+        "Jogo",
+        15,
+        "Realize os desafios com mediação quando necessário."
+      ],
+      [
+        "Discussão",
+        15,
+        "Peça que os alunos expliquem suas escolhas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Apresente um exemplo novo e observe a estratégia."
+      ]
+    ]
   }
 ]
