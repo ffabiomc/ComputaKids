@@ -6046,7 +6046,15 @@
     "auditoriaCurricular": {
       "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar três exemplos com cartões e explicar escolhas.",
+      "criteriosAvaliacao": "Resolver um exemplo novo e justificar a resposta.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -6283,7 +6291,15 @@
     "auditoriaCurricular": {
       "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar três exemplos com cartões e explicar escolhas.",
+      "criteriosAvaliacao": "Resolver um exemplo novo e justificar a resposta.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -6520,7 +6536,15 @@
     "auditoriaCurricular": {
       "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar três exemplos com cartões e explicar escolhas.",
+      "criteriosAvaliacao": "Resolver um exemplo novo e justificar a resposta.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -6757,7 +6781,15 @@
     "auditoriaCurricular": {
       "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar três exemplos com cartões e explicar escolhas.",
+      "criteriosAvaliacao": "Resolver um exemplo novo e justificar a resposta.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -7022,7 +7054,15 @@
     "auditoriaCurricular": {
       "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar três exemplos com cartões e explicar escolhas.",
+      "criteriosAvaliacao": "Resolver um exemplo novo e justificar a resposta.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -7287,9 +7327,17 @@
       "status": "Revisão pedagógica em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar a situação com cartões e justificar escolhas.",
+      "criteriosAvaliacao": "Resolver situação inédita e justificar a escolha.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -7494,9 +7542,17 @@
       "status": "Revisão pedagógica em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar a situação com cartões e justificar escolhas.",
+      "criteriosAvaliacao": "Resolver situação inédita e justificar a escolha.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -7716,9 +7772,17 @@
       "status": "Revisão pedagógica em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar a situação com cartões e justificar escolhas.",
+      "criteriosAvaliacao": "Resolver situação inédita e justificar a escolha.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -7923,9 +7987,17 @@
       "status": "Revisão pedagógica em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 16,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar a situação com cartões e justificar escolhas.",
+      "criteriosAvaliacao": "Resolver situação inédita e justificar a escolha.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -8189,9 +8261,17 @@
       "status": "Aplicação em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Agrupar cartões por forma e explicar a regra.",
+      "criteriosAvaliacao": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -8455,9 +8535,17 @@
       "status": "Aplicação em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Agrupar cartões por cor e explicar a regra.",
+      "criteriosAvaliacao": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -8721,9 +8809,17 @@
       "status": "Aplicação em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Agrupar cartões por material e explicar a regra.",
+      "criteriosAvaliacao": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -8987,9 +9083,17 @@
       "status": "Aplicação em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Agrupar cartões por função e explicar a regra.",
+      "criteriosAvaliacao": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   },
   {
@@ -9253,9 +9357,17 @@
       "status": "Aplicação em turma pendente."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
-      "adequacao": "parcial"
+      "adequacao": "parcial",
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
+      "metodo": "Sincronização com cadastro curricular previamente marcado como conferido; sem nova consulta documental nesta execução."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Agrupar cartões por grupo e explicar a regra.",
+      "criteriosAvaliacao": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "acessibilidade": "Permitir teclado, leitura mediada, resposta oral e tempo livre. Usar cartões com rótulos textuais para atividades de cores.",
+      "testesFuncionais": "Roteiro pendente de execução no navegador: abrir atividade, responder incorretamente, corrigir, avançar pelas 15 fases e reiniciar."
     }
   }
 ]
