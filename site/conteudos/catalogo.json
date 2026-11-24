@@ -627,5 +627,85 @@
         "Crie um programa para outro percurso."
       ]
     ]
+  },
+  {
+    "id": "ordenacao-numeros",
+    "ano": 6,
+    "titulo": "Oficina de ordenação",
+    "descricao": "Ordene números trocando elementos vizinhos.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "ordenacao",
+    "url": "ordenacao.html?id=ordenacao-numeros",
+    "guia": "Distribua cartões, compare elementos vizinhos e registre o número de trocas.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Ordene números trocando elementos vizinhos."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Ordene cartões em grupos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e número de trocas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Ordene uma nova lista e explique o procedimento."
+      ]
+    ]
+  },
+  {
+    "id": "ordenacao-palavras",
+    "ano": 7,
+    "titulo": "Arquivo inteligente",
+    "descricao": "Organize palavras alfabeticamente usando comparações e trocas.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "ordenacao",
+    "url": "ordenacao.html?id=ordenacao-palavras",
+    "guia": "Distribua cartões, compare elementos vizinhos e registre o número de trocas.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize palavras alfabeticamente usando comparações e trocas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Ordene cartões em grupos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e número de trocas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Ordene uma nova lista e explique o procedimento."
+      ]
+    ]
   }
 ]
