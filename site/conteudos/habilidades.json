@@ -9,8 +9,9 @@
   "EI03CO01": {
     "codigo": "EI03CO01",
     "eixo": "Pensamento Computacional",
-    "resumo": "Reconhecimento de padrões repetidos em sons, movimentos e desenhos.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Reconhecer padrão de repetição em sequência de sons, movimentos, desenhos.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 2
   },
   "EF15CO01": {
     "codigo": "EF15CO01",
@@ -22,8 +23,9 @@
   "EI03CO06": {
     "codigo": "EI03CO06",
     "eixo": "Pensamento Computacional",
-    "resumo": "Compreensão de decisões binárias.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Compreender decisões em dois estados (verdadeiro ou falso).",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 2
   },
   "EF15CO06": {
     "codigo": "EF15CO06",
@@ -115,8 +117,9 @@
   "EF01CO02": {
     "codigo": "EF01CO02",
     "eixo": "Pensamento Computacional",
-    "resumo": "Seguir etapas para resolver problemas cotidianos.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 12
   },
   "EF04CO01": {
     "codigo": "EF04CO01",
@@ -140,8 +143,9 @@
   "EF01CO01": {
     "codigo": "EF01CO01",
     "eixo": "Pensamento Computacional",
-    "resumo": "Agrupar objetos por atributos, semelhanças e diferenças.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 12
   },
   "EF01CO06": {
     "codigo": "EF01CO06",
@@ -176,8 +180,9 @@
   "EF01CO05": {
     "codigo": "EF01CO05",
     "eixo": "Mundo Digital",
-    "resumo": "Representar informações por diferentes códigos.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Representar informação usando diferentes codificações.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 12
   },
   "EF15CO04": {
     "codigo": "EF15CO04",
