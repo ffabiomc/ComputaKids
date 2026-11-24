@@ -29,9 +29,11 @@ if ($_SERVER['REQUEST_METHOD']==='POST') {
    if (is_file($target)) throw new RuntimeException('Já instalado.');
    $pdo=Database::connect($config);
    if ($pdo->query('SHOW TABLES')->fetchColumn()!==false) throw new RuntimeException('Use um banco vazio e exclusivo.');
-   $sql=file_get_contents($root.'/database/migrations/001_identity.sql');
+   foreach (['001_identity.sql','002_student_access.sql'] as $migration) {
+   $sql=file_get_contents($root.'/database/migrations/'.$migration);
    if ($sql===false) throw new RuntimeException('Migração indisponível.');
    foreach (explode(';',preg_replace('/^--.*$/m','',$sql)) as $statement) if (trim($statement)!=='') $pdo->exec($statement);
+   }
    $stmt=$pdo->prepare("INSERT INTO usuarios (papel,nome,login,senha_hash,trocar_senha) VALUES ('admin',?,?,?,0)");
    $stmt->execute([$name,$login,Security::hash($pass)]);
    $tmp=tempnam($root.'/config','cfg');
