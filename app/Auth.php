@@ -17,9 +17,24 @@ final class Auth {
   $q=$this->db->prepare("SELECT u.id,u.nome,u.login,u.papel,u.tenant_id,u.ativo,u.trocar_senha,u.session_version,t.status AS tenant_status FROM usuarios u LEFT JOIN tenants t ON t.id=u.tenant_id WHERE u.id=?");
   $q->execute([$_SESSION['uid']]); $u=$q->fetch();
   if (!$u || !$u['ativo'] || (int)$u['session_version']!==$_SESSION['version'] || ($u['papel']!=='admin' && $u['tenant_status']!=='ativo')) { $this->logout(); return null; }
-  if($u['papel']==='aluno'&&!(isset($_SESSION['remote_class'])?$this->remoteAllowed((int)$u['tenant_id'],(int)$u['id'],(int)$_SESSION['remote_class']):$this->individualAllowed((int)$u['tenant_id'],(int)$u['id']))){$this->logout();return null;}
-  if(isset($_SESSION['remote_class']))$u['trocar_senha']=0;
+  if($u['papel']==='aluno'&&!(isset($_SESSION['remote_class'])?$this->remoteAllowed((int)$u['tenant_id'],(int)$u['id'],(int)$_SESSION['remote_class']):(isset($_SESSION['shared_class'])?$this->sharedAllowed((int)$u['tenant_id'],(int)$u['id'],(int)$_SESSION['shared_class']):$this->individualAllowed((int)$u['tenant_id'],(int)$u['id'])))){$this->logout();return null;}
+  if(isset($_SESSION['remote_class'])||isset($_SESSION['shared_class']))$u['trocar_senha']=0;
   return $u;
+ }
+ public function sharedLogin(string $login,string $password):bool {
+  if(isset($_SESSION['uid'])||strlen($password)>72)return false;
+  $q=$this->db->prepare("SELECT u.id,u.session_version,m.turma_id,a.senha_hash FROM usuarios u JOIN tenants te ON te.id=u.tenant_id AND te.status='ativo' JOIN matriculas m ON m.tenant_id=u.tenant_id AND m.aluno_id=u.id AND m.ativa=1 JOIN turmas t ON t.tenant_id=m.tenant_id AND t.id=m.turma_id AND t.arquivada=0 JOIN turma_acesso a ON a.tenant_id=m.tenant_id AND a.turma_id=m.turma_id AND a.compartilhado=1 WHERE u.login=? AND u.papel='aluno' AND u.ativo=1 ORDER BY m.turma_id");
+  $q->execute([$login]);$rows=$q->fetchAll();
+  if(!$rows)password_verify($password,'$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2uheWG/igi.');
+  foreach($rows as $u)if(password_verify($password,$u['senha_hash'])){
+   session_regenerate_id(true);
+   $_SESSION=['uid'=>(int)$u['id'],'version'=>(int)$u['session_version'],'shared_class'=>(int)$u['turma_id'],'csrf'=>bin2hex(random_bytes(32))];return true;
+  }
+  return false;
+ }
+ private function sharedAllowed(int $tenant,int $student,int $class):bool {
+  $q=$this->db->prepare('SELECT 1 FROM matriculas m JOIN turmas t ON t.tenant_id=m.tenant_id AND t.id=m.turma_id JOIN turma_acesso a ON a.tenant_id=t.tenant_id AND a.turma_id=t.id WHERE m.tenant_id=? AND m.aluno_id=? AND m.turma_id=? AND m.ativa=1 AND t.arquivada=0 AND a.compartilhado=1');
+  $q->execute([$tenant,$student,$class]);return (bool)$q->fetchColumn();
  }
  public function remoteLogin(string $id,string $secret):bool {
   if(isset($_SESSION['uid']))return false;
@@ -39,7 +54,7 @@ final class Auth {
  }
  public function logout(): void { $_SESSION=[]; session_regenerate_id(true); }
  public function changePassword(array $u,string $old,string $new): bool {
-  if(isset($_SESSION['remote_class']))return false;
+  if(isset($_SESSION['remote_class'])||isset($_SESSION['shared_class']))return false;
   if(strlen($new)<12 || strlen($new)>72) return false;
   $q=$this->db->prepare('SELECT senha_hash FROM usuarios WHERE id=? AND session_version=?'); $q->execute([$u['id'],$u['session_version']]); $hash=$q->fetchColumn();
   if (!$hash || !password_verify($old,$hash)) return false;
