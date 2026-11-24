@@ -935,5 +935,85 @@
         "Resolva uma situação inédita."
       ]
     ]
+  },
+  {
+    "id": "variaveis-lab",
+    "ano": 6,
+    "titulo": "Laboratório de variáveis",
+    "descricao": "Transforme valores usando operações aritméticas.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "algoritmos",
+    "url": "algoritmos.html?id=variaveis-lab",
+    "guia": "Peça previsões antes da execução e registre os valores das variáveis em uma tabela de rastreamento.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Transforme valores usando operações aritméticas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Simule instruções em cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Construa e teste soluções."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare previsões e resultados."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explique um algoritmo novo."
+      ]
+    ]
+  },
+  {
+    "id": "condicoes-lab",
+    "ano": 8,
+    "titulo": "Máquina de decisões",
+    "descricao": "Construa condições que classificam valores corretamente.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "algoritmos",
+    "url": "algoritmos.html?id=condicoes-lab",
+    "guia": "Peça previsões antes da execução e registre os valores das variáveis em uma tabela de rastreamento.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Construa condições que classificam valores corretamente."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Simule instruções em cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Construa e teste soluções."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare previsões e resultados."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Explique um algoritmo novo."
+      ]
+    ]
   }
 ]
