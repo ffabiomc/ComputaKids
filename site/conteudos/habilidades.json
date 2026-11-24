@@ -28,14 +28,16 @@
   "EF15CO06": {
     "codigo": "EF15CO06",
     "eixo": "Mundo Digital",
-    "resumo": "Conhecer componentes e princípios de funcionamento de dispositivos.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+    "fonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
+    "pagina": 36
   },
   "EF15CO09": {
     "codigo": "EF15CO09",
     "eixo": "Cultura Digital",
-    "resumo": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+    "fonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
+    "pagina": 36
   },
   "EF69CO02": {
     "codigo": "EF69CO02",
@@ -52,8 +54,9 @@
   "EF15CO05": {
     "codigo": "EF15CO05",
     "eixo": "Mundo Digital",
-    "resumo": "Codificar informações para armazenamento, processamento e transmissão.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "fonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
+    "pagina": 36
   },
   "EF69CO07": {
     "codigo": "EF69CO07",
