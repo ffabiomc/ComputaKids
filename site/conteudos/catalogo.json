@@ -5811,5 +5811,1218 @@
       "pagina": 34,
       "adequacao": "pendente"
     }
+  },
+  {
+    "id": "oficina-hardware",
+    "ano": 2,
+    "titulo": "Peças do computador",
+    "eixo": "Mundo Digital",
+    "descricao": "Identificar componentes físicos.",
+    "habilidade": "EF02CO04",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=oficina-hardware",
+    "desafios": [
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Teclado"
+        ],
+        [
+          "Teclado",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Monitor"
+        ],
+        [
+          "Monitor",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Mouse"
+        ],
+        [
+          "Mouse",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Impressora"
+        ],
+        [
+          "Impressora",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Webcam"
+        ],
+        [
+          "Webcam",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Microfone"
+        ],
+        [
+          "Microfone",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Alto-falante"
+        ],
+        [
+          "Alto-falante",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Scanner"
+        ],
+        [
+          "Scanner",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Touchpad"
+        ],
+        [
+          "Touchpad",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Processador"
+        ],
+        [
+          "Processador",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Memória RAM"
+        ],
+        [
+          "Memória RAM",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "SSD"
+        ],
+        [
+          "SSD",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Placa-mãe"
+        ],
+        [
+          "Placa-mãe",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Bateria"
+        ],
+        [
+          "Bateria",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ],
+      [
+        "Identificar componentes físicos. Qual opção é hardware?",
+        [
+          "Cabo USB"
+        ],
+        [
+          "Cabo USB",
+          "Editor de texto",
+          "Navegador",
+          "Calculadora digital"
+        ]
+      ]
+    ],
+    "explicacao": "Identificar componentes físicos.",
+    "guia": "Identificar componentes físicos. Demonstre com objetos ou cartões, permita respostas orais e uso do teclado. Peça justificativa e apresente uma situação nova.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresentar Peças do computador"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar três exemplos com cartões e explicar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e justificar instruções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Identificar componentes físicos.",
+      "evidencia": "Resolver um exemplo novo e justificar a resposta.",
+      "limite": "Complementar com demonstração prática e criação de exemplos pelo aluno.",
+      "status": "Revisão preliminar; validação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "oficina-software",
+    "ano": 2,
+    "titulo": "Programas em ação",
+    "eixo": "Mundo Digital",
+    "descricao": "Identificar programas de computador.",
+    "habilidade": "EF02CO04",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=oficina-software",
+    "desafios": [
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Editor de texto"
+        ],
+        [
+          "Editor de texto",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Navegador"
+        ],
+        [
+          "Navegador",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Calculadora digital"
+        ],
+        [
+          "Calculadora digital",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Editor de imagens"
+        ],
+        [
+          "Editor de imagens",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Jogo digital"
+        ],
+        [
+          "Jogo digital",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Reprodutor de áudio"
+        ],
+        [
+          "Reprodutor de áudio",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Sistema operacional"
+        ],
+        [
+          "Sistema operacional",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Planilha eletrônica"
+        ],
+        [
+          "Planilha eletrônica",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Editor de vídeo"
+        ],
+        [
+          "Editor de vídeo",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Leitor de PDF"
+        ],
+        [
+          "Leitor de PDF",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Aplicativo de desenho"
+        ],
+        [
+          "Aplicativo de desenho",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Cliente de e-mail"
+        ],
+        [
+          "Cliente de e-mail",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Editor de apresentações"
+        ],
+        [
+          "Editor de apresentações",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Antivírus"
+        ],
+        [
+          "Antivírus",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ],
+      [
+        "Identificar programas de computador. Qual opção é software?",
+        [
+          "Aplicativo de mapas"
+        ],
+        [
+          "Aplicativo de mapas",
+          "Teclado",
+          "Monitor",
+          "Mouse"
+        ]
+      ]
+    ],
+    "explicacao": "Identificar programas de computador.",
+    "guia": "Identificar programas de computador. Demonstre com objetos ou cartões, permita respostas orais e uso do teclado. Peça justificativa e apresente uma situação nova.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresentar Programas em ação"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar três exemplos com cartões e explicar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e justificar instruções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Diferenciar componentes físicos (hardware) e programas que fornecem as instruções (software) para o hardware.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Identificar programas de computador.",
+      "evidencia": "Resolver um exemplo novo e justificar a resposta.",
+      "limite": "Complementar com demonstração prática e criação de exemplos pelo aluno.",
+      "status": "Revisão preliminar; validação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "maquinas-comandos",
+    "ano": 2,
+    "titulo": "Comandos das máquinas",
+    "eixo": "Mundo Digital",
+    "descricao": "Escolher instruções compatíveis com cada máquina.",
+    "habilidade": "EF02CO03",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=maquinas-comandos",
+    "desafios": [
+      [
+        "Impressora",
+        [
+          "Imprimir página"
+        ],
+        [
+          "Imprimir página",
+          "Digitalizar foto",
+          "Capturar imagem",
+          "Reproduzir som"
+        ]
+      ],
+      [
+        "Scanner",
+        [
+          "Digitalizar foto"
+        ],
+        [
+          "Digitalizar foto",
+          "Capturar imagem",
+          "Reproduzir som",
+          "Somar números"
+        ]
+      ],
+      [
+        "Câmera",
+        [
+          "Capturar imagem"
+        ],
+        [
+          "Capturar imagem",
+          "Reproduzir som",
+          "Somar números",
+          "Avançar"
+        ]
+      ],
+      [
+        "Alto-falante",
+        [
+          "Reproduzir som"
+        ],
+        [
+          "Reproduzir som",
+          "Somar números",
+          "Avançar",
+          "Projetar imagem"
+        ]
+      ],
+      [
+        "Calculadora",
+        [
+          "Somar números"
+        ],
+        [
+          "Somar números",
+          "Avançar",
+          "Projetar imagem",
+          "Gravar áudio"
+        ]
+      ],
+      [
+        "Robô móvel",
+        [
+          "Avançar"
+        ],
+        [
+          "Avançar",
+          "Imprimir página",
+          "Digitalizar foto",
+          "Capturar imagem"
+        ]
+      ],
+      [
+        "Projetor",
+        [
+          "Projetar imagem"
+        ],
+        [
+          "Projetar imagem",
+          "Digitalizar foto",
+          "Capturar imagem",
+          "Reproduzir som"
+        ]
+      ],
+      [
+        "Gravador",
+        [
+          "Gravar áudio"
+        ],
+        [
+          "Gravar áudio",
+          "Capturar imagem",
+          "Reproduzir som",
+          "Somar números"
+        ]
+      ],
+      [
+        "Relógio digital",
+        [
+          "Exibir hora"
+        ],
+        [
+          "Exibir hora",
+          "Reproduzir som",
+          "Somar números",
+          "Avançar"
+        ]
+      ],
+      [
+        "Máquina de lavar",
+        [
+          "Enxaguar"
+        ],
+        [
+          "Enxaguar",
+          "Somar números",
+          "Avançar",
+          "Projetar imagem"
+        ]
+      ],
+      [
+        "Forno digital",
+        [
+          "Aquecer"
+        ],
+        [
+          "Aquecer",
+          "Imprimir página",
+          "Digitalizar foto",
+          "Capturar imagem"
+        ]
+      ],
+      [
+        "Ventilador digital",
+        [
+          "Ajustar velocidade"
+        ],
+        [
+          "Ajustar velocidade",
+          "Digitalizar foto",
+          "Capturar imagem",
+          "Reproduzir som"
+        ]
+      ],
+      [
+        "Semáforo programável",
+        [
+          "Acender luz verde"
+        ],
+        [
+          "Acender luz verde",
+          "Capturar imagem",
+          "Reproduzir som",
+          "Somar números"
+        ]
+      ],
+      [
+        "Plotter",
+        [
+          "Desenhar linha"
+        ],
+        [
+          "Desenhar linha",
+          "Reproduzir som",
+          "Somar números",
+          "Avançar"
+        ]
+      ],
+      [
+        "Leitor de código de barras",
+        [
+          "Ler código"
+        ],
+        [
+          "Ler código",
+          "Somar números",
+          "Avançar",
+          "Projetar imagem"
+        ]
+      ]
+    ],
+    "explicacao": "Escolher instruções compatíveis com cada máquina.",
+    "guia": "Escolher instruções compatíveis com cada máquina. Demonstre com objetos ou cartões, permita respostas orais e uso do teclado. Peça justificativa e apresente uma situação nova.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresentar Comandos das máquinas"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar três exemplos com cartões e explicar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e justificar instruções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Escolher instruções compatíveis com cada máquina.",
+      "evidencia": "Resolver um exemplo novo e justificar a resposta.",
+      "limite": "Complementar com demonstração prática e criação de exemplos pelo aluno.",
+      "status": "Revisão preliminar; validação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "tecnologia-cotidiano",
+    "ano": 2,
+    "titulo": "Tecnologia no cotidiano",
+    "eixo": "Cultura Digital",
+    "descricao": "Escolher uma tecnologia adequada à tarefa.",
+    "habilidade": "EF02CO05",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=tecnologia-cotidiano",
+    "desafios": [
+      [
+        "Escrever uma carta",
+        [
+          "Editor de texto"
+        ],
+        [
+          "Editor de texto",
+          "Calculadora",
+          "Câmera",
+          "Reprodutor de áudio"
+        ]
+      ],
+      [
+        "Calcular uma soma",
+        [
+          "Calculadora"
+        ],
+        [
+          "Calculadora",
+          "Câmera",
+          "Reprodutor de áudio",
+          "Impressora"
+        ]
+      ],
+      [
+        "Fotografar uma planta",
+        [
+          "Câmera"
+        ],
+        [
+          "Câmera",
+          "Reprodutor de áudio",
+          "Impressora",
+          "Navegador"
+        ]
+      ],
+      [
+        "Ouvir uma gravação",
+        [
+          "Reprodutor de áudio"
+        ],
+        [
+          "Reprodutor de áudio",
+          "Impressora",
+          "Navegador",
+          "Gravador"
+        ]
+      ],
+      [
+        "Imprimir um desenho",
+        [
+          "Impressora"
+        ],
+        [
+          "Impressora",
+          "Navegador",
+          "Gravador",
+          "Projetor"
+        ]
+      ],
+      [
+        "Pesquisar uma palavra em fonte confiável",
+        [
+          "Navegador"
+        ],
+        [
+          "Navegador",
+          "Editor de texto",
+          "Calculadora",
+          "Câmera"
+        ]
+      ],
+      [
+        "Registrar uma entrevista",
+        [
+          "Gravador"
+        ],
+        [
+          "Gravador",
+          "Calculadora",
+          "Câmera",
+          "Reprodutor de áudio"
+        ]
+      ],
+      [
+        "Mostrar slides à turma",
+        [
+          "Projetor"
+        ],
+        [
+          "Projetor",
+          "Câmera",
+          "Reprodutor de áudio",
+          "Impressora"
+        ]
+      ],
+      [
+        "Organizar números em tabela",
+        [
+          "Planilha"
+        ],
+        [
+          "Planilha",
+          "Reprodutor de áudio",
+          "Impressora",
+          "Navegador"
+        ]
+      ],
+      [
+        "Digitalizar uma folha",
+        [
+          "Scanner"
+        ],
+        [
+          "Scanner",
+          "Impressora",
+          "Navegador",
+          "Gravador"
+        ]
+      ],
+      [
+        "Desenhar na tela",
+        [
+          "Editor de imagens"
+        ],
+        [
+          "Editor de imagens",
+          "Editor de texto",
+          "Calculadora",
+          "Câmera"
+        ]
+      ],
+      [
+        "Localizar uma rua",
+        [
+          "Aplicativo de mapas"
+        ],
+        [
+          "Aplicativo de mapas",
+          "Calculadora",
+          "Câmera",
+          "Reprodutor de áudio"
+        ]
+      ],
+      [
+        "Medir o tempo de uma corrida",
+        [
+          "Cronômetro digital"
+        ],
+        [
+          "Cronômetro digital",
+          "Câmera",
+          "Reprodutor de áudio",
+          "Impressora"
+        ]
+      ],
+      [
+        "Ler um livro digital",
+        [
+          "Leitor de PDF"
+        ],
+        [
+          "Leitor de PDF",
+          "Reprodutor de áudio",
+          "Impressora",
+          "Navegador"
+        ]
+      ],
+      [
+        "Digitar uma mensagem",
+        [
+          "Teclado"
+        ],
+        [
+          "Teclado",
+          "Impressora",
+          "Navegador",
+          "Gravador"
+        ]
+      ]
+    ],
+    "explicacao": "Escolher uma tecnologia adequada à tarefa.",
+    "guia": "Escolher uma tecnologia adequada à tarefa. Demonstre com objetos ou cartões, permita respostas orais e uso do teclado. Peça justificativa e apresente uma situação nova.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresentar Tecnologia no cotidiano"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar três exemplos com cartões e explicar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e justificar instruções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Reconhecer as características e usos das tecnologias computacionais no cotidiano dentro e fora da escola.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Escolher uma tecnologia adequada à tarefa.",
+      "evidencia": "Resolver um exemplo novo e justificar a resposta.",
+      "limite": "Complementar com demonstração prática e criação de exemplos pelo aluno.",
+      "status": "Revisão preliminar; validação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "algoritmos-maquinas",
+    "ano": 2,
+    "titulo": "Sequências de comandos",
+    "eixo": "Mundo Digital",
+    "descricao": "Organizar instruções de máquinas em ordem.",
+    "habilidade": "EF02CO03",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "maquinas",
+    "url": "maquinas.html?id=algoritmos-maquinas",
+    "desafios": [
+      [
+        "Imprimir um documento",
+        [
+          "Abrir documento",
+          "Selecionar impressão",
+          "Confirmar impressão"
+        ],
+        [
+          "Abrir documento",
+          "Selecionar impressão",
+          "Confirmar impressão",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Digitalizar folha",
+        [
+          "Colocar folha",
+          "Iniciar leitura",
+          "Salvar imagem"
+        ],
+        [
+          "Colocar folha",
+          "Iniciar leitura",
+          "Salvar imagem",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Fotografar",
+        [
+          "Abrir câmera",
+          "Enquadrar objeto",
+          "Capturar foto"
+        ],
+        [
+          "Abrir câmera",
+          "Enquadrar objeto",
+          "Capturar foto",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Gravar áudio",
+        [
+          "Abrir gravador",
+          "Iniciar gravação",
+          "Parar gravação"
+        ],
+        [
+          "Abrir gravador",
+          "Iniciar gravação",
+          "Parar gravação",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Calcular 2 + 3",
+        [
+          "Digitar 2",
+          "Digitar +",
+          "Digitar 3",
+          "Digitar ="
+        ],
+        [
+          "Digitar 2",
+          "Digitar +",
+          "Digitar 3",
+          "Digitar =",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Robô: avançar e virar",
+        [
+          "Avançar",
+          "Virar direita"
+        ],
+        [
+          "Avançar",
+          "Virar direita",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Robô: virar e avançar",
+        [
+          "Virar esquerda",
+          "Avançar"
+        ],
+        [
+          "Virar esquerda",
+          "Avançar",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Robô: dois passos e giro",
+        [
+          "Avançar",
+          "Avançar",
+          "Virar direita"
+        ],
+        [
+          "Avançar",
+          "Avançar",
+          "Virar direita",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Reproduzir áudio",
+        [
+          "Abrir arquivo",
+          "Reproduzir",
+          "Pausar"
+        ],
+        [
+          "Abrir arquivo",
+          "Reproduzir",
+          "Pausar",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Salvar desenho",
+        [
+          "Abrir editor",
+          "Desenhar",
+          "Salvar"
+        ],
+        [
+          "Abrir editor",
+          "Desenhar",
+          "Salvar",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Projetar slides",
+        [
+          "Abrir apresentação",
+          "Iniciar projeção",
+          "Avançar slide"
+        ],
+        [
+          "Abrir apresentação",
+          "Iniciar projeção",
+          "Avançar slide",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Lavar roupa",
+        [
+          "Selecionar ciclo",
+          "Iniciar lavagem",
+          "Aguardar fim"
+        ],
+        [
+          "Selecionar ciclo",
+          "Iniciar lavagem",
+          "Aguardar fim",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Cronometrar corrida",
+        [
+          "Zerar cronômetro",
+          "Iniciar",
+          "Parar"
+        ],
+        [
+          "Zerar cronômetro",
+          "Iniciar",
+          "Parar",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Robô: contornar canto",
+        [
+          "Avançar",
+          "Virar esquerda",
+          "Avançar"
+        ],
+        [
+          "Avançar",
+          "Virar esquerda",
+          "Avançar",
+          "Desligar imediatamente"
+        ]
+      ],
+      [
+        "Robô: voltar ao início",
+        [
+          "Virar direita",
+          "Virar direita",
+          "Avançar"
+        ],
+        [
+          "Virar direita",
+          "Virar direita",
+          "Avançar",
+          "Desligar imediatamente"
+        ]
+      ]
+    ],
+    "explicacao": "Organizar instruções de máquinas em ordem.",
+    "guia": "Organizar instruções de máquinas em ordem. Demonstre com objetos ou cartões, permita respostas orais e uso do teclado. Peça justificativa e apresente uma situação nova.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresentar Sequências de comandos"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar três exemplos com cartões e explicar escolhas."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar respostas e justificar instruções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver um exemplo novo e explicar a escolha."
+      ]
+    ],
+    "habilidadeDescricao": "Identificar que máquinas diferentes executam conjuntos próprios de instruções e que podem ser usadas para definir algoritmos.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; aplicação em turma pendente.",
+    "revisaoDidatica": {
+      "objetivo": "Organizar instruções de máquinas em ordem.",
+      "evidencia": "Resolver um exemplo novo e justificar a resposta.",
+      "limite": "Complementar com demonstração prática e criação de exemplos pelo aluno.",
+      "status": "Revisão preliminar; validação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "adequacao": "parcial"
+    }
   }
 ]
