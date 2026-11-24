@@ -50,8 +50,11 @@
   "EF04CO05": {
     "codigo": "EF04CO05",
     "eixo": "Mundo Digital",
-    "resumo": "Codificação de informações em formatos computacionais.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.).",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 26,
+    "descricaoConferida": true,
+    "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido"
   },
   "EF15CO05": {
     "codigo": "EF15CO05",
