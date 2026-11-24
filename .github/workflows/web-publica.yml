@@ -1,0 +1,17 @@
+name: Verificar plataforma pública
+on:
+  push:
+    branches: [web-publica]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node site/tests/catalogo.mjs
+      - run: find site -name '*.js' -print0 | xargs -0 -n1 node --experimental-default-type=module --check
