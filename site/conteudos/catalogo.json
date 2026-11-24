@@ -277,14 +277,19 @@
         "Apresente uma nova situação e peça uma justificativa."
       ]
     ],
-    "habilidadeDescricao": "Conhecer componentes e princípios de funcionamento de dispositivos.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Associar dispositivos a funções.",
       "evidencia": "Pedir explicação de três pares sem consultar o jogo.",
       "limite": "Distinguir entrada, processamento e saída.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -360,14 +365,19 @@
         "Apresente uma nova situação e peça uma justificativa."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Relacionar situações digitais a atitudes seguras.",
       "evidencia": "Pedir justificativa e identificar um adulto de confiança.",
       "limite": "Discutir situações novas sem expor dados pessoais.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -558,14 +568,19 @@
         "Crie uma representação inédita."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Representar números com bits.",
       "evidencia": "Pedir explicação dos pesos posicionais de um número.",
       "limite": "Relacionar codificação numérica a outros tipos de informação.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2997,14 +3012,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Conhecer componentes e princípios de funcionamento de dispositivos.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Reconhecer dispositivos de entrada.",
       "evidencia": "Simular a entrada de som, texto e imagem.",
       "limite": "Discutir dispositivos com funções combinadas.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3059,14 +3079,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Conhecer componentes e princípios de funcionamento de dispositivos.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Conhecer os componentes básicos de dispositivos computacionais, entendendo os princípios de seu funcionamento.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Reconhecer dispositivos de saída.",
       "evidencia": "Pedir exemplos de informação sonora e visual.",
       "limite": "Explorar dispositivos de entrada e saída combinadas.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3245,14 +3270,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar atitudes respeitosas online.",
       "evidencia": "Simular uma resposta a uma mensagem ofensiva.",
       "limite": "Praticar pedir ajuda e denunciar agressões.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3369,14 +3399,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Utilizar tecnologias com segurança, ética e responsabilidade.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Entender que as tecnologias devem ser utilizadas de maneira segura, ética e responsável, respeitando direitos autorais, de imagem e as leis vigentes.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar práticas de proteção de contas.",
       "evidencia": "Explicar por que senhas exclusivas e segundo fator ajudam.",
       "limite": "Usar exemplos fictícios, nunca senhas reais.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4859,14 +4894,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Codificar mensagens por legenda.",
       "evidencia": "Produzir mensagem para outra dupla decodificar.",
       "limite": "Usar símbolos além de cores.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4909,14 +4949,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Interpretar códigos geométricos.",
       "evidencia": "Decodificar mensagem inédita.",
       "limite": "Criar legenda própria.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4959,14 +5004,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Representar estados ligados e desligados.",
       "evidencia": "Registrar estados como zeros e uns.",
       "limite": "Relacionar estados a outras representações digitais.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5009,14 +5059,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Contar bits ligados.",
       "evidencia": "Marcar os uns antes de contar.",
       "limite": "Distinguir contagem de uns de valor binário.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5159,14 +5214,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Codificar informações para armazenamento, processamento e transmissão.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeDescricao": "Codificar a informação de diferentes formas, entendendo a importância desta codificação para o armazenamento, manipulação e transmissão em dispositivos computacionais.",
+    "habilidadeStatus": "Texto conferido no Anexo ao Parecer CNE/CEB 2/2022, p. 36; adequação pedagógica pendente.",
+    "habilidadeFonte": "https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Determinar a paridade da contagem de uns.",
       "evidencia": "Justificar a classificação de um código.",
       "limite": "Mostrar que paridade não detecta todos os erros.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 36,
+      "adequacao": "pendente"
     }
   },
   {
