@@ -402,7 +402,13 @@
     ],
     "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Prever saídas de portas lógicas a partir das entradas.",
+      "evidencia": "Construir tabelas-verdade e justificar as saídas.",
+      "limite": "Combinar portas em circuitos próprios.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "automacao-inteligente",
@@ -446,7 +452,13 @@
     ],
     "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Relacionar condições de entrada a ações automáticas.",
+      "evidencia": "Descrever regras de acionamento e testar combinações.",
+      "limite": "Simular sensores e atuadores explicitamente fora do jogo.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "pixel-lab",
@@ -636,7 +648,13 @@
     ],
     "habilidadeDescricao": "Transmissão de informações em pacotes através de equipamentos.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Identificar caminhos disponíveis em uma rede.",
+      "evidencia": "Desenhar uma rota alternativa após remover uma conexão.",
+      "limite": "Discutir roteamento e diferença entre caminho e protocolo.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "robo-blocos",
@@ -826,7 +844,13 @@
     ],
     "habilidadeDescricao": "Soluções automatizadas com registros e vetores.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Ordenar palavras por comparação alfabética.",
+      "evidencia": "Registrar trocas e justificar a ordem final.",
+      "limite": "Discutir critérios para acentos e prefixos iguais.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "hardware-oficina",
@@ -1066,7 +1090,13 @@
     ],
     "habilidadeDescricao": "Discussão de segurança e privacidade em ambientes virtuais.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Avaliar riscos em situações digitais.",
+      "evidencia": "Justificar decisões em cenários inéditos.",
+      "limite": "Praticar procedimentos seguros com dados fictícios.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "variaveis-lab",
@@ -1109,7 +1139,13 @@
     ],
     "habilidadeDescricao": "Generalização de soluções usando parâmetros e variáveis.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Interpretar alterações de valores por operações.",
+      "evidencia": "Registrar valores antes e depois de cada operação.",
+      "limite": "Escrever algoritmos com atribuições e variáveis nomeadas.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "condicoes-lab",
@@ -1152,7 +1188,13 @@
     ],
     "habilidadeDescricao": "Elaboração de algoritmos com sequência, repetição e seleção em linguagem de programação.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Interpretar condições de classificação.",
+      "evidencia": "Testar valores abaixo, acima e iguais ao limite.",
+      "limite": "Construir condições próprias e testar casos extremos.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "ia-classificador",
@@ -1195,7 +1237,13 @@
     ],
     "habilidadeDescricao": "Construção de soluções computacionais interdisciplinares.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Interpretar classificação por proximidade de exemplos.",
+      "evidencia": "Comparar previsões para exemplos inéditos e explicar erros.",
+      "limite": "Discutir qualidade dos dados, vieses e limites do modelo.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "cifra-lab",
@@ -1238,7 +1286,13 @@
     ],
     "habilidadeDescricao": "Identificação de riscos cibernéticos e experimentação de proteções.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Decodificar mensagens por deslocamento alfabético.",
+      "evidencia": "Explicar a chave e verificar a mensagem recuperada.",
+      "limite": "Distinguir cifra histórica de criptografia moderna segura.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "pilhas-lab",
@@ -1281,7 +1335,13 @@
     ],
     "habilidadeDescricao": "Soluções automatizadas com registros e vetores.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade."
+    "habilidadeStatus": "Atividade preparatória — relação indireta; complementar com prática orientada para desenvolver a habilidade.",
+    "revisaoDidatica": {
+      "objetivo": "Aplicar a regra último a entrar, primeiro a sair.",
+      "evidencia": "Registrar operações de inserção e remoção e prever o topo.",
+      "limite": "Discutir pilha vazia e aplicações como desfazer ações.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "filas-lab",
@@ -1324,7 +1384,13 @@
     ],
     "habilidadeDescricao": "Algoritmos clássicos de manipulação de listas.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica."
+    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "revisaoDidatica": {
+      "objetivo": "Aplicar a regra primeiro a entrar, primeiro a sair.",
+      "evidencia": "Registrar operações e prever o próximo atendimento.",
+      "limite": "Comparar filas com pilhas e discutir fila vazia.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "pares-figuras",
