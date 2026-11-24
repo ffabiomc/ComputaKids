@@ -3190,7 +3190,7 @@
       ]
     ],
     "habilidadeDescricao": "Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
-    "habilidadeStatus": "Descrição conferida na tabela curricular; adequação pedagógica pendente.",
+    "habilidadeStatus": "Descrição sincronizada com cadastro curricular; reconferência documental e adequação pendentes.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Selecionar cuidados com equipamentos.",
@@ -3199,9 +3199,7 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": true,
-      "pagina": 16,
-      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "descricaoConferida": false,
       "adequacao": "pendente"
     }
   },
@@ -4528,14 +4526,18 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Criar e simular algoritmos com repetições simples definidas.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.",
+    "habilidadeStatus": "Descrição sincronizada com cadastro curricular; reconferência documental e adequação pendentes.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Representar comandos repetidos por um bloco.",
       "evidencia": "Expandir o bloco no papel e comparar com a sequência original.",
       "limite": "Criar um algoritmo com repetição própria.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4578,14 +4580,18 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Criar e simular algoritmos com repetições simples definidas.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, construídos como sequências com repetições simples (iterações definidas) com base em instruções preestabelecidas ou criadas, analisando como a precisão da instrução impacta na execução do algoritmo.",
+    "habilidadeStatus": "Descrição sincronizada com cadastro curricular; reconferência documental e adequação pendentes.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Interpretar uma repetição definida.",
       "evidencia": "Prever o número de movimentos e executar com cartões.",
       "limite": "Construir e testar um bloco de repetição novo.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "adequacao": "pendente"
     }
   },
   {
