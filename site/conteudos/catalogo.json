@@ -2393,5 +2393,1127 @@
         "Resolva um novo desafio sem ajuda."
       ]
     ]
+  },
+  {
+    "id": "objetos-digitais",
+    "ano": 1,
+    "titulo": "Detetive tecnológico",
+    "eixo": "Mundo Digital",
+    "descricao": "Identificar dispositivos digitais",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=objetos-digitais",
+    "good": [
+      "Computador",
+      "Tablet",
+      "Celular",
+      "Relógio digital",
+      "Câmera digital"
+    ],
+    "bad": [
+      "Colher",
+      "Caderno",
+      "Bola",
+      "Lápis",
+      "Copo"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Identificar dispositivos digitais. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar dispositivos digitais"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "entrada-dados",
+    "ano": 1,
+    "titulo": "Entrada de informações",
+    "eixo": "Mundo Digital",
+    "descricao": "Identificar dispositivos de entrada",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=entrada-dados",
+    "good": [
+      "Teclado",
+      "Mouse",
+      "Microfone",
+      "Scanner",
+      "Webcam"
+    ],
+    "bad": [
+      "Monitor",
+      "Alto-falante",
+      "Projetor",
+      "Impressora"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Identificar dispositivos de entrada. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar dispositivos de entrada"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "saida-dados",
+    "ano": 2,
+    "titulo": "Saída de informações",
+    "eixo": "Mundo Digital",
+    "descricao": "Identificar dispositivos de saída",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=saida-dados",
+    "good": [
+      "Monitor",
+      "Alto-falante",
+      "Projetor",
+      "Impressora",
+      "Fone de ouvido"
+    ],
+    "bad": [
+      "Teclado",
+      "Mouse",
+      "Microfone",
+      "Scanner"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Identificar dispositivos de saída. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Identificar dispositivos de saída"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "cuidados-digitais",
+    "ano": 2,
+    "titulo": "Cuide do computador",
+    "eixo": "Cultura Digital",
+    "descricao": "Escolher cuidados com equipamentos",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=cuidados-digitais",
+    "good": [
+      "Mãos secas",
+      "Transportar com cuidado",
+      "Pedir ajuda",
+      "Manter líquidos longe",
+      "Guardar cabos"
+    ],
+    "bad": [
+      "Derramar água",
+      "Puxar cabos",
+      "Bater na tela",
+      "Comer sobre o teclado"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Escolher cuidados com equipamentos. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Escolher cuidados com equipamentos"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "privacidade-dados",
+    "ano": 3,
+    "titulo": "Guardiões da privacidade",
+    "eixo": "Cultura Digital",
+    "descricao": "Reconhecer dados que exigem proteção",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=privacidade-dados",
+    "good": [
+      "Senha",
+      "Endereço residencial",
+      "Telefone pessoal",
+      "Documento pessoal",
+      "Localização em tempo real"
+    ],
+    "bad": [
+      "Nome de um planeta",
+      "Cor do céu",
+      "Nome de uma fruta",
+      "Resultado de uma soma"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Reconhecer dados que exigem proteção. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reconhecer dados que exigem proteção"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "convivencia-digital",
+    "ano": 3,
+    "titulo": "Amizade online",
+    "eixo": "Cultura Digital",
+    "descricao": "Escolher atitudes respeitosas",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=convivencia-digital",
+    "good": [
+      "Pedir autorização",
+      "Respeitar opiniões",
+      "Avisar um adulto sobre agressões",
+      "Usar palavras gentis",
+      "Ajudar colegas"
+    ],
+    "bad": [
+      "Humilhar colegas",
+      "Espalhar boatos",
+      "Publicar fotos sem autorização",
+      "Ameaçar pessoas"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Escolher atitudes respeitosas. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Escolher atitudes respeitosas"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "fontes-digitais",
+    "ano": 4,
+    "titulo": "Investigadores da informação",
+    "eixo": "Cultura Digital",
+    "descricao": "Reconhecer práticas de verificação",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=fontes-digitais",
+    "good": [
+      "Conferir autoria",
+      "Comparar fontes",
+      "Verificar data",
+      "Buscar evidências",
+      "Consultar fonte oficial"
+    ],
+    "bad": [
+      "Compartilhar sem ler",
+      "Confiar só no título",
+      "Inventar fonte",
+      "Ignorar evidências"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Reconhecer práticas de verificação. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reconhecer práticas de verificação"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "seguranca-contas",
+    "ano": 5,
+    "titulo": "Defesa das contas",
+    "eixo": "Cultura Digital",
+    "descricao": "Reconhecer práticas de segurança",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "digital",
+    "url": "digital.html?id=seguranca-contas",
+    "good": [
+      "Usar senha exclusiva",
+      "Ativar segundo fator",
+      "Atualizar aplicativos",
+      "Sair de computador público",
+      "Verificar endereço do site"
+    ],
+    "bad": [
+      "Compartilhar senha",
+      "Reutilizar senha vazada",
+      "Abrir anexos suspeitos",
+      "Ignorar alertas"
+    ],
+    "guia": "Apresente a tarefa com exemplos concretos. Reconhecer práticas de segurança. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Reconhecer práticas de segurança"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "ordem-tamanhos",
+    "ano": 1,
+    "titulo": "Fila dos tamanhos",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Ordenar valores do menor ao maior",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=ordem-tamanhos",
+    "mode": "asc",
+    "guia": "Apresente a tarefa com exemplos concretos. Ordenar valores do menor ao maior. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Ordenar valores do menor ao maior"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "ordem-decrescente",
+    "ano": 2,
+    "titulo": "Montanha de números",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Ordenar valores do maior ao menor",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=ordem-decrescente",
+    "mode": "desc",
+    "guia": "Apresente a tarefa com exemplos concretos. Ordenar valores do maior ao menor. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Ordenar valores do maior ao menor"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "duplicar-lista",
+    "ano": 2,
+    "titulo": "Máquina de dobrar",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Transformar cada elemento pelo dobro",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=duplicar-lista",
+    "mode": "double",
+    "guia": "Apresente a tarefa com exemplos concretos. Transformar cada elemento pelo dobro. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Transformar cada elemento pelo dobro"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "incrementar-lista",
+    "ano": 3,
+    "titulo": "Esteira de números",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Adicionar uma unidade a cada elemento",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=incrementar-lista",
+    "mode": "inc",
+    "guia": "Apresente a tarefa com exemplos concretos. Adicionar uma unidade a cada elemento. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Adicionar uma unidade a cada elemento"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "lista-inversa",
+    "ano": 3,
+    "titulo": "Trem de marcha a ré",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Inverter a ordem de uma lista",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=lista-inversa",
+    "mode": "reverse",
+    "guia": "Apresente a tarefa com exemplos concretos. Inverter a ordem de uma lista. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Inverter a ordem de uma lista"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "lista-rotacao",
+    "ano": 4,
+    "titulo": "Carrossel de dados",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Mover o primeiro elemento ao final",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=lista-rotacao",
+    "mode": "rotate",
+    "guia": "Apresente a tarefa com exemplos concretos. Mover o primeiro elemento ao final. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Mover o primeiro elemento ao final"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "lista-minimo",
+    "ano": 4,
+    "titulo": "Busca do menor",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Encontrar o menor elemento",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=lista-minimo",
+    "mode": "min",
+    "guia": "Apresente a tarefa com exemplos concretos. Encontrar o menor elemento. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encontrar o menor elemento"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "lista-maximo",
+    "ano": 5,
+    "titulo": "Busca do maior",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Encontrar o maior elemento",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=lista-maximo",
+    "mode": "max",
+    "guia": "Apresente a tarefa com exemplos concretos. Encontrar o maior elemento. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encontrar o maior elemento"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "lista-soma",
+    "ano": 5,
+    "titulo": "Armazém de valores",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Somar os elementos de uma lista",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "transform",
+    "url": "transform.html?id=lista-soma",
+    "mode": "sum",
+    "guia": "Apresente a tarefa com exemplos concretos. Somar os elementos de uma lista. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Somar os elementos de uma lista"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-direita",
+    "ano": 1,
+    "titulo": "Passos para a direita",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Localizar a célula à direita",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-direita",
+    "mode": "right",
+    "guia": "Apresente a tarefa com exemplos concretos. Localizar a célula à direita. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localizar a célula à direita"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-esquerda",
+    "ano": 1,
+    "titulo": "Passos para a esquerda",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Localizar a célula à esquerda",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-esquerda",
+    "mode": "left",
+    "guia": "Apresente a tarefa com exemplos concretos. Localizar a célula à esquerda. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localizar a célula à esquerda"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-cima",
+    "ano": 2,
+    "titulo": "Subida do explorador",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Localizar a célula acima",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-cima",
+    "mode": "up",
+    "guia": "Apresente a tarefa com exemplos concretos. Localizar a célula acima. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localizar a célula acima"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-baixo",
+    "ano": 2,
+    "titulo": "Descida do explorador",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Localizar a célula abaixo",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-baixo",
+    "mode": "down",
+    "guia": "Apresente a tarefa com exemplos concretos. Localizar a célula abaixo. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localizar a célula abaixo"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-duplo",
+    "ano": 3,
+    "titulo": "Dois passos do robô",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Executar dois deslocamentos",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-duplo",
+    "mode": "two",
+    "guia": "Apresente a tarefa com exemplos concretos. Executar dois deslocamentos. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Executar dois deslocamentos"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-reflexao",
+    "ano": 4,
+    "titulo": "Mapa refletido",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Localizar a posição refletida horizontalmente",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-reflexao",
+    "mode": "mirror",
+    "guia": "Apresente a tarefa com exemplos concretos. Localizar a posição refletida horizontalmente. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localizar a posição refletida horizontalmente"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-transposto",
+    "ano": 4,
+    "titulo": "Troca de coordenadas",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Trocar linha e coluna",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-transposto",
+    "mode": "transpose",
+    "guia": "Apresente a tarefa com exemplos concretos. Trocar linha e coluna. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Trocar linha e coluna"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
+  },
+  {
+    "id": "mapa-distancia",
+    "ano": 5,
+    "titulo": "Distância do entregador",
+    "eixo": "Pensamento Computacional",
+    "descricao": "Calcular distância em movimentos ortogonais",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "grid",
+    "url": "grid.html?id=mapa-distancia",
+    "mode": "distance",
+    "guia": "Apresente a tarefa com exemplos concretos. Calcular distância em movimentos ortogonais. Observe a justificativa do aluno, permita correções e proponha um exemplo diferente ao final.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Calcular distância em movimentos ortogonais"
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente o desafio com cartões ou papel quadriculado."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases e explique as escolhas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e analise erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Aplique o conceito em um exemplo inédito."
+      ]
+    ]
   }
 ]
