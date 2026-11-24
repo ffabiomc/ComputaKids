@@ -119,7 +119,9 @@
     "eixo": "Pensamento Computacional",
     "resumo": "Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.",
     "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "pagina": 12
+    "pagina": 12,
+    "descricaoConferida": true,
+    "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf"
   },
   "EF04CO01": {
     "codigo": "EF04CO01",
@@ -145,7 +147,9 @@
     "eixo": "Pensamento Computacional",
     "resumo": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
     "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
-    "pagina": 12
+    "pagina": 12,
+    "descricaoConferida": true,
+    "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf"
   },
   "EF01CO06": {
     "codigo": "EF01CO06",
@@ -156,8 +160,11 @@
   "EF02CO06": {
     "codigo": "EF02CO06",
     "eixo": "Cultura Digital",
-    "resumo": "Cuidados de segurança no uso de dispositivos.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 16,
+    "descricaoConferida": true,
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   },
   "EF03CO09": {
     "codigo": "EF03CO09",
@@ -196,5 +203,23 @@
     "eixo": "Pensamento Computacional",
     "resumo": "Decomposição de problemas e combinação de soluções.",
     "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+  },
+  "EF01CO03": {
+    "codigo": "EF01CO03",
+    "eixo": "Pensamento Computacional",
+    "resumo": "Reorganizar e criar sequências de passos em meios físicos ou digitais, relacionando essas sequências à palavra ‘Algoritmos’.",
+    "pagina": 12,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true,
+    "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf"
+  },
+  "EF02CO01": {
+    "codigo": "EF02CO01",
+    "eixo": "Pensamento Computacional",
+    "resumo": "Criar e comparar modelos (representações) de objetos, identificando padrões e atributos essenciais.",
+    "pagina": 16,
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "descricaoConferida": true,
+    "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
   }
 }
