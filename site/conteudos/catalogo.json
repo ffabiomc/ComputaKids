@@ -1726,7 +1726,7 @@
       ]
     ],
     "habilidadeDescricao": "Identificar e seguir sequências de passos aplicados no dia a dia para resolver problemas.",
-    "habilidadeStatus": "Reconferência documental pendente.",
+    "habilidadeStatus": "Descrição conferida na tabela curricular; adequação pedagógica pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Organizar instruções de uma receita.",
@@ -1735,8 +1735,9 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
       "adequacao": "pendente"
     }
   },
@@ -2707,7 +2708,7 @@
       ]
     ],
     "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
-    "habilidadeStatus": "Reconferência documental pendente.",
+    "habilidadeStatus": "Descrição conferida na tabela curricular; adequação pedagógica pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar a unidade que se repete.",
@@ -2716,8 +2717,9 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
       "adequacao": "pendente"
     }
   },
@@ -2761,7 +2763,7 @@
       ]
     ],
     "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
-    "habilidadeStatus": "Reconferência documental pendente.",
+    "habilidadeStatus": "Descrição conferida na tabela curricular; adequação pedagógica pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Agrupar figuras por forma.",
@@ -2770,8 +2772,9 @@
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
     },
     "auditoriaCurricular": {
-      "descricaoConferida": false,
+      "descricaoConferida": true,
       "pagina": 12,
+      "fonteConsultada": "https://intensivopedagogico.com.br/wp-content/uploads/2024/05/Anexo-ao-Parecer-CNECEB-no-2-2022-BNCC-Computacao.pdf",
       "adequacao": "pendente"
     }
   },
@@ -3186,14 +3189,20 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Cuidados de segurança no uso de dispositivos.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
+    "habilidadeDescricao": "Reconhecer os cuidados com a segurança no uso de dispositivos computacionais.",
+    "habilidadeStatus": "Descrição conferida na tabela curricular; adequação pedagógica pendente.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Selecionar cuidados com equipamentos.",
       "evidencia": "Pedir demonstração de uma rotina segura de uso.",
       "limite": "Distinguir cuidado físico de segurança da informação.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 16,
+      "fonteConsultada": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+      "adequacao": "pendente"
     }
   },
   {
