@@ -37,14 +37,19 @@
         "Peça uma sequência de comandos para um novo caminho."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Antecipar e executar uma sequência de movimentos.",
       "evidencia": "Solicite que o aluno registre o percurso antes de executar e explique uma correção.",
       "limite": "A atividade trabalha sequências; condições e repetições exigem complementação.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -135,14 +140,19 @@
         "Apresente um exemplo novo e observe a estratégia."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Ordenar números crescentes.",
       "evidencia": "Pedir justificativa para duas posições vizinhas.",
       "limite": "Explorar ordenação por atributos não numéricos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -695,14 +705,19 @@
         "Crie um programa para outro percurso."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Construir uma sequência de comandos.",
       "evidencia": "Pedir previsão do destino antes da execução.",
       "limite": "Comparar programas alternativos e depurar erros.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -1816,14 +1831,19 @@
         "Descreva outra tarefa em etapas."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Organizar ações de uma rotina.",
       "evidencia": "Pedir que diferencie etapas obrigatórias e opcionais.",
       "limite": "Criar uma rotina própria e testá-la.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -1969,14 +1989,19 @@
         "Descreva outra tarefa em etapas."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Organizar etapas de cultivo.",
       "evidencia": "Solicitar explicação sobre a ordem de semear e regar.",
       "limite": "Discutir ações que se repetem ao longo do cultivo.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2018,14 +2043,19 @@
         "Resolva um novo mapa."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar uma célula por linha e coluna.",
       "evidencia": "Pedir localização em uma grade sem rótulos internos.",
       "limite": "Criar coordenadas para outros objetos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2067,14 +2097,19 @@
         "Resolva um novo mapa."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Encontrar um percurso evitando obstáculos.",
       "evidencia": "Registrar comandos antes de mover o robô.",
       "limite": "A movimentação direta não equivale a programar um algoritmo.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2366,14 +2401,19 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar quando duas condições são simultaneamente verdadeiras.",
       "evidencia": "Apresente quatro combinações de verdadeiro e falso e peça justificativas.",
       "limite": "Trabalha conjunção; complemente com OU e NÃO.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2415,14 +2455,19 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar quando pelo menos uma condição é verdadeira.",
       "evidencia": "Peça exemplos com nenhuma, uma e duas condições verdadeiras.",
       "limite": "Trabalha disjunção; complemente com E e NÃO.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2464,14 +2509,19 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar a negação de uma condição.",
       "evidencia": "Peça ao aluno que formule uma afirmação e sua negação.",
       "limite": "Trabalha negação; complemente com E e OU.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2709,14 +2759,19 @@
         "Resolva um novo desafio sem ajuda."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Organizar movimentos para atingir um destino.",
       "evidencia": "Registrar e simular comandos em uma grade.",
       "limite": "Complementar com percurso físico e obstáculos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2758,14 +2813,19 @@
         "Resolva um novo desafio sem ajuda."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar um comando incorreto.",
       "evidencia": "Comparar sequência original e corrigida.",
       "limite": "Testar a correção em uma grade real.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -2807,14 +2867,19 @@
         "Resolva um novo desafio sem ajuda."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Contar ocorrências de figuras.",
       "evidencia": "Registrar contagens em tabela com cabeçalhos.",
       "limite": "Construir uma tabela completa fora do jogo.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3354,14 +3419,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Ordenar valores do menor ao maior.",
       "evidencia": "Explicar a posição de dois valores consecutivos.",
       "limite": "Comparar objetos reais por tamanho.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3404,14 +3474,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Ordenar valores do maior ao menor.",
       "evidencia": "Registrar a ordem inversa e justificar.",
       "limite": "Explorar empates e outros critérios.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3454,14 +3529,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Dobrar cada valor preservando sua posição.",
       "evidencia": "Comparar pares de valores antes e depois.",
       "limite": "Aplicar a transformação a uma lista própria.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3504,14 +3584,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Adicionar uma unidade a cada elemento.",
       "evidencia": "Explicar a regra aplicada a todos os elementos.",
       "limite": "Experimentar outros incrementos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3554,14 +3639,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Inverter a ordem dos elementos.",
       "evidencia": "Identificar a nova posição do primeiro elemento.",
       "limite": "Distinguir inversão de ordenação.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3604,14 +3694,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Deslocar elementos circularmente.",
       "evidencia": "Prever a posição do elemento deslocado.",
       "limite": "Experimentar duas rotações consecutivas.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3654,14 +3749,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar o menor valor.",
       "evidencia": "Descrever como comparou os elementos.",
       "limite": "Discutir valores mínimos repetidos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3804,14 +3904,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar deslocamento à direita.",
       "evidencia": "Demonstrar o movimento em uma grade física.",
       "limite": "Distinguir direita do observador e do personagem.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3854,14 +3959,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar deslocamento à esquerda.",
       "evidencia": "Indicar origem e destino em uma grade.",
       "limite": "Alternar perspectivas de observação.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3904,14 +4014,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar deslocamento para cima.",
       "evidencia": "Registrar a mudança de linha.",
       "limite": "Explorar limites da grade.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -3954,14 +4069,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar deslocamento para baixo.",
       "evidencia": "Prever a célula de destino.",
       "limite": "Explorar limites da grade.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4004,14 +4124,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Combinar dois deslocamentos.",
       "evidencia": "Registrar posições intermediárias.",
       "limite": "Comparar caminhos alternativos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4154,14 +4279,19 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Calcular distância por deslocamentos ortogonais.",
       "evidencia": "Desenhar um caminho mínimo e contar passos.",
       "limite": "Comparar com distância em linha reta.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4204,14 +4334,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Reconhecer uma sequência repetida de comandos.",
       "evidencia": "Reproduzir a unidade de repetição com palmas.",
       "limite": "Relacionar as setas do jogo a movimentos reais.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4254,14 +4389,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Reconhecer alternância em uma sequência.",
       "evidencia": "Criar um padrão alternado com cartões.",
       "limite": "Usar formas concretas além das setas do jogo.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4404,14 +4544,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Corrigir a quantidade de repetições.",
       "evidencia": "Comparar a sequência desejada com a executada.",
       "limite": "Criar e corrigir um erro próprio.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4454,14 +4599,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Calcular o comprimento de uma sequência repetida.",
       "evidencia": "Explicar a relação entre bloco e quantidade de repetições.",
       "limite": "Experimentar blocos de comprimentos diferentes.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -4554,14 +4704,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Comparar quantidade de comandos antes e depois da compactação.",
       "evidencia": "Calcular a diferença e justificar equivalência.",
       "limite": "Testar sequências sem repetição.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5065,14 +5220,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar componentes de uma casa.",
       "evidencia": "Organizar componentes por função.",
       "limite": "Dividir a construção em subtarefas.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5126,14 +5286,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar componentes de uma bicicleta.",
       "evidencia": "Explicar a função de três componentes.",
       "limite": "Organizar etapas de montagem no papel.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5187,14 +5352,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Selecionar materiais pertinentes à mochila.",
       "evidencia": "Justificar escolhas para uma aula específica.",
       "limite": "Planejar materiais conforme diferentes horários.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5370,14 +5540,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar elementos de uma narrativa.",
       "evidencia": "Elaborar roteiro dividido em cenas.",
       "limite": "Relacionar as cenas em sequência coerente.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5431,14 +5606,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar componentes de um jogo.",
       "evidencia": "Dividir um projeto em regras, interface e desafios.",
       "limite": "Implementar um protótipo simples no papel.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   },
   {
@@ -5492,14 +5672,19 @@
         "Resolver um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Dividir problemas em partes e combinar suas soluções.",
-    "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
+    "habilidadeDescricao": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "habilidadeStatus": "Descrição conferida no anexo oficial, p. 34; adequação da atividade à habilidade ainda em auditoria.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
       "objetivo": "Identificar etapas de uma pesquisa.",
       "evidencia": "Criar plano com pergunta, fontes e síntese.",
       "limite": "Verificar fontes e registrar referências.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 34,
+      "adequacao": "pendente"
     }
   }
 ]
