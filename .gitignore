@@ -1,0 +1,11 @@
+/.env
+/.env.local
+/vendor/
+/node_modules/
+/storage/private/*
+/storage/logs/*
+/config/local.php
+*.sql.gz
+*.log
+/.idea/
+/.vscode/
