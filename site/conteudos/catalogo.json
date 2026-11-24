@@ -305,5 +305,87 @@
         "Apresente uma nova situação e peça uma justificativa."
       ]
     ]
+  },
+  {
+    "id": "circuitos-logicos",
+    "ano": 7,
+    "titulo": "Laboratório de circuitos lógicos",
+    "descricao": "Manipule interruptores e portas E, OU e NÃO para atingir a saída solicitada.",
+    "modo": "portas",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "motor": "circuitos",
+    "url": "circuitos.html?modo=portas",
+    "status": "piloto",
+    "guia": "Explore as combinações de entradas, peça previsões antes de testar e registre uma tabela verdade. Não use circuitos elétricos reais.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresente os estados verdadeiro e falso."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente entradas com cartões 0 e 1."
+      ],
+      [
+        "Laboratório",
+        15,
+        "Manipule interruptores e portas E, OU e NÃO para atingir a saída solicitada."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare as combinações e explique as saídas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Proponha uma combinação inédita e peça justificativa."
+      ]
+    ]
+  },
+  {
+    "id": "automacao-inteligente",
+    "ano": 8,
+    "titulo": "Central de automação",
+    "descricao": "Configure sensores virtuais para controlar sistemas automáticos.",
+    "modo": "automacao",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "motor": "circuitos",
+    "url": "circuitos.html?modo=automacao",
+    "status": "piloto",
+    "guia": "Explore as combinações de entradas, peça previsões antes de testar e registre uma tabela verdade. Não use circuitos elétricos reais.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Apresente os estados verdadeiro e falso."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Represente entradas com cartões 0 e 1."
+      ],
+      [
+        "Laboratório",
+        15,
+        "Configure sensores virtuais para controlar sistemas automáticos."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare as combinações e explique as saídas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Proponha uma combinação inédita e peça justificativa."
+      ]
+    ]
   }
 ]
