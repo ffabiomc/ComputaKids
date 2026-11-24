@@ -707,5 +707,233 @@
         "Ordene uma nova lista e explique o procedimento."
       ]
     ]
+  },
+  {
+    "id": "hardware-oficina",
+    "ano": 5,
+    "titulo": "Oficina de hardware",
+    "eixo": "Mundo Digital",
+    "descricao": "Selecione o componente adequado para cada função.",
+    "questions": [
+      [
+        "Processar instruções",
+        "CPU",
+        "RAM",
+        "SSD"
+      ],
+      [
+        "Guardar arquivos sem energia",
+        "SSD",
+        "RAM",
+        "CPU"
+      ],
+      [
+        "Manter dados temporários em uso",
+        "RAM",
+        "Monitor",
+        "SSD"
+      ],
+      [
+        "Exibir imagens",
+        "Monitor",
+        "Microfone",
+        "Fonte"
+      ],
+      [
+        "Fornecer energia aos componentes",
+        "Fonte",
+        "Mouse",
+        "RAM"
+      ],
+      [
+        "Conectar componentes internos",
+        "Placa-mãe",
+        "Teclado",
+        "Monitor"
+      ],
+      [
+        "Captar voz",
+        "Microfone",
+        "Monitor",
+        "SSD"
+      ],
+      [
+        "Controlar o ponteiro",
+        "Mouse",
+        "Fonte",
+        "CPU"
+      ],
+      [
+        "Resfriar o processador",
+        "Cooler",
+        "SSD",
+        "Teclado"
+      ],
+      [
+        "Digitar texto",
+        "Teclado",
+        "Monitor",
+        "Fonte"
+      ],
+      [
+        "Processar gráficos",
+        "GPU",
+        "Microfone",
+        "Mouse"
+      ],
+      [
+        "Reproduzir áudio",
+        "Alto-falante",
+        "Câmera",
+        "RAM"
+      ]
+    ],
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "missoes",
+    "url": "missoes.html?id=hardware-oficina",
+    "guia": "Discuta a função ou situação apresentada e peça justificativas antes de selecionar a resposta.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Selecione o componente adequado para cada função."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões com situações e soluções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as missões."
+      ],
+      [
+        "Discussão",
+        15,
+        "Justifique as escolhas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva uma situação inédita."
+      ]
+    ]
+  },
+  {
+    "id": "seguranca-missoes",
+    "ano": 8,
+    "titulo": "Missões de segurança digital",
+    "eixo": "Cultura Digital",
+    "descricao": "Escolha atitudes seguras em situações simuladas.",
+    "questions": [
+      [
+        "Uma mensagem pede sua senha.",
+        "Não compartilhar e pedir ajuda",
+        "Enviar a senha",
+        "Publicar a senha"
+      ],
+      [
+        "Um desconhecido pede seu endereço.",
+        "Não informar e procurar adulto de confiança",
+        "Enviar endereço",
+        "Enviar localização"
+      ],
+      [
+        "Uma notícia parece falsa.",
+        "Verificar fontes confiáveis",
+        "Compartilhar imediatamente",
+        "Inventar detalhes"
+      ],
+      [
+        "Um colega recebe ofensas online.",
+        "Apoiar e comunicar a um adulto",
+        "Repetir as ofensas",
+        "Divulgar a conversa"
+      ],
+      [
+        "Um aplicativo pede acesso desnecessário à câmera.",
+        "Negar e revisar permissões",
+        "Aceitar tudo",
+        "Publicar fotos"
+      ],
+      [
+        "Um link promete prêmio inesperado.",
+        "Evitar abrir e verificar origem",
+        "Informar dados",
+        "Baixar arquivo"
+      ],
+      [
+        "Você quer publicar foto de colega.",
+        "Pedir autorização",
+        "Publicar sem perguntar",
+        "Marcar desconhecidos"
+      ],
+      [
+        "Um dispositivo compartilhado ficou conectado à conta.",
+        "Encerrar sessão",
+        "Salvar senha publicamente",
+        "Deixar aberto"
+      ],
+      [
+        "Há atualização oficial disponível.",
+        "Instalar por fonte oficial",
+        "Baixar de link aleatório",
+        "Desativar proteção"
+      ],
+      [
+        "Uma senha foi exposta.",
+        "Alterar senha e pedir ajuda",
+        "Continuar usando",
+        "Compartilhar mais"
+      ],
+      [
+        "Um jogo pede pagamento inesperado.",
+        "Consultar responsável",
+        "Informar cartão",
+        "Comprar escondido"
+      ],
+      [
+        "Uma mensagem tenta apressar uma decisão.",
+        "Parar e verificar a solicitação",
+        "Obedecer imediatamente",
+        "Repassar dados"
+      ]
+    ],
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "missoes",
+    "url": "missoes.html?id=seguranca-missoes",
+    "guia": "Discuta a função ou situação apresentada e peça justificativas antes de selecionar a resposta.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Escolha atitudes seguras em situações simuladas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões com situações e soluções."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as missões."
+      ],
+      [
+        "Discussão",
+        15,
+        "Justifique as escolhas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva uma situação inédita."
+      ]
+    ]
   }
 ]
