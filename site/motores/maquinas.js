@@ -1,0 +1,9 @@
+const $=id=>document.getElementById(id);
+const a=(await fetch('../conteudos/catalogo.json').then(r=>r.json())).find(x=>x.id===new URLSearchParams(location.search).get('id')&&x.motor==='maquinas');
+if(!a)throw Error('Atividade inválida');
+let p=0,chosen=[],answer=[],won=false;
+function render(){chosen=[];won=false;$('title').textContent=a.titulo;$('phase').textContent='Fase '+(p+1)+' de 15';$('feedback').textContent='';$('next').hidden=true;$('check').disabled=false;$('undo').disabled=false;$('options').replaceChildren();
+const q=a.desafios[p];answer=q[1];$('task').textContent=a.descricao;$('board').textContent=q[0];const opts=[...new Set(q[2])];for(let i=opts.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[opts[i],opts[j]]=[opts[j],opts[i]]}for(const v of opts){const b=document.createElement('button');b.textContent=v;b.onclick=()=>{if(!won){if(answer.length===1)chosen=[v];else if(chosen.length<answer.length)chosen.push(v);show()}};$('options').append(b)}show()}
+function show(){$('selection').textContent='Sua resposta: '+chosen.join(' → ');for(const b of $('options').children)b.setAttribute('aria-pressed',String(chosen.includes(b.textContent)))}
+$('check').onclick=()=>{won=chosen.length===answer.length&&chosen.every((v,i)=>v===answer[i]);$('feedback').textContent=won?'Correto! '+a.explicacao:'Revise as instruções e tente novamente.';$('next').hidden=!won;$('check').disabled=won;$('undo').disabled=won;if(won&&p===14){$('feedback').textContent+=' Você concluiu as 15 fases!';$('next').hidden=true}};
+$('undo').onclick=()=>{chosen.pop();show()};$('next').onclick=()=>{if(won&&p<14){p++;render()}};$('restart').onclick=()=>{p=0;render()};render();
