@@ -7927,5 +7927,1335 @@
       "pagina": 16,
       "adequacao": "parcial"
     }
+  },
+  {
+    "id": "agrupar-formas",
+    "titulo": "Clube das formas",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecione todos os itens que pertencem ao grupo indicado.",
+    "habilidade": "EF01CO01",
+    "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; explicitação oral mediada.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "agrupamentos",
+    "url": "agrupamentos.html?id=agrupar-formas",
+    "desafios": [
+      {
+        "regra": "Selecione todos os itens: círculo.",
+        "itens": [
+          "●",
+          "■",
+          "○",
+          "△"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: quadrado.",
+        "itens": [
+          "■",
+          "▲",
+          "□",
+          "▭"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: triângulo.",
+        "itens": [
+          "▲",
+          "▬",
+          "△",
+          "☆"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: retângulo.",
+        "itens": [
+          "▬",
+          "★",
+          "▭",
+          "○"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: estrela.",
+        "itens": [
+          "★",
+          "●",
+          "☆",
+          "□"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: círculo.",
+        "itens": [
+          "▲",
+          "○",
+          "▬",
+          "●",
+          "△"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: quadrado.",
+        "itens": [
+          "▬",
+          "□",
+          "★",
+          "■",
+          "▭"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: triângulo.",
+        "itens": [
+          "★",
+          "△",
+          "●",
+          "▲",
+          "☆"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: retângulo.",
+        "itens": [
+          "●",
+          "▭",
+          "■",
+          "▬",
+          "○"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: estrela.",
+        "itens": [
+          "■",
+          "☆",
+          "▲",
+          "★",
+          "□"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: círculo.",
+        "itens": [
+          "☆",
+          "●",
+          "▭",
+          "○",
+          "★",
+          "▬"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: quadrado.",
+        "itens": [
+          "○",
+          "■",
+          "☆",
+          "□",
+          "●",
+          "★"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: triângulo.",
+        "itens": [
+          "□",
+          "▲",
+          "○",
+          "△",
+          "■",
+          "●"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: retângulo.",
+        "itens": [
+          "△",
+          "▬",
+          "□",
+          "▭",
+          "▲",
+          "■"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: estrela.",
+        "itens": [
+          "▭",
+          "★",
+          "△",
+          "☆",
+          "▬",
+          "▲"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      }
+    ],
+    "guia": "Organizar objetos por forma e explicar semelhanças e diferenças. Use cartões com os itens, leia os rótulos em voz alta e permita respostas orais ou por teclado. No jogo de cores, ofereça cartões rotulados para alunos com dificuldade de distinguir cores.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organizar objetos por forma e explicar semelhanças e diferenças."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Agrupar cartões por forma e explicar a regra."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Reagrupar os cartões por outra característica e comparar."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Classificar novos itens e justificar a regra."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Organizar objetos por forma e explicar semelhanças e diferenças.",
+      "evidencia": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "limite": "O jogo seleciona grupos predefinidos; criar regras próprias na atividade desplugada.",
+      "status": "Aplicação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 12,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "agrupar-cores",
+    "titulo": "Famílias de cores",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecione todos os itens que pertencem ao grupo indicado.",
+    "habilidade": "EF01CO01",
+    "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; explicitação oral mediada.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "agrupamentos",
+    "url": "agrupamentos.html?id=agrupar-cores",
+    "desafios": [
+      {
+        "regra": "Selecione todos os itens: vermelho.",
+        "itens": [
+          "🔴",
+          "🔵",
+          "🟥",
+          "🟩"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: azul.",
+        "itens": [
+          "🔵",
+          "🟢",
+          "🟦",
+          "🟨"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: verde.",
+        "itens": [
+          "🟢",
+          "🟡",
+          "🟩",
+          "🟪"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: amarelo.",
+        "itens": [
+          "🟡",
+          "🟣",
+          "🟨",
+          "🟥"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: roxo.",
+        "itens": [
+          "🟣",
+          "🔴",
+          "🟪",
+          "🟦"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: vermelho.",
+        "itens": [
+          "🟢",
+          "🟥",
+          "🟡",
+          "🔴",
+          "🟩"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: azul.",
+        "itens": [
+          "🟡",
+          "🟦",
+          "🟣",
+          "🔵",
+          "🟨"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: verde.",
+        "itens": [
+          "🟣",
+          "🟩",
+          "🔴",
+          "🟢",
+          "🟪"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: amarelo.",
+        "itens": [
+          "🔴",
+          "🟨",
+          "🔵",
+          "🟡",
+          "🟥"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: roxo.",
+        "itens": [
+          "🔵",
+          "🟪",
+          "🟢",
+          "🟣",
+          "🟦"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: vermelho.",
+        "itens": [
+          "🟪",
+          "🔴",
+          "🟨",
+          "🟥",
+          "🟣",
+          "🟡"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: azul.",
+        "itens": [
+          "🟥",
+          "🔵",
+          "🟪",
+          "🟦",
+          "🔴",
+          "🟣"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: verde.",
+        "itens": [
+          "🟦",
+          "🟢",
+          "🟥",
+          "🟩",
+          "🔵",
+          "🔴"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: amarelo.",
+        "itens": [
+          "🟩",
+          "🟡",
+          "🟦",
+          "🟨",
+          "🟢",
+          "🔵"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: roxo.",
+        "itens": [
+          "🟨",
+          "🟣",
+          "🟩",
+          "🟪",
+          "🟡",
+          "🟢"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      }
+    ],
+    "guia": "Organizar objetos por cor e explicar semelhanças e diferenças. Use cartões com os itens, leia os rótulos em voz alta e permita respostas orais ou por teclado. No jogo de cores, ofereça cartões rotulados para alunos com dificuldade de distinguir cores.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organizar objetos por cor e explicar semelhanças e diferenças."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Agrupar cartões por cor e explicar a regra."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Reagrupar os cartões por outra característica e comparar."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Classificar novos itens e justificar a regra."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Organizar objetos por cor e explicar semelhanças e diferenças.",
+      "evidencia": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "limite": "O jogo seleciona grupos predefinidos; criar regras próprias na atividade desplugada.",
+      "status": "Aplicação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 12,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "agrupar-materiais",
+    "titulo": "De que é feito?",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecione todos os itens que pertencem ao grupo indicado.",
+    "habilidade": "EF01CO01",
+    "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; explicitação oral mediada.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "agrupamentos",
+    "url": "agrupamentos.html?id=agrupar-materiais",
+    "desafios": [
+      {
+        "regra": "Selecione todos os itens: papel.",
+        "itens": [
+          "folha de papel",
+          "colher de metal",
+          "jornal de papel",
+          "mesa de madeira"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: metal.",
+        "itens": [
+          "colher de metal",
+          "régua de madeira",
+          "chave de metal",
+          "garrafa de vidro"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: madeira.",
+        "itens": [
+          "régua de madeira",
+          "copo de vidro",
+          "mesa de madeira",
+          "toalha de tecido"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: vidro.",
+        "itens": [
+          "copo de vidro",
+          "camisa de tecido",
+          "garrafa de vidro",
+          "jornal de papel"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: tecido.",
+        "itens": [
+          "camisa de tecido",
+          "folha de papel",
+          "toalha de tecido",
+          "chave de metal"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: papel.",
+        "itens": [
+          "régua de madeira",
+          "jornal de papel",
+          "copo de vidro",
+          "folha de papel",
+          "mesa de madeira"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: metal.",
+        "itens": [
+          "copo de vidro",
+          "chave de metal",
+          "camisa de tecido",
+          "colher de metal",
+          "garrafa de vidro"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: madeira.",
+        "itens": [
+          "camisa de tecido",
+          "mesa de madeira",
+          "folha de papel",
+          "régua de madeira",
+          "toalha de tecido"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: vidro.",
+        "itens": [
+          "folha de papel",
+          "garrafa de vidro",
+          "colher de metal",
+          "copo de vidro",
+          "jornal de papel"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: tecido.",
+        "itens": [
+          "colher de metal",
+          "toalha de tecido",
+          "régua de madeira",
+          "camisa de tecido",
+          "chave de metal"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: papel.",
+        "itens": [
+          "toalha de tecido",
+          "folha de papel",
+          "garrafa de vidro",
+          "jornal de papel",
+          "camisa de tecido",
+          "copo de vidro"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: metal.",
+        "itens": [
+          "jornal de papel",
+          "colher de metal",
+          "toalha de tecido",
+          "chave de metal",
+          "folha de papel",
+          "camisa de tecido"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: madeira.",
+        "itens": [
+          "chave de metal",
+          "régua de madeira",
+          "jornal de papel",
+          "mesa de madeira",
+          "colher de metal",
+          "folha de papel"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: vidro.",
+        "itens": [
+          "mesa de madeira",
+          "copo de vidro",
+          "chave de metal",
+          "garrafa de vidro",
+          "régua de madeira",
+          "colher de metal"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: tecido.",
+        "itens": [
+          "garrafa de vidro",
+          "camisa de tecido",
+          "mesa de madeira",
+          "toalha de tecido",
+          "copo de vidro",
+          "régua de madeira"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      }
+    ],
+    "guia": "Organizar objetos por material e explicar semelhanças e diferenças. Use cartões com os itens, leia os rótulos em voz alta e permita respostas orais ou por teclado. No jogo de cores, ofereça cartões rotulados para alunos com dificuldade de distinguir cores.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organizar objetos por material e explicar semelhanças e diferenças."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Agrupar cartões por material e explicar a regra."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Reagrupar os cartões por outra característica e comparar."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Classificar novos itens e justificar a regra."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Organizar objetos por material e explicar semelhanças e diferenças.",
+      "evidencia": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "limite": "O jogo seleciona grupos predefinidos; criar regras próprias na atividade desplugada.",
+      "status": "Aplicação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 12,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "agrupar-funcoes",
+    "titulo": "Objetos e suas funções",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecione todos os itens que pertencem ao grupo indicado.",
+    "habilidade": "EF01CO01",
+    "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; explicitação oral mediada.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "agrupamentos",
+    "url": "agrupamentos.html?id=agrupar-funcoes",
+    "desafios": [
+      {
+        "regra": "Selecione todos os itens: escrever.",
+        "itens": [
+          "lápis",
+          "tesoura",
+          "caneta",
+          "luminária"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: cortar.",
+        "itens": [
+          "tesoura",
+          "lanterna",
+          "cortador de papel",
+          "jarra"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: iluminar.",
+        "itens": [
+          "lanterna",
+          "garrafa",
+          "luminária",
+          "fita métrica"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: guardar líquidos.",
+        "itens": [
+          "garrafa",
+          "régua",
+          "jarra",
+          "caneta"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: medir comprimento.",
+        "itens": [
+          "régua",
+          "lápis",
+          "fita métrica",
+          "cortador de papel"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: escrever.",
+        "itens": [
+          "lanterna",
+          "caneta",
+          "garrafa",
+          "lápis",
+          "luminária"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: cortar.",
+        "itens": [
+          "garrafa",
+          "cortador de papel",
+          "régua",
+          "tesoura",
+          "jarra"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: iluminar.",
+        "itens": [
+          "régua",
+          "luminária",
+          "lápis",
+          "lanterna",
+          "fita métrica"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: guardar líquidos.",
+        "itens": [
+          "lápis",
+          "jarra",
+          "tesoura",
+          "garrafa",
+          "caneta"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: medir comprimento.",
+        "itens": [
+          "tesoura",
+          "fita métrica",
+          "lanterna",
+          "régua",
+          "cortador de papel"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: escrever.",
+        "itens": [
+          "fita métrica",
+          "lápis",
+          "jarra",
+          "caneta",
+          "régua",
+          "garrafa"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: cortar.",
+        "itens": [
+          "caneta",
+          "tesoura",
+          "fita métrica",
+          "cortador de papel",
+          "lápis",
+          "régua"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: iluminar.",
+        "itens": [
+          "cortador de papel",
+          "lanterna",
+          "caneta",
+          "luminária",
+          "tesoura",
+          "lápis"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: guardar líquidos.",
+        "itens": [
+          "luminária",
+          "garrafa",
+          "cortador de papel",
+          "jarra",
+          "lanterna",
+          "tesoura"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: medir comprimento.",
+        "itens": [
+          "jarra",
+          "régua",
+          "luminária",
+          "fita métrica",
+          "garrafa",
+          "lanterna"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      }
+    ],
+    "guia": "Organizar objetos por função e explicar semelhanças e diferenças. Use cartões com os itens, leia os rótulos em voz alta e permita respostas orais ou por teclado. No jogo de cores, ofereça cartões rotulados para alunos com dificuldade de distinguir cores.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organizar objetos por função e explicar semelhanças e diferenças."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Agrupar cartões por função e explicar a regra."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Reagrupar os cartões por outra característica e comparar."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Classificar novos itens e justificar a regra."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Organizar objetos por função e explicar semelhanças e diferenças.",
+      "evidencia": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "limite": "O jogo seleciona grupos predefinidos; criar regras próprias na atividade desplugada.",
+      "status": "Aplicação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 12,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "agrupar-animais",
+    "titulo": "Famílias de animais",
+    "ano": 1,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecione todos os itens que pertencem ao grupo indicado.",
+    "habilidade": "EF01CO01",
+    "habilidadeDescricao": "Organizar objetos físicos ou digitais considerando diferentes características para esta organização, explicitando semelhanças (padrões) e diferenças.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; explicitação oral mediada.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "agrupamentos",
+    "url": "agrupamentos.html?id=agrupar-animais",
+    "desafios": [
+      {
+        "regra": "Selecione todos os itens: aves.",
+        "itens": [
+          "galinha",
+          "sardinha",
+          "pato",
+          "abelha"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: peixes.",
+        "itens": [
+          "sardinha",
+          "formiga",
+          "tilápia",
+          "gato"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: insetos.",
+        "itens": [
+          "formiga",
+          "cachorro",
+          "abelha",
+          "tartaruga"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: mamíferos.",
+        "itens": [
+          "cachorro",
+          "lagarto",
+          "gato",
+          "pato"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: répteis.",
+        "itens": [
+          "lagarto",
+          "galinha",
+          "tartaruga",
+          "tilápia"
+        ],
+        "certos": [
+          0,
+          2
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: aves.",
+        "itens": [
+          "formiga",
+          "pato",
+          "cachorro",
+          "galinha",
+          "abelha"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: peixes.",
+        "itens": [
+          "cachorro",
+          "tilápia",
+          "lagarto",
+          "sardinha",
+          "gato"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: insetos.",
+        "itens": [
+          "lagarto",
+          "abelha",
+          "galinha",
+          "formiga",
+          "tartaruga"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: mamíferos.",
+        "itens": [
+          "galinha",
+          "gato",
+          "sardinha",
+          "cachorro",
+          "pato"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: répteis.",
+        "itens": [
+          "sardinha",
+          "tartaruga",
+          "formiga",
+          "lagarto",
+          "tilápia"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: aves.",
+        "itens": [
+          "tartaruga",
+          "galinha",
+          "gato",
+          "pato",
+          "lagarto",
+          "cachorro"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: peixes.",
+        "itens": [
+          "pato",
+          "sardinha",
+          "tartaruga",
+          "tilápia",
+          "galinha",
+          "lagarto"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: insetos.",
+        "itens": [
+          "tilápia",
+          "formiga",
+          "pato",
+          "abelha",
+          "sardinha",
+          "galinha"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: mamíferos.",
+        "itens": [
+          "abelha",
+          "cachorro",
+          "tilápia",
+          "gato",
+          "formiga",
+          "sardinha"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      },
+      {
+        "regra": "Selecione todos os itens: répteis.",
+        "itens": [
+          "gato",
+          "lagarto",
+          "abelha",
+          "tartaruga",
+          "cachorro",
+          "formiga"
+        ],
+        "certos": [
+          1,
+          3
+        ]
+      }
+    ],
+    "guia": "Organizar objetos por grupo e explicar semelhanças e diferenças. Use cartões com os itens, leia os rótulos em voz alta e permita respostas orais ou por teclado. No jogo de cores, ofereça cartões rotulados para alunos com dificuldade de distinguir cores.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organizar objetos por grupo e explicar semelhanças e diferenças."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Agrupar cartões por grupo e explicar a regra."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver as fases sem limite de tempo."
+      ],
+      [
+        "Discussão",
+        15,
+        "Reagrupar os cartões por outra característica e comparar."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Classificar novos itens e justificar a regra."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Organizar objetos por grupo e explicar semelhanças e diferenças.",
+      "evidencia": "Agrupar itens inéditos e explicar uma semelhança e uma diferença.",
+      "limite": "O jogo seleciona grupos predefinidos; criar regras próprias na atividade desplugada.",
+      "status": "Aplicação em turma pendente."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": false,
+      "pagina": 12,
+      "adequacao": "parcial"
+    }
   }
 ]
