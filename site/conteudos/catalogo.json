@@ -1708,5 +1708,85 @@
         "Descreva outra tarefa em etapas."
       ]
     ]
+  },
+  {
+    "id": "mapa-tesouro",
+    "ano": 2,
+    "titulo": "Mapa do tesouro",
+    "descricao": "Localize objetos usando linhas e colunas.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "espacial",
+    "url": "espacial.html?id=mapa-tesouro",
+    "guia": "Represente a grade no chão, explore linhas e colunas e peça que os alunos expliquem suas estratégias.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Localize objetos usando linhas e colunas."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Explore uma grade desenhada no chão."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias de localização."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo mapa."
+      ]
+    ]
+  },
+  {
+    "id": "entregas-robo",
+    "ano": 3,
+    "titulo": "Robô entregador",
+    "descricao": "Planeje trajetos em uma grade com obstáculos.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "espacial",
+    "url": "espacial.html?id=entregas-robo",
+    "guia": "Represente a grade no chão, explore linhas e colunas e peça que os alunos expliquem suas estratégias.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Planeje trajetos em uma grade com obstáculos."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Explore uma grade desenhada no chão."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias de localização."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo mapa."
+      ]
+    ]
   }
 ]
