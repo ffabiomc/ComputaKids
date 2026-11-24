@@ -2348,7 +2348,7 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -2356,6 +2356,12 @@
       "evidencia": "Solicite que o aluno explique por que cada elemento foi incluído ou excluído.",
       "limite": "Complementar com criação de uma lista e formulação de outro critério.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -2398,7 +2404,7 @@
         "Aplique a regra a um exemplo novo."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -2406,6 +2412,12 @@
       "evidencia": "Peça que o aluno preserve a ordem dos elementos e explique o critério.",
       "limite": "Complementar com manipulação de listas não numéricas.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -2609,7 +2621,7 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -2617,6 +2629,12 @@
       "evidencia": "Peça que o aluno marque os elementos selecionados antes de contar.",
       "limite": "Complementar com registro da lista filtrada.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -2658,7 +2676,7 @@
         "Resolva um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -2666,6 +2684,12 @@
       "evidencia": "Peça que o aluno altere um elemento em uma posição indicada.",
       "limite": "Complementar com inserção e remoção de elementos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -3886,7 +3910,7 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -3894,6 +3918,12 @@
       "evidencia": "Registrar comparações até encontrar o máximo.",
       "limite": "Discutir máximos repetidos.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -3936,7 +3966,7 @@
         "Aplique o conceito em um exemplo inédito."
       ]
     ],
-    "habilidadeDescricao": "Representação e manipulação de listas.",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
     "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
     "revisaoDidatica": {
@@ -3944,6 +3974,12 @@
       "evidencia": "Registrar somas parciais e resultado.",
       "limite": "Comparar listas diferentes com a mesma soma.",
       "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "pagina": 28,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "adequacao": "parcial"
     }
   },
   {
@@ -11167,6 +11203,771 @@
       "descricaoConferida": true,
       "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 26, PDF fornecido",
       "pagina": 26,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "lista-buscar",
+    "titulo": "Detetive de listas",
+    "ano": 5,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Encontrar a primeira posição de um valor.",
+    "habilidade": "EF05CO01",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=lista-buscar",
+    "desafios": [
+      {
+        "enunciado": "Em 1, 4, 7, 10, 13 qual a primeira posição de 1?",
+        "resposta": "1",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1"
+      },
+      {
+        "enunciado": "Em 8, 11, 14, 17, 1, 4 qual a primeira posição de 11?",
+        "resposta": "2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2"
+      },
+      {
+        "enunciado": "Em 15, 18, 2, 5, 8, 11, 14 qual a primeira posição de 2?",
+        "resposta": "3",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3"
+      },
+      {
+        "enunciado": "Em 3, 6, 9, 12, 15 qual a primeira posição de 12?",
+        "resposta": "4",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 4"
+      },
+      {
+        "enunciado": "Em 10, 13, 16, 19, 3, 6 qual a primeira posição de 3?",
+        "resposta": "5",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5"
+      },
+      {
+        "enunciado": "Em 17, 1, 4, 7, 10, 13, 16 qual a primeira posição de 13?",
+        "resposta": "6",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 6"
+      },
+      {
+        "enunciado": "Em 5, 8, 11, 14, 17 qual a primeira posição de 8?",
+        "resposta": "2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2"
+      },
+      {
+        "enunciado": "Em 12, 15, 18, 2, 5, 8 qual a primeira posição de 15?",
+        "resposta": "2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2"
+      },
+      {
+        "enunciado": "Em 19, 3, 6, 9, 12, 15, 18 qual a primeira posição de 3?",
+        "resposta": "2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2"
+      },
+      {
+        "enunciado": "Em 7, 10, 13, 16, 19 qual a primeira posição de 19?",
+        "resposta": "5",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5"
+      },
+      {
+        "enunciado": "Em 14, 17, 1, 4, 7, 10 qual a primeira posição de 7?",
+        "resposta": "5",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5"
+      },
+      {
+        "enunciado": "Em 2, 5, 8, 11, 14, 17, 1 qual a primeira posição de 14?",
+        "resposta": "5",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5"
+      },
+      {
+        "enunciado": "Em 9, 12, 15, 18, 2 qual a primeira posição de 15?",
+        "resposta": "3",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3"
+      },
+      {
+        "enunciado": "Em 16, 19, 3, 6, 9, 12 qual a primeira posição de 19?",
+        "resposta": "2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2"
+      },
+      {
+        "enunciado": "Em 4, 7, 10, 13, 16, 19, 3 qual a primeira posição de 4?",
+        "resposta": "1",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1"
+      }
+    ],
+    "guia": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Encontrar a primeira posição de um valor."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar estratégias e criar exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver três listas inéditas e explicar a operação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Encontrar a primeira posição de um valor.",
+      "evidencia": "Resolver três listas inéditas e explicar a operação.",
+      "limite": "Complementar com representação e criação de listas.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+      "criteriosAvaliacao": "Resolver três listas inéditas e explicar a operação.",
+      "acessibilidade": "Teclado, leitura mediada e tempo livre.",
+      "testesFuncionais": "Pendente: testar entrada, erro, avanço e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "pagina": 28,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "lista-inserir",
+    "titulo": "Inserir na lista",
+    "ano": 5,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Inserir um valor em posição determinada.",
+    "habilidade": "EF05CO01",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=lista-inserir",
+    "desafios": [
+      {
+        "enunciado": "Insira 20 na posição 1 da lista 1, 4, 7, 10, 13",
+        "resposta": "20,1,4,7,10,13",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 20,1,4,7,10,13"
+      },
+      {
+        "enunciado": "Insira 21 na posição 2 da lista 8, 11, 14, 17, 1, 4",
+        "resposta": "8,21,11,14,17,1,4",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 8,21,11,14,17,1,4"
+      },
+      {
+        "enunciado": "Insira 22 na posição 3 da lista 15, 18, 2, 5, 8, 11, 14",
+        "resposta": "15,18,22,2,5,8,11,14",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 15,18,22,2,5,8,11,14"
+      },
+      {
+        "enunciado": "Insira 23 na posição 4 da lista 3, 6, 9, 12, 15",
+        "resposta": "3,6,9,23,12,15",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,9,23,12,15"
+      },
+      {
+        "enunciado": "Insira 24 na posição 5 da lista 10, 13, 16, 19, 3, 6",
+        "resposta": "10,13,16,19,24,3,6",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 10,13,16,19,24,3,6"
+      },
+      {
+        "enunciado": "Insira 25 na posição 6 da lista 17, 1, 4, 7, 10, 13, 16",
+        "resposta": "17,1,4,7,10,25,13,16",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 17,1,4,7,10,25,13,16"
+      },
+      {
+        "enunciado": "Insira 26 na posição 2 da lista 5, 8, 11, 14, 17",
+        "resposta": "5,26,8,11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5,26,8,11,14,17"
+      },
+      {
+        "enunciado": "Insira 27 na posição 2 da lista 12, 15, 18, 2, 5, 8",
+        "resposta": "12,27,15,18,2,5,8",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 12,27,15,18,2,5,8"
+      },
+      {
+        "enunciado": "Insira 28 na posição 2 da lista 19, 3, 6, 9, 12, 15, 18",
+        "resposta": "19,28,3,6,9,12,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 19,28,3,6,9,12,15,18"
+      },
+      {
+        "enunciado": "Insira 29 na posição 5 da lista 7, 10, 13, 16, 19",
+        "resposta": "7,10,13,16,29,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 7,10,13,16,29,19"
+      },
+      {
+        "enunciado": "Insira 30 na posição 5 da lista 14, 17, 1, 4, 7, 10",
+        "resposta": "14,17,1,4,30,7,10",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 14,17,1,4,30,7,10"
+      },
+      {
+        "enunciado": "Insira 31 na posição 5 da lista 2, 5, 8, 11, 14, 17, 1",
+        "resposta": "2,5,8,11,31,14,17,1",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2,5,8,11,31,14,17,1"
+      },
+      {
+        "enunciado": "Insira 32 na posição 3 da lista 9, 12, 15, 18, 2",
+        "resposta": "9,12,32,15,18,2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 9,12,32,15,18,2"
+      },
+      {
+        "enunciado": "Insira 33 na posição 2 da lista 16, 19, 3, 6, 9, 12",
+        "resposta": "16,33,19,3,6,9,12",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 16,33,19,3,6,9,12"
+      },
+      {
+        "enunciado": "Insira 34 na posição 1 da lista 4, 7, 10, 13, 16, 19, 3",
+        "resposta": "34,4,7,10,13,16,19,3",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 34,4,7,10,13,16,19,3"
+      }
+    ],
+    "guia": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Inserir um valor em posição determinada."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar estratégias e criar exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver três listas inéditas e explicar a operação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Inserir um valor em posição determinada.",
+      "evidencia": "Resolver três listas inéditas e explicar a operação.",
+      "limite": "Complementar com representação e criação de listas.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+      "criteriosAvaliacao": "Resolver três listas inéditas e explicar a operação.",
+      "acessibilidade": "Teclado, leitura mediada e tempo livre.",
+      "testesFuncionais": "Pendente: testar entrada, erro, avanço e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "pagina": 28,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "lista-remover",
+    "titulo": "Remover da lista",
+    "ano": 5,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Remover um elemento por posição.",
+    "habilidade": "EF05CO01",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=lista-remover",
+    "desafios": [
+      {
+        "enunciado": "Remova a posição 1 da lista 1, 4, 7, 10, 13",
+        "resposta": "4,7,10,13",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 4,7,10,13"
+      },
+      {
+        "enunciado": "Remova a posição 2 da lista 8, 11, 14, 17, 1, 4",
+        "resposta": "8,14,17,1,4",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 8,14,17,1,4"
+      },
+      {
+        "enunciado": "Remova a posição 3 da lista 15, 18, 2, 5, 8, 11, 14",
+        "resposta": "15,18,5,8,11,14",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 15,18,5,8,11,14"
+      },
+      {
+        "enunciado": "Remova a posição 4 da lista 3, 6, 9, 12, 15",
+        "resposta": "3,6,9,15",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,9,15"
+      },
+      {
+        "enunciado": "Remova a posição 5 da lista 10, 13, 16, 19, 3, 6",
+        "resposta": "10,13,16,19,6",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 10,13,16,19,6"
+      },
+      {
+        "enunciado": "Remova a posição 6 da lista 17, 1, 4, 7, 10, 13, 16",
+        "resposta": "17,1,4,7,10,16",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 17,1,4,7,10,16"
+      },
+      {
+        "enunciado": "Remova a posição 2 da lista 5, 8, 11, 14, 17",
+        "resposta": "5,11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5,11,14,17"
+      },
+      {
+        "enunciado": "Remova a posição 2 da lista 12, 15, 18, 2, 5, 8",
+        "resposta": "12,18,2,5,8",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 12,18,2,5,8"
+      },
+      {
+        "enunciado": "Remova a posição 2 da lista 19, 3, 6, 9, 12, 15, 18",
+        "resposta": "19,6,9,12,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 19,6,9,12,15,18"
+      },
+      {
+        "enunciado": "Remova a posição 5 da lista 7, 10, 13, 16, 19",
+        "resposta": "7,10,13,16",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 7,10,13,16"
+      },
+      {
+        "enunciado": "Remova a posição 5 da lista 14, 17, 1, 4, 7, 10",
+        "resposta": "14,17,1,4,10",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 14,17,1,4,10"
+      },
+      {
+        "enunciado": "Remova a posição 5 da lista 2, 5, 8, 11, 14, 17, 1",
+        "resposta": "2,5,8,11,17,1",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2,5,8,11,17,1"
+      },
+      {
+        "enunciado": "Remova a posição 3 da lista 9, 12, 15, 18, 2",
+        "resposta": "9,12,18,2",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 9,12,18,2"
+      },
+      {
+        "enunciado": "Remova a posição 2 da lista 16, 19, 3, 6, 9, 12",
+        "resposta": "16,3,6,9,12",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 16,3,6,9,12"
+      },
+      {
+        "enunciado": "Remova a posição 1 da lista 4, 7, 10, 13, 16, 19, 3",
+        "resposta": "7,10,13,16,19,3",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 7,10,13,16,19,3"
+      }
+    ],
+    "guia": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Remover um elemento por posição."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar estratégias e criar exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver três listas inéditas e explicar a operação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Remover um elemento por posição.",
+      "evidencia": "Resolver três listas inéditas e explicar a operação.",
+      "limite": "Complementar com representação e criação de listas.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+      "criteriosAvaliacao": "Resolver três listas inéditas e explicar a operação.",
+      "acessibilidade": "Teclado, leitura mediada e tempo livre.",
+      "testesFuncionais": "Pendente: testar entrada, erro, avanço e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "pagina": 28,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "lista-ordenar",
+    "titulo": "Organizador de dados",
+    "ano": 5,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Ordenar números em ordem crescente.",
+    "habilidade": "EF05CO01",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=lista-ordenar",
+    "desafios": [
+      {
+        "enunciado": "Ordene: 1, 4, 7, 10, 13",
+        "resposta": "1,4,7,10,13",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1,4,7,10,13"
+      },
+      {
+        "enunciado": "Ordene: 8, 11, 14, 17, 1, 4",
+        "resposta": "1,4,8,11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1,4,8,11,14,17"
+      },
+      {
+        "enunciado": "Ordene: 15, 18, 2, 5, 8, 11, 14",
+        "resposta": "2,5,8,11,14,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2,5,8,11,14,15,18"
+      },
+      {
+        "enunciado": "Ordene: 3, 6, 9, 12, 15",
+        "resposta": "3,6,9,12,15",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,9,12,15"
+      },
+      {
+        "enunciado": "Ordene: 10, 13, 16, 19, 3, 6",
+        "resposta": "3,6,10,13,16,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,10,13,16,19"
+      },
+      {
+        "enunciado": "Ordene: 17, 1, 4, 7, 10, 13, 16",
+        "resposta": "1,4,7,10,13,16,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1,4,7,10,13,16,17"
+      },
+      {
+        "enunciado": "Ordene: 5, 8, 11, 14, 17",
+        "resposta": "5,8,11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 5,8,11,14,17"
+      },
+      {
+        "enunciado": "Ordene: 12, 15, 18, 2, 5, 8",
+        "resposta": "2,5,8,12,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2,5,8,12,15,18"
+      },
+      {
+        "enunciado": "Ordene: 19, 3, 6, 9, 12, 15, 18",
+        "resposta": "3,6,9,12,15,18,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,9,12,15,18,19"
+      },
+      {
+        "enunciado": "Ordene: 7, 10, 13, 16, 19",
+        "resposta": "7,10,13,16,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 7,10,13,16,19"
+      },
+      {
+        "enunciado": "Ordene: 14, 17, 1, 4, 7, 10",
+        "resposta": "1,4,7,10,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1,4,7,10,14,17"
+      },
+      {
+        "enunciado": "Ordene: 2, 5, 8, 11, 14, 17, 1",
+        "resposta": "1,2,5,8,11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 1,2,5,8,11,14,17"
+      },
+      {
+        "enunciado": "Ordene: 9, 12, 15, 18, 2",
+        "resposta": "2,9,12,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 2,9,12,15,18"
+      },
+      {
+        "enunciado": "Ordene: 16, 19, 3, 6, 9, 12",
+        "resposta": "3,6,9,12,16,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,6,9,12,16,19"
+      },
+      {
+        "enunciado": "Ordene: 4, 7, 10, 13, 16, 19, 3",
+        "resposta": "3,4,7,10,13,16,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 3,4,7,10,13,16,19"
+      }
+    ],
+    "guia": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Ordenar números em ordem crescente."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar estratégias e criar exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver três listas inéditas e explicar a operação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Ordenar números em ordem crescente.",
+      "evidencia": "Resolver três listas inéditas e explicar a operação.",
+      "limite": "Complementar com representação e criação de listas.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+      "criteriosAvaliacao": "Resolver três listas inéditas e explicar a operação.",
+      "acessibilidade": "Teclado, leitura mediada e tempo livre.",
+      "testesFuncionais": "Pendente: testar entrada, erro, avanço e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "pagina": 28,
+      "adequacao": "parcial"
+    }
+  },
+  {
+    "id": "lista-filtrar-limite",
+    "titulo": "Filtro de dados",
+    "ano": 5,
+    "eixo": "Pensamento Computacional",
+    "descricao": "Selecionar valores maiores que um limite.",
+    "habilidade": "EF05CO01",
+    "habilidadeDescricao": "Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações.",
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "habilidadeStatus": "Alinhamento parcial; complementação em aula.",
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "representacao",
+    "url": "representacao.html?id=lista-filtrar-limite",
+    "desafios": [
+      {
+        "enunciado": "Mantenha somente valores maiores que 1: 1, 4, 7, 10, 13",
+        "resposta": "4,7,10,13",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 4,7,10,13"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 11: 8, 11, 14, 17, 1, 4",
+        "resposta": "14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 14,17"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 2: 15, 18, 2, 5, 8, 11, 14",
+        "resposta": "15,18,5,8,11,14",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 15,18,5,8,11,14"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 12: 3, 6, 9, 12, 15",
+        "resposta": "15",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 15"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 3: 10, 13, 16, 19, 3, 6",
+        "resposta": "10,13,16,19,6",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 10,13,16,19,6"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 13: 17, 1, 4, 7, 10, 13, 16",
+        "resposta": "17,16",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 17,16"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 8: 5, 8, 11, 14, 17",
+        "resposta": "11,14,17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 11,14,17"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 15: 12, 15, 18, 2, 5, 8",
+        "resposta": "18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 18"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 3: 19, 3, 6, 9, 12, 15, 18",
+        "resposta": "19,6,9,12,15,18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 19,6,9,12,15,18"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 19: 7, 10, 13, 16, 19",
+        "resposta": "vazia",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: vazia"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 7: 14, 17, 1, 4, 7, 10",
+        "resposta": "14,17,10",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 14,17,10"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 14: 2, 5, 8, 11, 14, 17, 1",
+        "resposta": "17",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 17"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 15: 9, 12, 15, 18, 2",
+        "resposta": "18",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 18"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 19: 16, 19, 3, 6, 9, 12",
+        "resposta": "vazia",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: vazia"
+      },
+      {
+        "enunciado": "Mantenha somente valores maiores que 4: 4, 7, 10, 13, 16, 19, 3",
+        "resposta": "7,10,13,16,19",
+        "dica": "Posições começam em 1. Separe números por vírgulas sem espaços; para lista vazia escreva vazia.",
+        "explicacao": "Resultado: 7,10,13,16,19"
+      }
+    ],
+    "guia": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Selecionar valores maiores que um limite."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolver desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Comparar estratégias e criar exemplos."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolver três listas inéditas e explicar a operação."
+      ]
+    ],
+    "revisaoDidatica": {
+      "objetivo": "Selecionar valores maiores que um limite.",
+      "evidencia": "Resolver três listas inéditas e explicar a operação.",
+      "limite": "Complementar com representação e criação de listas.",
+      "status": "Aplicação em turma pendente."
+    },
+    "materialProfessor": {
+      "atividadeDesplugada": "Representar uma lista de compras, fila ou inventário com cartões numerados; executar a operação e explicar a mudança.",
+      "criteriosAvaliacao": "Resolver três listas inéditas e explicar a operação.",
+      "acessibilidade": "Teclado, leitura mediada e tempo livre.",
+      "testesFuncionais": "Pendente: testar entrada, erro, avanço e reinício."
+    },
+    "auditoriaCurricular": {
+      "descricaoConferida": true,
+      "fonteConsultada": "Anexo ao Parecer CNE/CEB nº 2/2022, página 28, PDF fornecido",
+      "pagina": 28,
       "adequacao": "parcial"
     }
   }
