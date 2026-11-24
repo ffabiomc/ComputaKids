@@ -1095,5 +1095,85 @@
         "Explique um exemplo novo."
       ]
     ]
+  },
+  {
+    "id": "pilhas-lab",
+    "ano": 7,
+    "titulo": "Torre de dados",
+    "descricao": "Manipule uma pilha usando a regra último a entrar, primeiro a sair.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "estruturas",
+    "url": "estruturas.html?id=pilhas-lab",
+    "guia": "Simule inserções e remoções com cartões. Peça que os alunos antecipem a ordem de saída.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Manipule uma pilha usando a regra último a entrar, primeiro a sair."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Simule a estrutura com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare pilhas e filas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Preveja a saída de uma sequência inédita."
+      ]
+    ]
+  },
+  {
+    "id": "filas-lab",
+    "ano": 8,
+    "titulo": "Central de atendimento",
+    "descricao": "Organize uma fila usando a regra primeiro a entrar, primeiro a sair.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "estruturas",
+    "url": "estruturas.html?id=filas-lab",
+    "guia": "Simule inserções e remoções com cartões. Peça que os alunos antecipem a ordem de saída.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Organize uma fila usando a regra primeiro a entrar, primeiro a sair."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Simule a estrutura com cartões."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva os desafios."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare pilhas e filas."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Preveja a saída de uma sequência inédita."
+      ]
+    ]
   }
 ]
