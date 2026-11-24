@@ -1319,6 +1319,78 @@
         "Colocar água",
         "Adicionar suco concentrado",
         "Misturar"
+      ],
+      [
+        "Lavar morangos",
+        "Retirar folhas",
+        "Colocar na tigela",
+        "Servir"
+      ],
+      [
+        "Pegar prato",
+        "Colocar pão",
+        "Espalhar geleia",
+        "Servir"
+      ],
+      [
+        "Lavar maçã",
+        "Pedir ajuda para cortar",
+        "Retirar sementes",
+        "Servir"
+      ],
+      [
+        "Pegar tigela",
+        "Colocar iogurte",
+        "Adicionar aveia",
+        "Misturar"
+      ],
+      [
+        "Lavar uvas",
+        "Retirar do cacho",
+        "Colocar no pote",
+        "Tampar pote"
+      ],
+      [
+        "Pegar copo",
+        "Colocar leite ou bebida adequada",
+        "Adicionar cacau",
+        "Misturar"
+      ],
+      [
+        "Lavar pera",
+        "Pedir ajuda para cortar",
+        "Colocar pedaços no prato",
+        "Servir"
+      ],
+      [
+        "Abrir pote de iogurte",
+        "Colocar na tigela",
+        "Adicionar banana cortada",
+        "Misturar"
+      ],
+      [
+        "Separar ingredientes",
+        "Montar sanduíche",
+        "Colocar no prato",
+        "Guardar ingredientes"
+      ],
+      [
+        "Lavar frutas",
+        "Pedir ajuda para cortar",
+        "Misturar na tigela",
+        "Servir"
+      ],
+      [
+        "Pegar garrafa limpa",
+        "Encher com água",
+        "Fechar garrafa",
+        "Guardar na mochila"
+      ],
+      [
+        "Separar prato limpo",
+        "Colocar lanche",
+        "Comer lanche",
+        "Levar prato para lavar"
       ]
     ],
     "eixo": "Pensamento Computacional",
@@ -1379,6 +1451,83 @@
         "Colocar caderno",
         "Fechar mochila",
         "Levar mochila"
+      ],
+      [
+        "Abrir torneira",
+        "Molhar mãos",
+        "Passar sabonete",
+        "Esfregar mãos",
+        "Enxaguar",
+        "Secar mãos"
+      ],
+      [
+        "Pegar livro",
+        "Abrir livro",
+        "Ler página",
+        "Marcar página",
+        "Fechar livro"
+      ],
+      [
+        "Pegar lápis",
+        "Escrever nome",
+        "Conferir nome",
+        "Guardar lápis"
+      ],
+      [
+        "Abrir caixa",
+        "Retirar peças",
+        "Montar quebra-cabeça",
+        "Desmontar",
+        "Guardar peças"
+      ],
+      [
+        "Pegar sapato",
+        "Calçar sapato",
+        "Ajustar cadarço",
+        "Amarrar cadarço"
+      ],
+      [
+        "Separar uniforme",
+        "Vestir uniforme",
+        "Ajustar roupa",
+        "Guardar roupa anterior"
+      ],
+      [
+        "Pegar folha",
+        "Dobrar folha",
+        "Marcar dobra",
+        "Abrir folha"
+      ],
+      [
+        "Abrir estojo",
+        "Retirar lápis",
+        "Usar lápis",
+        "Devolver lápis",
+        "Fechar estojo"
+      ],
+      [
+        "Pegar brinquedo",
+        "Brincar",
+        "Recolher peças",
+        "Guardar brinquedo"
+      ],
+      [
+        "Abrir agenda",
+        "Localizar data",
+        "Anotar tarefa",
+        "Fechar agenda"
+      ],
+      [
+        "Pegar envelope",
+        "Inserir cartão",
+        "Fechar envelope",
+        "Entregar envelope"
+      ],
+      [
+        "Separar livros",
+        "Colocar na estante",
+        "Alinhar livros",
+        "Conferir organização"
       ]
     ],
     "eixo": "Pensamento Computacional",
@@ -1443,6 +1592,86 @@
         "Encher regador",
         "Regar planta",
         "Guardar regador"
+      ],
+      [
+        "Pegar vaso vazio",
+        "Verificar furos",
+        "Colocar terra",
+        "Plantar semente",
+        "Regar"
+      ],
+      [
+        "Pegar feijão",
+        "Umedecer algodão",
+        "Colocar algodão no copo",
+        "Colocar feijão",
+        "Observar crescimento"
+      ],
+      [
+        "Escolher muda",
+        "Preparar canteiro",
+        "Abrir espaço",
+        "Inserir muda",
+        "Cobrir raízes",
+        "Regar"
+      ],
+      [
+        "Pegar etiqueta",
+        "Escrever nome da planta",
+        "Fixar etiqueta",
+        "Conferir identificação"
+      ],
+      [
+        "Observar folhas caídas",
+        "Recolher folhas",
+        "Colocar na composteira",
+        "Lavar mãos"
+      ],
+      [
+        "Observar vaso pequeno",
+        "Preparar vaso maior",
+        "Retirar muda com ajuda",
+        "Transferir muda",
+        "Completar com terra",
+        "Regar"
+      ],
+      [
+        "Pegar régua",
+        "Medir planta",
+        "Anotar altura",
+        "Guardar régua"
+      ],
+      [
+        "Escolher sementes",
+        "Separar por tipo",
+        "Colocar em envelopes",
+        "Identificar envelopes"
+      ],
+      [
+        "Observar fruto maduro",
+        "Pedir ajuda para colher",
+        "Lavar fruto",
+        "Servir"
+      ],
+      [
+        "Pegar regador vazio",
+        "Encher regador",
+        "Regar terra",
+        "Esvaziar sobra",
+        "Guardar regador"
+      ],
+      [
+        "Observar semente germinada",
+        "Desenhar broto",
+        "Anotar data",
+        "Guardar registro"
+      ],
+      [
+        "Preparar bandeja",
+        "Colocar substrato",
+        "Distribuir sementes",
+        "Cobrir levemente",
+        "Umedecer"
       ]
     ],
     "eixo": "Pensamento Computacional",
