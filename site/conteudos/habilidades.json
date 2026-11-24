@@ -2,8 +2,9 @@
   "EF15CO02": {
     "codigo": "EF15CO02",
     "eixo": "Pensamento Computacional",
-    "resumo": "Construir e simular algoritmos com sequências, condições e repetições.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Construir e simular algoritmos, de forma independente ou em colaboração, que resolvam problemas simples e do cotidiano com uso de sequências, seleções condicionais e repetições de instruções.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 34
   },
   "EI03CO01": {
     "codigo": "EI03CO01",
@@ -14,8 +15,9 @@
   "EF15CO01": {
     "codigo": "EF15CO01",
     "eixo": "Pensamento Computacional",
-    "resumo": "Reconhecer representações estruturadas e não estruturadas da informação.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Identificar as principais formas de organizar e representar a informação de maneira estruturada (matrizes, registros, listas e grafos) ou não estruturada (números, palavras, valores verdade).",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 34
   },
   "EI03CO06": {
     "codigo": "EI03CO06",
@@ -128,8 +130,9 @@
   "EF15CO03": {
     "codigo": "EF15CO03",
     "eixo": "Pensamento Computacional",
-    "resumo": "Realizar operações lógicas de negação, conjunção e disjunção.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 34
   },
   "EF01CO01": {
     "codigo": "EF01CO01",
@@ -176,8 +179,9 @@
   "EF15CO04": {
     "codigo": "EF15CO04",
     "eixo": "Pensamento Computacional",
-    "resumo": "Dividir problemas em partes e combinar suas soluções.",
-    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "resumo": "Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções.",
+    "fonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "pagina": 34
   },
   "EF03CO03": {
     "codigo": "EF03CO03",
