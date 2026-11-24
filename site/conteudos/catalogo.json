@@ -2193,5 +2193,205 @@
         "Resolva um exemplo inédito."
       ]
     ]
+  },
+  {
+    "id": "padrao-lacuna",
+    "ano": 1,
+    "titulo": "Trenzinho dos padrões",
+    "descricao": "Complete uma sequência com uma peça ausente.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "oficina",
+    "url": "oficina.html?modo=pattern",
+    "guia": "Apresente um exemplo concreto com cartões ou peças. Peça que a criança explique sua estratégia e resolva um exemplo diferente sem ajuda.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Complete uma sequência com uma peça ausente."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões e objetos para representar o desafio."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases no ritmo da criança."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e corrija erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo desafio sem ajuda."
+      ]
+    ]
+  },
+  {
+    "id": "pares-organizar",
+    "ano": 1,
+    "titulo": "Cestas de figuras",
+    "descricao": "Separe figuras em grupos pela forma.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "oficina",
+    "url": "oficina.html?modo=group",
+    "guia": "Apresente um exemplo concreto com cartões ou peças. Peça que a criança explique sua estratégia e resolva um exemplo diferente sem ajuda.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Separe figuras em grupos pela forma."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões e objetos para representar o desafio."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases no ritmo da criança."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e corrija erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo desafio sem ajuda."
+      ]
+    ]
+  },
+  {
+    "id": "comandos-caminho",
+    "ano": 2,
+    "titulo": "Correio de comandos",
+    "descricao": "Construa uma sequência de movimentos até o destino.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "oficina",
+    "url": "oficina.html?modo=route",
+    "guia": "Apresente um exemplo concreto com cartões ou peças. Peça que a criança explique sua estratégia e resolva um exemplo diferente sem ajuda.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Construa uma sequência de movimentos até o destino."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões e objetos para representar o desafio."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases no ritmo da criança."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e corrija erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo desafio sem ajuda."
+      ]
+    ]
+  },
+  {
+    "id": "comandos-reparo",
+    "ano": 2,
+    "titulo": "Oficina de robôs",
+    "descricao": "Corrija um comando errado em um percurso.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "oficina",
+    "url": "oficina.html?modo=repair",
+    "guia": "Apresente um exemplo concreto com cartões ou peças. Peça que a criança explique sua estratégia e resolva um exemplo diferente sem ajuda.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Corrija um comando errado em um percurso."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões e objetos para representar o desafio."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases no ritmo da criança."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e corrija erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo desafio sem ajuda."
+      ]
+    ]
+  },
+  {
+    "id": "dados-tabela",
+    "ano": 2,
+    "titulo": "Feira de dados",
+    "descricao": "Conte figuras e registre quantidades em uma tabela.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "status": "piloto",
+    "duracao": 15,
+    "motor": "oficina",
+    "url": "oficina.html?modo=table",
+    "guia": "Apresente um exemplo concreto com cartões ou peças. Peça que a criança explique sua estratégia e resolva um exemplo diferente sem ajuda.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Conte figuras e registre quantidades em uma tabela."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Use cartões e objetos para representar o desafio."
+      ],
+      [
+        "Jogo",
+        15,
+        "Resolva as fases no ritmo da criança."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare estratégias e corrija erros."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Resolva um novo desafio sem ajuda."
+      ]
+    ]
   }
 ]
