@@ -1,12 +1,12 @@
 <?php
 declare(strict_types=1);
-use ComputaKids\{Database,Security,Auth,Teachers,Classroom};
+use ComputaKids\{Database,Security,Auth,Teachers,Classroom,AccessPolicy};
 header('Content-Type: text/html; charset=UTF-8');
 header('Cache-Control: no-store');
 $root=dirname(__DIR__);
 if(!is_file($root.'/config/local.php')){header('Location: install.php');exit;}
 if(empty($_SERVER['HTTPS'])||$_SERVER['HTTPS']==='off'){http_response_code(403);exit('HTTPS obrigatório.');}
-foreach(['Database','Security','Auth','Teachers','Classroom'] as $class)require $root.'/app/'.$class.'.php';
+foreach(['Database','Security','Auth','Teachers','Classroom','AccessPolicy'] as $class)require $root.'/app/'.$class.'.php';
 Security::start();
 try{$db=Database::connect(require $root.'/config/local.php');}catch(Throwable $e){http_response_code(503);exit('Serviço temporariamente indisponível.');}
 $auth=new Auth($db);$u=$auth->current();$error='';
@@ -29,6 +29,7 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
   }elseif($u&&$u['papel']==='professor'&&!$u['trocar_senha']){
    $classroom=new Classroom($db,$u);
    switch($action){
+    case 'access_save': (new AccessPolicy($db,$u))->save((int)($_POST['id']??0),isset($_POST['individual']),isset($_POST['shared']),isset($_POST['remote']),(string)($_POST['shared_password']??''));break;
     case 'class_save': $classroom->saveClass((int)($_POST['id']??0),trim((string)($_POST['name']??'')),(int)($_POST['grade']??-1),(int)($_POST['year']??0));break;
     case 'class_archive':case 'class_restore':$classroom->archive((int)($_POST['id']??0),$action==='class_archive');break;
     case 'student_create':$classroom->createStudent(trim((string)($_POST['name']??'')),trim((string)($_POST['login']??'')),(string)($_POST['password']??''),(int)($_POST['class']??0));break;
