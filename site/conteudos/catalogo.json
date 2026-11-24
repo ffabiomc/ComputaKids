@@ -39,7 +39,13 @@
     ],
     "habilidadeDescricao": "Construir e simular algoritmos com sequências, condições e repetições.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Antecipar e executar uma sequência de movimentos.",
+      "evidencia": "Solicite que o aluno registre o percurso antes de executar e explique uma correção.",
+      "limite": "A atividade trabalha sequências; condições e repetições exigem complementação.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "padroes",
@@ -1927,7 +1933,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Representar desenhos em linhas e colunas.",
+      "evidencia": "Peça que o aluno indique as coordenadas de três células pintadas.",
+      "limite": "A cópia visual deve ser complementada pela leitura explícita de coordenadas.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "matriz-espelho",
@@ -1971,7 +1983,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Relacionar posições de origem e destino em uma matriz.",
+      "evidencia": "Peça que o aluno explique a transformação de uma coluna na coluna refletida.",
+      "limite": "A reflexão é uma aplicação de manipulação de matrizes.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "matriz-giro",
@@ -2015,7 +2033,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de matrizes por coordenadas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Relacionar coordenadas antes e depois de uma rotação.",
+      "evidencia": "Peça que o aluno registre três pares de coordenadas antes e depois do giro.",
+      "limite": "A rotação é uma aplicação de manipulação de matrizes.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "listas-filtro",
@@ -2059,7 +2083,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de listas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Selecionar elementos que satisfazem um critério.",
+      "evidencia": "Solicite que o aluno explique por que cada elemento foi incluído ou excluído.",
+      "limite": "Complementar com criação de uma lista e formulação de outro critério.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "listas-par",
@@ -2103,7 +2133,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de listas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Selecionar números pares de uma lista.",
+      "evidencia": "Peça que o aluno preserve a ordem dos elementos e explique o critério.",
+      "limite": "Complementar com manipulação de listas não numéricas.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "logica-e",
@@ -2146,7 +2182,13 @@
     ],
     "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar quando duas condições são simultaneamente verdadeiras.",
+      "evidencia": "Apresente quatro combinações de verdadeiro e falso e peça justificativas.",
+      "limite": "Trabalha conjunção; complemente com OU e NÃO.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "logica-ou",
@@ -2189,7 +2231,13 @@
     ],
     "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar quando pelo menos uma condição é verdadeira.",
+      "evidencia": "Peça exemplos com nenhuma, uma e duas condições verdadeiras.",
+      "limite": "Trabalha disjunção; complemente com E e NÃO.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "logica-nao",
@@ -2232,7 +2280,13 @@
     ],
     "habilidadeDescricao": "Realizar operações lógicas de negação, conjunção e disjunção.",
     "habilidadeStatus": "Alinhamento parcial sugerido; revisão pedagógica pendente.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar a negação de uma condição.",
+      "evidencia": "Peça ao aluno que formule uma afirmação e sua negação.",
+      "limite": "Trabalha negação; complemente com E e OU.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "listas-contagem",
@@ -2275,7 +2329,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de listas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Contar elementos que satisfazem uma condição.",
+      "evidencia": "Peça que o aluno marque os elementos selecionados antes de contar.",
+      "limite": "Complementar com registro da lista filtrada.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "listas-posicao",
@@ -2318,7 +2378,13 @@
     ],
     "habilidadeDescricao": "Representação e manipulação de listas.",
     "habilidadeStatus": "Alinhamento parcial sugerido; requer revisão pedagógica.",
-    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf"
+    "habilidadeFonte": "https://basenacionalcomum.mec.gov.br/images/historico/anexo_parecer_cneceb_n_2_2022_bncc_computacao.pdf",
+    "revisaoDidatica": {
+      "objetivo": "Identificar elementos por posição.",
+      "evidencia": "Peça que o aluno altere um elemento em uma posição indicada.",
+      "limite": "Complementar com inserção e remoção de elementos.",
+      "status": "Orientação didática revisada; validação curricular oficial e aplicação em turma pendentes."
+    }
   },
   {
     "id": "padrao-lacuna",
