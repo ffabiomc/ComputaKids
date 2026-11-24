@@ -547,5 +547,85 @@
         "Resolva um exemplo novo e justifique."
       ]
     ]
+  },
+  {
+    "id": "robo-blocos",
+    "ano": 3,
+    "titulo": "Robô programável",
+    "descricao": "Programe movimentos usando blocos de comandos.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "blocos",
+    "url": "blocos.html?id=robo-blocos",
+    "guia": "Represente os comandos com cartões e execute o programa passo a passo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Programe movimentos usando blocos de comandos."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões de comandos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Construa e teste programas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare soluções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Crie um programa para outro percurso."
+      ]
+    ]
+  },
+  {
+    "id": "robo-repeticoes",
+    "ano": 4,
+    "titulo": "Fábrica de robôs",
+    "descricao": "Use blocos de repetição para reduzir o tamanho do programa.",
+    "eixo": "Pensamento Computacional",
+    "habilidade": null,
+    "duracao": 15,
+    "status": "piloto",
+    "motor": "blocos",
+    "url": "blocos.html?id=robo-repeticoes",
+    "guia": "Represente os comandos com cartões e execute o programa passo a passo.",
+    "plano": [
+      [
+        "Introdução",
+        5,
+        "Use blocos de repetição para reduzir o tamanho do programa."
+      ],
+      [
+        "Desplugada",
+        10,
+        "Organize cartões de comandos."
+      ],
+      [
+        "Jogo",
+        15,
+        "Construa e teste programas."
+      ],
+      [
+        "Discussão",
+        15,
+        "Compare soluções."
+      ],
+      [
+        "Avaliação",
+        5,
+        "Crie um programa para outro percurso."
+      ]
+    ]
   }
 ]
